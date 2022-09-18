@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OrigamiSiege.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EB834C95-1C8C-4013-8918-CCB971650AED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OrigamiSiege.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OrigamiSiegeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7177DE4C-B9E1-4CAF-8167-A98B903911CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OrigamiSiege">
+      <UniqueIdentifier>{458DB5E2-B6C6-45EE-ADAD-D222E3C1F4AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OrigamiSiege\OrigamiSiege.Build.cs">
+      <Filter>Source\OrigamiSiege</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OrigamiSiege\OrigamiSiege.cpp">
+      <Filter>Source\OrigamiSiege</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OrigamiSiege\OrigamiSiege.h">
+      <Filter>Source\OrigamiSiege</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OrigamiSiege\Test.cpp">
+      <Filter>Source\OrigamiSiege</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OrigamiSiege\Test.h">
+      <Filter>Source\OrigamiSiege</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

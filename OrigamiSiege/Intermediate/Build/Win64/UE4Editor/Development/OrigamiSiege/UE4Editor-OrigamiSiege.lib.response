@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OrigamiSiege.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\OrigamiSiegeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\OrigamiSiege.cpp.obj"
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\Test.cpp.obj"
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\OrigamiSiege.init.gen.cpp.obj"
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\Test.gen.cpp.obj"
+"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\Default.rc2.res"
+/OUT:"E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\UE4Editor-OrigamiSiege.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Uni\\Origami-Siege\\OrigamiSiege\\Source\\OrigamiSiege\\OrigamiSiege.Build.cs",
+		"E:\\Uni\\Origami-Siege\\OrigamiSiege\\Source\\OrigamiSiege.Target.cs",
+		"E:\\Uni\\Origami-Siege\\OrigamiSiege\\Source\\OrigamiSiegeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
