@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\uni\\origami-siege\\origamisiege 5.0\\source\\origamisiege\\origamisiege.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uni\\origami-siege\\origamisiege 5.0\\intermediate\\build\\win64\\origamisiegeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\uni\\origami-siege\\origamisiege 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\origamisiege\\definitions.origamisiege.h",
+            "e:\\uni\\origami-siege\\origamisiege 5.0\\source\\origamisiege\\origamisiege.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

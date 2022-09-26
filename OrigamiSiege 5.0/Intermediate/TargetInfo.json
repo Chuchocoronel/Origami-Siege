@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OrigamiSiege",
+			"Path": "E:\\Uni\\Origami-Siege\\OrigamiSiege 5.0\\Source\\OrigamiSiege.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OrigamiSiegeEditor",
+			"Path": "E:\\Uni\\Origami-Siege\\OrigamiSiege 5.0\\Source\\OrigamiSiegeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
