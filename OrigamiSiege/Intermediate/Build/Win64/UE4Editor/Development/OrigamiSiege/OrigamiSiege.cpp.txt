@@ -1,2 +1,0 @@
-E:\Uni\Origami-Siege\OrigamiSiege\Intermediate\Build\Win64\UE4Editor\Development\OrigamiSiege\Definitions.OrigamiSiege.h
-E:\Uni\Origami-Siege\OrigamiSiege\Source\OrigamiSiege\OrigamiSiege.h
