@@ -1,0 +1,349 @@
+
+Guardian_Idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-animation_00
+  rotate: false
+  xy: 0, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_01
+  rotate: false
+  xy: 265, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_02
+  rotate: false
+  xy: 530, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_03
+  rotate: false
+  xy: 795, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_04
+  rotate: false
+  xy: 1060, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_05
+  rotate: false
+  xy: 1325, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_06
+  rotate: false
+  xy: 1590, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_07
+  rotate: false
+  xy: 0, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_08
+  rotate: false
+  xy: 265, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_09
+  rotate: false
+  xy: 530, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_10
+  rotate: false
+  xy: 795, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_11
+  rotate: false
+  xy: 1060, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_12
+  rotate: false
+  xy: 1325, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_13
+  rotate: false
+  xy: 1590, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_14
+  rotate: false
+  xy: 0, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_15
+  rotate: false
+  xy: 265, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_16
+  rotate: false
+  xy: 530, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_17
+  rotate: false
+  xy: 795, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_18
+  rotate: false
+  xy: 1060, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_19
+  rotate: false
+  xy: 1325, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_20
+  rotate: false
+  xy: 1590, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_21
+  rotate: false
+  xy: 0, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_22
+  rotate: false
+  xy: 265, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_23
+  rotate: false
+  xy: 530, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_24
+  rotate: false
+  xy: 795, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_25
+  rotate: false
+  xy: 1060, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_26
+  rotate: false
+  xy: 1325, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_27
+  rotate: false
+  xy: 1590, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_28
+  rotate: false
+  xy: 0, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_29
+  rotate: false
+  xy: 265, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_30
+  rotate: false
+  xy: 530, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_31
+  rotate: false
+  xy: 795, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_32
+  rotate: false
+  xy: 1060, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_33
+  rotate: false
+  xy: 1325, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_34
+  rotate: false
+  xy: 1590, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_35
+  rotate: false
+  xy: 0, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_36
+  rotate: false
+  xy: 265, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_37
+  rotate: false
+  xy: 530, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_38
+  rotate: false
+  xy: 795, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_39
+  rotate: false
+  xy: 1060, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_40
+  rotate: false
+  xy: 1325, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_41
+  rotate: false
+  xy: 1590, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_42
+  rotate: false
+  xy: 0, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_43
+  rotate: false
+  xy: 265, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_44
+  rotate: false
+  xy: 530, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_45
+  rotate: false
+  xy: 795, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_46
+  rotate: false
+  xy: 1060, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_47
+  rotate: false
+  xy: 1325, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-animation_48
+  rotate: false
+  xy: 1590, 1560
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Bombman_Attack.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-Attack_00
+  rotate: false
+  xy: 0, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_01
+  rotate: false
+  xy: 265, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_02
+  rotate: false
+  xy: 530, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_03
+  rotate: false
+  xy: 795, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_04
+  rotate: false
+  xy: 1060, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_05
+  rotate: false
+  xy: 1325, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_06
+  rotate: false
+  xy: 1590, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_07
+  rotate: false
+  xy: 0, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_08
+  rotate: false
+  xy: 265, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_09
+  rotate: false
+  xy: 530, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_10
+  rotate: false
+  xy: 795, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_11
+  rotate: false
+  xy: 1060, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_12
+  rotate: false
+  xy: 1325, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_13
+  rotate: false
+  xy: 1590, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_14
+  rotate: false
+  xy: 0, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_15
+  rotate: false
+  xy: 265, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_16
+  rotate: false
+  xy: 530, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_17
+  rotate: false
+  xy: 795, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_18
+  rotate: false
+  xy: 1060, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Attack_19
+  rotate: false
+  xy: 1325, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+Archer_Walk_Attack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-Move_Attack_00
+  rotate: false
+  xy: 0, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_01
+  rotate: false
+  xy: 265, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_02
+  rotate: false
+  xy: 530, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_03
+  rotate: false
+  xy: 795, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_04
+  rotate: false
+  xy: 1060, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_05
+  rotate: false
+  xy: 1325, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_06
+  rotate: false
+  xy: 1590, 0
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_07
+  rotate: false
+  xy: 0, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_08
+  rotate: false
+  xy: 265, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_09
+  rotate: false
+  xy: 530, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_10
+  rotate: false
+  xy: 795, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_11
+  rotate: false
+  xy: 1060, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_12
+  rotate: false
+  xy: 1325, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_13
+  rotate: false
+  xy: 1590, 260
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_14
+  rotate: false
+  xy: 0, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_15
+  rotate: false
+  xy: 265, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_16
+  rotate: false
+  xy: 530, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_17
+  rotate: false
+  xy: 795, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_18
+  rotate: false
+  xy: 1060, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_19
+  rotate: false
+  xy: 1325, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_20
+  rotate: false
+  xy: 1590, 520
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_21
+  rotate: false
+  xy: 0, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_22
+  rotate: false
+  xy: 265, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_23
+  rotate: false
+  xy: 530, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_24
+  rotate: false
+  xy: 795, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_25
+  rotate: false
+  xy: 1060, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_26
+  rotate: false
+  xy: 1325, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_27
+  rotate: false
+  xy: 1590, 780
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_28
+  rotate: false
+  xy: 0, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_29
+  rotate: false
+  xy: 265, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_30
+  rotate: false
+  xy: 530, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_31
+  rotate: false
+  xy: 795, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_32
+  rotate: false
+  xy: 1060, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_33
+  rotate: false
+  xy: 1325, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_34
+  rotate: false
+  xy: 1590, 1040
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_35
+  rotate: false
+  xy: 0, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_36
+  rotate: false
+  xy: 265, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_37
+  rotate: false
+  xy: 530, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_38
+  rotate: false
+  xy: 795, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+skeleton-Move_Attack_39
+  rotate: false
+  xy: 1060, 1300
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
