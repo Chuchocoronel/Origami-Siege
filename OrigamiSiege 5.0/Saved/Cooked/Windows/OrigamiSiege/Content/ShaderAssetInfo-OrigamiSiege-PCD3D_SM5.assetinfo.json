@@ -59,7 +59,10 @@
 		{
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Models/Enemies/Knife/Grab",
+				"/Game/Models/Enemies/Knife/Edge",
+				"/Game/Models/Enemies/Knife/Cutter"
 			]
 		},
 		{
@@ -81,19 +84,42 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
+			"Assets": [
+				"/Game/Models/Enemies/Wheel/Spike"
+			]
+		},
+		{
+			"ShaderMapHash": "B57A8A40A1671E912D00CBC8C68FC410582B6F90",
+			"Assets": [
+				"/Game/Models/Enemies/Throw/Shoot"
+			]
+		},
+		{
+			"ShaderMapHash": "53C8B4C2335F7B59462AE1D37DCDA045F0241527",
+			"Assets": [
+				"/Game/Models/Enemies/Candle/Wax",
+				"/Game/Models/Enemies/Candle/Candle_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/Models/Enemies/Pupil",
+				"/Game/Models/Enemies/Iris",
+				"/Game/Models/Enemies/Hit",
+				"/Game/Models/Enemies/Eyelid",
+				"/Game/Models/Enemies/Eye"
+			]
+		},
+		{
 			"ShaderMapHash": "E5606908CB30F1DA7C1DBED7A9E5894CD604C3BA",
 			"Assets": [
 				"/Game/Materials/HoverMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "D774118465E992C299A2E1B35CF61B5692C104C4",
-			"Assets": [
-				"/Game/Materials/HitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5059FF21ACD6D78394CBC53615B08841FCFC65A2",
+			"ShaderMapHash": "7DB932717F449DDF1FA272CFE35E81D0BC9EAD99",
 			"Assets": [
 				"/Game/Materials/DefaultMaterial"
 			]
@@ -227,6 +253,42 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6CB817EAB2F1AD97D334A2F1465C63F56FADC2BE",
+			"Assets": [
+				"/Game/Models/Map/PaperWall"
+			]
+		},
+		{
+			"ShaderMapHash": "454C6097E8A1691E90F16D826766C8CB95E53520",
+			"Assets": [
+				"/Game/Models/Enemies/Basic/Body_2"
+			]
+		},
+		{
+			"ShaderMapHash": "ACE1F46140AF16D4FE378A9ADC9AA61E9630CF92",
+			"Assets": [
+				"/Game/Models/Enemies/Wheel/Body"
+			]
+		},
+		{
+			"ShaderMapHash": "9A211DE80BB9B3D82BE0F82B9910212A7D351CF4",
+			"Assets": [
+				"/Game/Models/Enemies/Throw/Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "3CBC9030F2D4AD90ABDD2AAA7A0EAB384B70C93A",
+			"Assets": [
+				"/Game/Models/Enemies/Throw/ShootWood"
+			]
+		},
+		{
+			"ShaderMapHash": "26AE48EAFA190F1797C40EA56A925B0FD4480161",
+			"Assets": [
+				"/Game/Models/Enemies/Basic/Water"
+			]
+		},
+		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -245,15 +307,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4A4F03A2C4B413589AFCBC7A767878963AF4D88A",
+			"Assets": [
+				"/Game/Models/Enemies/Candle/Fire_Candle"
+			]
+		},
+		{
 			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
+			"ShaderMapHash": "439A66C6B9F32DDD9264E3816A54563F2954B8F4",
+			"Assets": [
+				"/Paper2D/DefaultLitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A7D4DF55A5D7D3AA7E66D1E3DB4A4F09FC5F888",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
 			]
 		},
 		{

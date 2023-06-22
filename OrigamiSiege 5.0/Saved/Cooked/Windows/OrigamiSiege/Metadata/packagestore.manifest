@@ -89,8 +89,24 @@
 			"ChunkId": "c1ceadea19a929af00000001"
 		},
 		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
 			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
 			"ChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
 		},
 		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
@@ -245,22 +261,6 @@
 			"ChunkId": "27d3dbbd9cb5875a00000002"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
-			"ChunkId": "2cc5808063f890db00000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
-			"ChunkId": "2cc5808063f890db00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
-			"ChunkId": "5c918efb403d4bb200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
-			"ChunkId": "5c918efb403d4bb200000002"
-		},
-		{
 			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
 			"ChunkId": "fe8e2f79bc05d6e200000001"
 		},
@@ -353,176 +353,16 @@
 			"ChunkId": "f421d8f857b9ed0300000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Materials/HoverMaterial.uasset",
-			"ChunkId": "67a2fc1b18d01f1000000001"
+			"Path": "OrigamiSiege/Content/Blueprints/OrigamiInstance.uasset",
+			"ChunkId": "d7818a11b025c71600000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Materials/HitMaterial.uasset",
-			"ChunkId": "825e264c62ee470800000001"
+			"Path": "OrigamiSiege/Content/Models/UI/Summeron.uasset",
+			"ChunkId": "bb091b9d11c8e23b00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Materials/DefaultMaterial.uasset",
-			"ChunkId": "619fae0c5656520400000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Materials/ClickedMaterial.uasset",
-			"ChunkId": "f682f9b662bcb32000000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Materials/BaseMaterial.uasset",
-			"ChunkId": "6dbbfe131c7280dd00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Interactions.uasset",
-			"ChunkId": "d118e786ed7e28ad00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Controller.uasset",
-			"ChunkId": "2972278c179c16c400000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/BP_GameDetector.uasset",
-			"ChunkId": "ff747137ff818efd00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Enemies/Enemy.uasset",
-			"ChunkId": "3197eb89994b9b8700000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Defenses/Defense.uasset",
-			"ChunkId": "e24ce7543fb8bb0300000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Controllers/CameraPawn.uasset",
-			"ChunkId": "1a7b5e3c24788e7f00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Buildings/Building.uasset",
-			"ChunkId": "36dc47557ff55ecd00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/SpawnEnemy.uasset",
-			"ChunkId": "a616fa24f58602e500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"ChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-			"ChunkId": "5516ce2c36f3d9ae00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
-			"ChunkId": "048e6fb25437845700000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
-			"ChunkId": "344ace582a05a9a500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
-			"ChunkId": "a78221ddf916516d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
-			"ChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
-			"ChunkId": "f38cb73e67825d9600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
-			"ChunkId": "2acd952336aab07f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"ChunkId": "3c018da41573213600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
-			"ChunkId": "6ebbe4a6ced841cc00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
-			"ChunkId": "3bf2df25e14476d700000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
-			"ChunkId": "4762b775bfe4b22d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
-			"ChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"ChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
-			"ChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
-			"ChunkId": "ea704fa9c99103cc00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
-			"ChunkId": "6e6a371ba7ffd6e900000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
-			"ChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
-			"ChunkId": "c851afa144f311c000000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
-			"ChunkId": "6fab96d8842b418000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
-			"ChunkId": "56d51199b9b2142a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
-			"ChunkId": "56d51199b9b2142a00000002"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Levels/Level1_BuiltData.uasset",
-			"ChunkId": "9c6ba456ea96fd8800000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Levels/Level1_BuiltData.ubulk",
-			"ChunkId": "9c6ba456ea96fd8800000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Archer.uasset",
+			"ChunkId": "601a5251bdd8ba3800000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
@@ -737,8 +577,424 @@
 			"ChunkId": "bd472f8cbf5f723d00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
+			"Path": "OrigamiSiege/Content/Models/UI/Win_Texture.uasset",
+			"ChunkId": "06b50f5ca24489e200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Pause_Background.uasset",
+			"ChunkId": "d5359bbb743fca5b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Main_Background.uasset",
+			"ChunkId": "2cff654fa96966d700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Lose_Texture.uasset",
+			"ChunkId": "81f494e1c1dbc39000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Guard2.uasset",
+			"ChunkId": "bad05121956433a000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Guard.uasset",
+			"ChunkId": "d1ff7bd605eb082400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman2.uasset",
+			"ChunkId": "591d2edeabbed9ac00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman.uasset",
+			"ChunkId": "704d6dc283a09d2700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Bombman2.uasset",
+			"ChunkId": "4a64bd7cd48da33800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Bombman.uasset",
+			"ChunkId": "ce46c2401768f31d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Archer2.uasset",
+			"ChunkId": "de7a18c58ea303e500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer2.uasset",
+			"ChunkId": "436c58b24e0bc17b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_MoneyMaker2.uasset",
+			"ChunkId": "ea45880f56eeb56a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Village.uasset",
+			"ChunkId": "31388974f96c492600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_MoneyMaker.uasset",
+			"ChunkId": "8237606212c9b0b300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Money.uasset",
+			"ChunkId": "9404f3cb1e5541d300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Guard2.uasset",
+			"ChunkId": "ea5674c32c99b5bf00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Guard.uasset",
+			"ChunkId": "131ca0de1bca72d800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Game.uasset",
+			"ChunkId": "5577422e09ab48c500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Fireman2.uasset",
+			"ChunkId": "53bf1ccbbe53753d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Fireman.uasset",
+			"ChunkId": "00d3a752a2debc6c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_ExperimentalField2.uasset",
+			"ChunkId": "fe10735e8c9d496400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_ExperimentalField.uasset",
+			"ChunkId": "3fbe5a600b94d6ba00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Bombman2.uasset",
+			"ChunkId": "e06b6627f68cde0a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Bombman.uasset",
+			"ChunkId": "05b74950b1fd266800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Barracks2.uasset",
+			"ChunkId": "95ab357f03596c8b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Barracks.uasset",
+			"ChunkId": "81228dede1d066cf00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archery2.uasset",
+			"ChunkId": "32280548881baf7100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archery.uasset",
+			"ChunkId": "41f5ca7e28bec37a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel_Attack_Skeleton.uasset",
+			"ChunkId": "e83705a666170cad00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel_Attack_PhysicsAsset.uasset",
+			"ChunkId": "5e76fc56adc1ee1f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Spike.uasset",
+			"ChunkId": "5970db575eae06b000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw_Attack_Skeleton.uasset",
+			"ChunkId": "60178b534fba7ee200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw_Attack_PhysicsAsset.uasset",
+			"ChunkId": "d67d94c70a99d8c500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Shoot.uasset",
+			"ChunkId": "6c291168868489aa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Knife/Grab.uasset",
+			"ChunkId": "d3c8810e0d7140d800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Knife/Edge.uasset",
+			"ChunkId": "f3ff13ddd5956d4b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Knife/Cutter.uasset",
+			"ChunkId": "48cba113dbedc45e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer.uasset",
+			"ChunkId": "8203a59b0c3807e100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Background.uasset",
+			"ChunkId": "77136a7474387a8400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "dc34a24e858c491100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "dc34a24e858c491100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.uasset",
+			"ChunkId": "855fe609d1a76c3300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.ubulk",
+			"ChunkId": "855fe609d1a76c3300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg.uasset",
+			"ChunkId": "a81c8251c58e40f200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Wax.uasset",
+			"ChunkId": "dd3b0ae3a33673be00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Mat.uasset",
+			"ChunkId": "4f53e1ec05bf875200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Attack_Skeleton.uasset",
+			"ChunkId": "f51bcf0d04365a5c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Attack_PhysicsAsset.uasset",
+			"ChunkId": "1913cc6d65a8889b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic_Walk_Skeleton.uasset",
+			"ChunkId": "de095d705ed0fe5500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic_Walk_PhysicsAsset.uasset",
+			"ChunkId": "23c02a004d7529be00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Pupil.uasset",
+			"ChunkId": "a828338fc414457500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Iris.uasset",
+			"ChunkId": "eb69ac2fa0e2ed0900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Hit.uasset",
+			"ChunkId": "bf58fab7660d68dd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Eyelid.uasset",
+			"ChunkId": "47efbb7883b6d0b200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Eye.uasset",
+			"ChunkId": "d0d5028da7308f2900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.uasset",
+			"ChunkId": "b71dd923b2275d1700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.ubulk",
+			"ChunkId": "b71dd923b2275d1700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture.uasset",
+			"ChunkId": "ac3a1b786cb0cbd000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Wood_Texture_Normal.uasset",
+			"ChunkId": "75b65d9aebd779b200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Wood_Texture.uasset",
+			"ChunkId": "e4418ed36457831100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Fire_Candle_Texture.uasset",
+			"ChunkId": "2fde3c9c8376a8e700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Fire_Candle_Texture.ubulk",
+			"ChunkId": "2fde3c9c8376a8e700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.uasset",
+			"ChunkId": "4bfb12a692ba383100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.ubulk",
+			"ChunkId": "4bfb12a692ba383100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Fire_arrow.uasset",
+			"ChunkId": "97e0ba7f77069bd400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Arrow.uasset",
+			"ChunkId": "315a40ad5482744b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk.uasset",
+			"ChunkId": "6cf3cda5141e6e1d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk.ubulk",
+			"ChunkId": "6cf3cda5141e6e1d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle.uasset",
+			"ChunkId": "16ea61a7badefab100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle.ubulk",
+			"ChunkId": "16ea61a7badefab100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Guardian.uasset",
+			"ChunkId": "370828c9461c0aea00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk.uasset",
+			"ChunkId": "d30ce6418765249300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk.ubulk",
+			"ChunkId": "d30ce6418765249300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle.uasset",
+			"ChunkId": "093a44688000631f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle.ubulk",
+			"ChunkId": "093a44688000631f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Fire.uasset",
+			"ChunkId": "0c006db364f1fe8a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk.uasset",
+			"ChunkId": "7283b8ece372c3b800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk.ubulk",
+			"ChunkId": "7283b8ece372c3b800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_7.uasset",
+			"ChunkId": "0e52481f6ae2bd6600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_6.uasset",
+			"ChunkId": "3ad23fbd9015fe9b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_5.uasset",
+			"ChunkId": "43d8432e935c9d9200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_4.uasset",
+			"ChunkId": "85b8ae8bc64de9e500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_3.uasset",
+			"ChunkId": "69e25f66858c0a6200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_2.uasset",
+			"ChunkId": "16d2fcc0c852e72200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_1.uasset",
+			"ChunkId": "f4cc193ff627a1b700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack.uasset",
+			"ChunkId": "87f36b02430db6cb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack.ubulk",
+			"ChunkId": "87f36b02430db6cb00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Bomb.uasset",
+			"ChunkId": "13376b4cf1ee40bd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/HoverMaterial.uasset",
+			"ChunkId": "67a2fc1b18d01f1000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/DefaultMaterial.uasset",
+			"ChunkId": "619fae0c5656520400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/ClickedMaterial.uasset",
+			"ChunkId": "f682f9b662bcb32000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/BaseMaterial.uasset",
+			"ChunkId": "6dbbfe131c7280dd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Interactions.uasset",
+			"ChunkId": "d118e786ed7e28ad00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Controller.uasset",
+			"ChunkId": "2972278c179c16c400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Enemies/Enemy.uasset",
+			"ChunkId": "3197eb89994b9b8700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Defenses/Defense.uasset",
+			"ChunkId": "e24ce7543fb8bb0300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Controllers/CameraPawn.uasset",
+			"ChunkId": "1a7b5e3c24788e7f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Buildings/Building.uasset",
+			"ChunkId": "36dc47557ff55ecd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/SpawnEnemy.uasset",
+			"ChunkId": "a616fa24f58602e500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
+			"ChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
+			"ChunkId": "fd3456639b15286700000001"
 		},
 		{
 			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
@@ -757,20 +1013,196 @@
 			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
-			"ChunkId": "86737b633647e77300000001"
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_building.uasset",
+			"ChunkId": "938f7524aaeb03b900000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
-			"ChunkId": "86737b633647e77300000002"
+			"Path": "OrigamiSiege/Content/Levels/Main_BuiltData.uasset",
+			"ChunkId": "b71b2cfed07ebe1200000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
-			"ChunkId": "927b2fe4876a1f7400000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack.uasset",
+			"ChunkId": "8f5f6382e86e9d8000000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
-			"ChunkId": "927b2fe4876a1f7400000002"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack.ubulk",
+			"ChunkId": "8f5f6382e86e9d8000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk.uasset",
+			"ChunkId": "02e7bda92ff88c8700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk.ubulk",
+			"ChunkId": "02e7bda92ff88c8700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle.uasset",
+			"ChunkId": "a6f6992f293e5f0600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle.ubulk",
+			"ChunkId": "a6f6992f293e5f0600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack.uasset",
+			"ChunkId": "06b96cf50f26bee800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack.ubulk",
+			"ChunkId": "06b96cf50f26bee800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Archer.uasset",
+			"ChunkId": "d385f19968ce78eb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Moneymaker/Moneymaker.uasset",
+			"ChunkId": "d25517ed3764494b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Moneymaker/Moneymaker.ubulk",
+			"ChunkId": "d25517ed3764494b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Expendables/Expendables.uasset",
+			"ChunkId": "df584fdcb8f93f0500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Expendables/Expendables.ubulk",
+			"ChunkId": "df584fdcb8f93f0500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Barracks/Barracks.uasset",
+			"ChunkId": "c4f00e7a5a8ac4e300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Barracks/Barracks.ubulk",
+			"ChunkId": "c4f00e7a5a8ac4e300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_tower.uasset",
+			"ChunkId": "b81b4a1babd1666d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_diane.uasset",
+			"ChunkId": "2ddbcaf8429c6a2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level2_BuiltData.uasset",
+			"ChunkId": "d376e0fce666f99f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level2_BuiltData.ubulk",
+			"ChunkId": "d376e0fce666f99f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level1_BuiltData.uasset",
+			"ChunkId": "9c6ba456ea96fd8800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level1_BuiltData.ubulk",
+			"ChunkId": "9c6ba456ea96fd8800000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
+			"ChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
+			"ChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
+			"ChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/DroidSansMono.uasset",
+			"ChunkId": "e563b896e4821bdd00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
+			"ChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
+			"ChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
+			"ChunkId": "6fab96d8842b418000000001"
 		},
 		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
@@ -789,6 +1221,42 @@
 			"ChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
+			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.uasset",
+			"ChunkId": "01c2fca777d1b28900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.ubulk",
+			"ChunkId": "01c2fca777d1b28900000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
+			"ChunkId": "86737b633647e77300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
+			"ChunkId": "86737b633647e77300000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"ChunkId": "927b2fe4876a1f7400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
+			"ChunkId": "927b2fe4876a1f7400000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"ChunkId": "56d51199b9b2142a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
+			"ChunkId": "56d51199b9b2142a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset",
+			"ChunkId": "94719bde6334f57200000001"
+		},
+		{
 			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
 			"ChunkId": "b4d3126ba7954ec000000001"
 		},
@@ -805,12 +1273,64 @@
 			"ChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/BP_GameDetector.uasset",
+			"ChunkId": "ff747137ff818efd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Summeron_Font.uasset",
+			"ChunkId": "01192731cc2d0a3600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/PaperWall.uasset",
+			"ChunkId": "8b6a2cc1d255304500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Body_2.uasset",
+			"ChunkId": "4fd64708ca73fdbf00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Body.uasset",
+			"ChunkId": "77a350b3387fffa100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Wood.uasset",
+			"ChunkId": "8eee4cdb8f9ebe3300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/ShootWood.uasset",
+			"ChunkId": "949f642a7bc0c68700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Knife/Knife.uasset",
+			"ChunkId": "38607bae79f163aa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Wax_Inst.uasset",
+			"ChunkId": "bb7f45de903b4f5800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Mat_Inst.uasset",
+			"ChunkId": "34b33c00dfe088cb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water.uasset",
+			"ChunkId": "e2770ff196c0994900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle.uasset",
+			"ChunkId": "248e1f406ed575ae00000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Blueprints/Controllers/TD_Controller.uasset",
 			"ChunkId": "b7dfa98c7cf32c6f00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Test.uasset",
 			"ChunkId": "39a9d92ab8d1b7b000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Lvl2_Spawn.uasset",
+			"ChunkId": "94f027834135a2cc00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Lvl1_Spawn.uasset",
@@ -833,8 +1353,44 @@
 			"ChunkId": "fabb39727be145c100000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel_Attack_Anim.uasset",
+			"ChunkId": "275fd6706a45580300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw_Attack_Anim.uasset",
+			"ChunkId": "155c13509cf3d5ac00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Walk_Anim.uasset",
+			"ChunkId": "1046a2accca9e7cb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Attack_Anim.uasset",
+			"ChunkId": "81f888c48b3b445100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic_Walk_Anim.uasset",
+			"ChunkId": "72c7ab41b6de15a400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic_Attack.uasset",
+			"ChunkId": "ff6f6bb2070a21d700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Fire_Candle.uasset",
+			"ChunkId": "fcd20062530de5f700000001"
+		},
+		{
 			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
 			"ChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/DroidSansMono.uasset",
+			"ChunkId": "1a82e2e1070fe60800000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
+			"ChunkId": "b4e99ebee8538a8000000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
@@ -847,6 +1403,10 @@
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
 			"ChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset",
+			"ChunkId": "ed80e6fdcb7b904c00000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset",
@@ -1157,16 +1717,1548 @@
 			"ChunkId": "34868b7f9c10838900000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall.uasset",
+			"ChunkId": "6458c23ebb14598e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic.uasset",
+			"ChunkId": "8e39a8d58cfe73fa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel_Attack.uasset",
+			"ChunkId": "bd97fd0fc9d5845500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel.uasset",
+			"ChunkId": "75b071d1a165f02e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw_Attack.uasset",
+			"ChunkId": "7fc3cc185e07e50100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw.uasset",
+			"ChunkId": "2487ffc2f46834d600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Candle_Attack.uasset",
+			"ChunkId": "e268492faec80d2100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Basic_Walk.uasset",
+			"ChunkId": "1d1b580e93368ddc00000001"
+		},
+		{
 			"Path": "Engine/Content/EngineSky/SM_SkySphere.uasset",
 			"ChunkId": "48df828be219f7ad00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/Enemies/BP_Knife.uasset",
-			"ChunkId": "770fcac79d55fc6c00000001"
+			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset",
+			"ChunkId": "c17e2b8f4ee5c13800000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/Defenses/BP_Arrow.uasset",
-			"ChunkId": "7150de86c316f2d800000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_9.uasset",
+			"ChunkId": "99f85243363e035100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_8.uasset",
+			"ChunkId": "984b331ee822457600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_7.uasset",
+			"ChunkId": "b7a39e3ba672ac3700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_6.uasset",
+			"ChunkId": "90bda91d2760abf500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_5.uasset",
+			"ChunkId": "a79c00c27073254500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_4.uasset",
+			"ChunkId": "36445ffe2b4f5d8900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_39.uasset",
+			"ChunkId": "98de74b578ea746d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_38.uasset",
+			"ChunkId": "3c454ff4d63339c500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_37.uasset",
+			"ChunkId": "c4927fae4b4954ee00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_36.uasset",
+			"ChunkId": "d706f6c696085e7500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_35.uasset",
+			"ChunkId": "5b248b400e40c80100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_34.uasset",
+			"ChunkId": "34841450221026d900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_33.uasset",
+			"ChunkId": "fe16282e1852018b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_32.uasset",
+			"ChunkId": "e85e30b213a8352500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_31.uasset",
+			"ChunkId": "c710b4a5aadb37ca00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_30.uasset",
+			"ChunkId": "c36fa3770d76c32b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_3.uasset",
+			"ChunkId": "d9335226ab66a83700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_29.uasset",
+			"ChunkId": "918bf0f43126187000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_28.uasset",
+			"ChunkId": "142747e2b006332800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_27.uasset",
+			"ChunkId": "531e997510caf1d000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_26.uasset",
+			"ChunkId": "69d3d8919fd24bf000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_25.uasset",
+			"ChunkId": "a5ee1ff9cee3482c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_24.uasset",
+			"ChunkId": "b7198ee85c3bb82700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_23.uasset",
+			"ChunkId": "e776baef665eb22b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_22.uasset",
+			"ChunkId": "e373fd6c5584156700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_21.uasset",
+			"ChunkId": "37908b8f2e12876100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_20.uasset",
+			"ChunkId": "85389160c170bb8b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_2.uasset",
+			"ChunkId": "3350cb6a337adf9b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_19.uasset",
+			"ChunkId": "6500ce9c2ebfc15900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_18.uasset",
+			"ChunkId": "998f2ccca5dbac1500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_17.uasset",
+			"ChunkId": "1bfe6e4656d4d88400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_16.uasset",
+			"ChunkId": "890230209bd3094e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_15.uasset",
+			"ChunkId": "334190552d8d286600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_14.uasset",
+			"ChunkId": "b317f76b2d22d3d000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_13.uasset",
+			"ChunkId": "27eae813d050911e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_12.uasset",
+			"ChunkId": "8ee81dbbbc3cc44c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_11.uasset",
+			"ChunkId": "6268db97339e851800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_10.uasset",
+			"ChunkId": "74fff6f3e578b8af00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_1.uasset",
+			"ChunkId": "db191b93684e708e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_0.uasset",
+			"ChunkId": "7723753026dc962500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_9.uasset",
+			"ChunkId": "9d37bbb60e7bdb4600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_8.uasset",
+			"ChunkId": "f525415d5b779f0700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_7.uasset",
+			"ChunkId": "d1e06ccccde3a1d400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_6.uasset",
+			"ChunkId": "5d20e4efefdc06b600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_5.uasset",
+			"ChunkId": "dea4a4357822beb100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_48.uasset",
+			"ChunkId": "c7caab6e07f3cd8500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_47.uasset",
+			"ChunkId": "ad12ee7a691466fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_46.uasset",
+			"ChunkId": "61631ab08c32269600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_45.uasset",
+			"ChunkId": "c494b71aa727596e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_44.uasset",
+			"ChunkId": "3c1f91dcdf419c3900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_43.uasset",
+			"ChunkId": "85f1f743f2a5263c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_42.uasset",
+			"ChunkId": "8a0292c485477abd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_41.uasset",
+			"ChunkId": "a41c90333df4722500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_40.uasset",
+			"ChunkId": "f566da1080db0ce200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_4.uasset",
+			"ChunkId": "eb39924279c3786c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_39.uasset",
+			"ChunkId": "057abc54ed4a473c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_38.uasset",
+			"ChunkId": "e104e43b6afc5c8b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_37.uasset",
+			"ChunkId": "d14b5900f580619800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_36.uasset",
+			"ChunkId": "dd7a34191eb4b1b500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_35.uasset",
+			"ChunkId": "97ad78f05aa1646400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_34.uasset",
+			"ChunkId": "16953d10b8728cd700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_33.uasset",
+			"ChunkId": "84a49757c6b134e000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_32.uasset",
+			"ChunkId": "9212a1eb326f6b8100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_31.uasset",
+			"ChunkId": "20e8142db460343e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_30.uasset",
+			"ChunkId": "9f06a70ecc8db35700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_3.uasset",
+			"ChunkId": "737abf372c88cfef00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_29.uasset",
+			"ChunkId": "a2d68c6ab57be7f400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_28.uasset",
+			"ChunkId": "76ace82cef90632000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_27.uasset",
+			"ChunkId": "5d605697ae3ee25c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_26.uasset",
+			"ChunkId": "0965142857e7a73000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_25.uasset",
+			"ChunkId": "a189d68595f0f55d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_24.uasset",
+			"ChunkId": "b2e77eb9411aef8200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_23.uasset",
+			"ChunkId": "c92c33964c0a5d8400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_22.uasset",
+			"ChunkId": "1e8ffcacef8a39f200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_21.uasset",
+			"ChunkId": "54c2607b40e33c2400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_20.uasset",
+			"ChunkId": "80f6eeaea3e5f50100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_2.uasset",
+			"ChunkId": "df651561d614eefb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_19.uasset",
+			"ChunkId": "c6dc6d83083e578400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_18.uasset",
+			"ChunkId": "a0464d551860054500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_17.uasset",
+			"ChunkId": "5909516516629c1100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_16.uasset",
+			"ChunkId": "7e710e59475f3fb700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_15.uasset",
+			"ChunkId": "96e40744188a7f6800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_14.uasset",
+			"ChunkId": "c302112ca6cf717700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_13.uasset",
+			"ChunkId": "51f7456981cb968200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_12.uasset",
+			"ChunkId": "b6fce82ae4b48eeb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_11.uasset",
+			"ChunkId": "ca34aa53e84b5b7b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_10.uasset",
+			"ChunkId": "ab8028b2d2beeeee00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_1.uasset",
+			"ChunkId": "52325ab9e6c186b800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_0.uasset",
+			"ChunkId": "8e20e524b3a27ef500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Guardian_Sprite_0.uasset",
+			"ChunkId": "2d9ed8b315c0ce2f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_9.uasset",
+			"ChunkId": "fc025ce2a7d9eca200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_8.uasset",
+			"ChunkId": "532f35c2e4f124c900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_7.uasset",
+			"ChunkId": "0287e8d5466097fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_6.uasset",
+			"ChunkId": "7b315d4c8796d84700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_5.uasset",
+			"ChunkId": "0d753fb3c2936fda00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_4.uasset",
+			"ChunkId": "cbaa6acd5c0715c600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_35.uasset",
+			"ChunkId": "06de41c762c9bcd700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_34.uasset",
+			"ChunkId": "55466d9554a2d4e400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_33.uasset",
+			"ChunkId": "975d36afbe46ee5400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_32.uasset",
+			"ChunkId": "0822cce5a787964a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_31.uasset",
+			"ChunkId": "132c969af648586700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_30.uasset",
+			"ChunkId": "b7a6ec04f895b2f500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_3.uasset",
+			"ChunkId": "c306519fda5ecac900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_29.uasset",
+			"ChunkId": "35060d20679921cc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_28.uasset",
+			"ChunkId": "18ecfc848860c3cc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_27.uasset",
+			"ChunkId": "43a569388d86cdcc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_26.uasset",
+			"ChunkId": "c8e0d507e3d3a6d900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_25.uasset",
+			"ChunkId": "4f701999f1ce083600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_24.uasset",
+			"ChunkId": "64f4287c2379eb2600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_23.uasset",
+			"ChunkId": "969aa1aee0c14c0a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_22.uasset",
+			"ChunkId": "e0e554b1a0fdd27e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_21.uasset",
+			"ChunkId": "47f1b86764fb315a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_20.uasset",
+			"ChunkId": "de5a17117380916600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_2.uasset",
+			"ChunkId": "082f1ec6490ba31700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_19.uasset",
+			"ChunkId": "ce1420d736b1afbc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_18.uasset",
+			"ChunkId": "46f57f91251a8f6000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_17.uasset",
+			"ChunkId": "ef86e66c7090d65300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_16.uasset",
+			"ChunkId": "59e831717f7ad9a500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_15.uasset",
+			"ChunkId": "114cacadd1cd391700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_14.uasset",
+			"ChunkId": "0f457fe22e746d2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_13.uasset",
+			"ChunkId": "6bbc4fb8c4f9151b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_12.uasset",
+			"ChunkId": "fe7352d2fa1258c000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_11.uasset",
+			"ChunkId": "0aa8b97e1b4a03da00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_10.uasset",
+			"ChunkId": "05c476620ce485cc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_1.uasset",
+			"ChunkId": "726177bbdf0f47d400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_9.uasset",
+			"ChunkId": "3df7007cafe25a8d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_8.uasset",
+			"ChunkId": "e891127ee825075500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_7.uasset",
+			"ChunkId": "d62fe50d41c0f37700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_6.uasset",
+			"ChunkId": "e02db0c5cd98bd7b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_5.uasset",
+			"ChunkId": "1f1919ca1c76f42b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_4.uasset",
+			"ChunkId": "8f17ae1e3d406b2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_3.uasset",
+			"ChunkId": "26a425a49ecff02d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_29.uasset",
+			"ChunkId": "7c465457e6f6ee5100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_28.uasset",
+			"ChunkId": "326a97c32ac7b1e500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_27.uasset",
+			"ChunkId": "df7c52adb937d24100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_26.uasset",
+			"ChunkId": "1acde8ca0069717000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_25.uasset",
+			"ChunkId": "5549fdcf8fc81aac00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_24.uasset",
+			"ChunkId": "2327afc3c3cb8ec300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_23.uasset",
+			"ChunkId": "425b13b2beffc8ef00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_22.uasset",
+			"ChunkId": "52a8f5e330c89be200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_21.uasset",
+			"ChunkId": "248b68f451370cdd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_20.uasset",
+			"ChunkId": "7484bdaac716b97700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_2.uasset",
+			"ChunkId": "04c1413fbd08847c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_19.uasset",
+			"ChunkId": "aed5297fa5515ed900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_18.uasset",
+			"ChunkId": "15c38d74e94ee31d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_17.uasset",
+			"ChunkId": "0350dbd68861fe7700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_16.uasset",
+			"ChunkId": "093b34acc76b154100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_15.uasset",
+			"ChunkId": "86a27bed6c5a4a2b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_14.uasset",
+			"ChunkId": "780a8279099eb06200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_13.uasset",
+			"ChunkId": "9ec83b2eab383ca100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_12.uasset",
+			"ChunkId": "7aa33831115ef08a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_11.uasset",
+			"ChunkId": "63d51353af6df57700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_10.uasset",
+			"ChunkId": "91d99883790b55e100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_1.uasset",
+			"ChunkId": "94182b15c167480000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_0.uasset",
+			"ChunkId": "0b0875440beb5c8000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Fire_Sprite_0.uasset",
+			"ChunkId": "db2e3e0c20ccf0c000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_9.uasset",
+			"ChunkId": "8bbaaa5fb60e210f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_8.uasset",
+			"ChunkId": "f5ec9cb5584a7b8c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_7.uasset",
+			"ChunkId": "ad434e0f3953ce0d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_6.uasset",
+			"ChunkId": "501c3745dc132d8000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_5.uasset",
+			"ChunkId": "c7796daa5839157900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_4.uasset",
+			"ChunkId": "a9ef9cf68a51860a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_3.uasset",
+			"ChunkId": "8f07883607709ec900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_29.uasset",
+			"ChunkId": "8e76d20ae17836e300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_28.uasset",
+			"ChunkId": "75bbb72357d6ff7200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_27.uasset",
+			"ChunkId": "09e9efabd77eeb3000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_26.uasset",
+			"ChunkId": "2565c36c34a7cfbe00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_25.uasset",
+			"ChunkId": "7f13c689119a474d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_24.uasset",
+			"ChunkId": "a6019bc1b3ddb26f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_23.uasset",
+			"ChunkId": "f629563f1e0b0faf00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_22.uasset",
+			"ChunkId": "adcc8624e9e8601f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_21.uasset",
+			"ChunkId": "b06f3ddb8d46caf300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_20.uasset",
+			"ChunkId": "88dc6645c7d5792c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_2.uasset",
+			"ChunkId": "34151d86bd745d3400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_19.uasset",
+			"ChunkId": "0562da560c23e9e100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_18.uasset",
+			"ChunkId": "5856909d47492a4e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_17.uasset",
+			"ChunkId": "71d7ed17bdf17dc400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_16.uasset",
+			"ChunkId": "50d582842c87a57600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_15.uasset",
+			"ChunkId": "9bcfa7033d937f9100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_14.uasset",
+			"ChunkId": "76561363d121481f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_13.uasset",
+			"ChunkId": "ad98cb8eec7ee94700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_12.uasset",
+			"ChunkId": "b9f3fc184fc9ae3300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_11.uasset",
+			"ChunkId": "f18e4e3c70ef50b400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_10.uasset",
+			"ChunkId": "4dd63292de3a2a0300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_1.uasset",
+			"ChunkId": "ac78bc2a74340df000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_0.uasset",
+			"ChunkId": "6d3453891f1b03a200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_6.uasset",
+			"ChunkId": "3195b23d4f58ee9300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_5.uasset",
+			"ChunkId": "52ffeec4a1d4cb5c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_4.uasset",
+			"ChunkId": "39fbd48e27d3397800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_3.uasset",
+			"ChunkId": "8254530489fa689c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_2.uasset",
+			"ChunkId": "27de7dfcbbdc46ad00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_1.uasset",
+			"ChunkId": "429656b425241b3200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Sprite_0.uasset",
+			"ChunkId": "6581a6c34644a87400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_9.uasset",
+			"ChunkId": "54e2e147b3342dd700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_8.uasset",
+			"ChunkId": "8a093c2f423a080200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_7.uasset",
+			"ChunkId": "e7fbeba09dbd630900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_6.uasset",
+			"ChunkId": "acc7149e680d1a7600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_5.uasset",
+			"ChunkId": "f9a0c6e3d911e81b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_4.uasset",
+			"ChunkId": "3d72b21ddb0654f700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_3.uasset",
+			"ChunkId": "1cd4363d2bc7251d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_2.uasset",
+			"ChunkId": "44b0b7edb6207f2f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_19.uasset",
+			"ChunkId": "1ac95946e868ce4a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_18.uasset",
+			"ChunkId": "69bc8555926aa5b600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_17.uasset",
+			"ChunkId": "f95fd5c4f96945eb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_16.uasset",
+			"ChunkId": "d3b9dc40846d926600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_15.uasset",
+			"ChunkId": "d5c0002c89201d1300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_14.uasset",
+			"ChunkId": "b04b01013afdc24600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_13.uasset",
+			"ChunkId": "04baf9de04587ed600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_12.uasset",
+			"ChunkId": "f9626f286dbf189400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_11.uasset",
+			"ChunkId": "b413ead1ea9a96b000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_10.uasset",
+			"ChunkId": "06f7b0d9c3803bd600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_1.uasset",
+			"ChunkId": "634b90bdea362ce100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_0.uasset",
+			"ChunkId": "78173cefaa41a37300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Bomb_Sprite_0.uasset",
+			"ChunkId": "d578e1f12d71ce9800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Fire_arrow_Sprite_0.uasset",
+			"ChunkId": "8eaf26bec77db1db00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Arrow_Sprite_0.uasset",
+			"ChunkId": "a1ed4df09e14b5ff00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_9.uasset",
+			"ChunkId": "3016c3db99bcdba300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_8.uasset",
+			"ChunkId": "18ef65553c81ed8000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_7.uasset",
+			"ChunkId": "b09994a37ed3952800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_6.uasset",
+			"ChunkId": "3517a56081e9606a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_5.uasset",
+			"ChunkId": "e26d033507a74d4c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_4.uasset",
+			"ChunkId": "8723bff3ab4a829800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_39.uasset",
+			"ChunkId": "de7ddb536c74424c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_38.uasset",
+			"ChunkId": "2559ce063fb9ca8f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_37.uasset",
+			"ChunkId": "466b41d8af56c30f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_36.uasset",
+			"ChunkId": "c00fa23b57c610e700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_35.uasset",
+			"ChunkId": "fe6ba5105177e9b600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_34.uasset",
+			"ChunkId": "4e36af6c92187f6100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_33.uasset",
+			"ChunkId": "7cd6fbc79fc329ec00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_32.uasset",
+			"ChunkId": "fe97b197ca81567f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_31.uasset",
+			"ChunkId": "23ea7f63118d740300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_30.uasset",
+			"ChunkId": "2faa8e62aac682b800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_3.uasset",
+			"ChunkId": "1fa1abc63d1d7ae000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_29.uasset",
+			"ChunkId": "c13a3753068db81000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_28.uasset",
+			"ChunkId": "578465d5e711007900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_27.uasset",
+			"ChunkId": "5e194e71bd6925d200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_26.uasset",
+			"ChunkId": "39dbabcc68f1ff1b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_25.uasset",
+			"ChunkId": "df41f8bd17c0cf6000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_24.uasset",
+			"ChunkId": "e14b24c0cdc4aca100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_23.uasset",
+			"ChunkId": "2780c7493f1c4a7c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_22.uasset",
+			"ChunkId": "510e65835b56408700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_21.uasset",
+			"ChunkId": "f96607458d6f013f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_20.uasset",
+			"ChunkId": "fd24cea37f50ddd700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_2.uasset",
+			"ChunkId": "13efb2300966da6a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_19.uasset",
+			"ChunkId": "8f9d5d8676b50b6500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_18.uasset",
+			"ChunkId": "70e2a6a63d413a6f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_17.uasset",
+			"ChunkId": "ae42710ffd8eb39400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_16.uasset",
+			"ChunkId": "10900a248bdd86d400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_15.uasset",
+			"ChunkId": "37e434cdd52dda8700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_14.uasset",
+			"ChunkId": "7a54aaa770369d0900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_13.uasset",
+			"ChunkId": "7582aae6b772d0c800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_12.uasset",
+			"ChunkId": "18efa11b0f9db21c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_11.uasset",
+			"ChunkId": "615da9bb615c293600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_10.uasset",
+			"ChunkId": "c275b8a1aed1720500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_1.uasset",
+			"ChunkId": "f2a4a7d6f8c50aa200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_9.uasset",
+			"ChunkId": "0b9da9f1137801ad00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_8.uasset",
+			"ChunkId": "5233f5604338274000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_7.uasset",
+			"ChunkId": "6481980992d8d14700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_6.uasset",
+			"ChunkId": "9ce54b0427b5819200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_5.uasset",
+			"ChunkId": "1687fd76c2dd427600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_4.uasset",
+			"ChunkId": "2fa38470244f5a5800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_39.uasset",
+			"ChunkId": "2ed4ef97b188ceb300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_38.uasset",
+			"ChunkId": "81cd8a44f970a95b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_37.uasset",
+			"ChunkId": "2238a21f1c7b421600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_36.uasset",
+			"ChunkId": "75c2f381aa3d98e200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_35.uasset",
+			"ChunkId": "7e5a31a65e1b642c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_34.uasset",
+			"ChunkId": "3cba1b2f63ae198d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_33.uasset",
+			"ChunkId": "e083858269bedbae00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_32.uasset",
+			"ChunkId": "0d00a705b1f793d600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_31.uasset",
+			"ChunkId": "8aa4e335073a655600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_30.uasset",
+			"ChunkId": "e25e48095197cdfe00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_3.uasset",
+			"ChunkId": "20c409e26597bc4b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_29.uasset",
+			"ChunkId": "63ac822f20e1d25e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_28.uasset",
+			"ChunkId": "c0b47e1668c5781100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_27.uasset",
+			"ChunkId": "8f2e5d8bcd75080700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_26.uasset",
+			"ChunkId": "25195559a66a4cee00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_25.uasset",
+			"ChunkId": "f9b0659a19e8e5d200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_24.uasset",
+			"ChunkId": "04390b44a5e5d44d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_23.uasset",
+			"ChunkId": "c6e24e970b479bae00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_22.uasset",
+			"ChunkId": "0d44dd04054d204200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_21.uasset",
+			"ChunkId": "4146b8a67d88b2ae00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_20.uasset",
+			"ChunkId": "e6db20af7a7967d200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_2.uasset",
+			"ChunkId": "de925b37ef7fb2c800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_19.uasset",
+			"ChunkId": "2bd6095ad86c6eb200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_18.uasset",
+			"ChunkId": "cb0c67bbe4e20a6900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_17.uasset",
+			"ChunkId": "afb7f3ce3115e8fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_16.uasset",
+			"ChunkId": "325a8dcea6a3bf6600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_15.uasset",
+			"ChunkId": "475a3ccff933aa6500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_14.uasset",
+			"ChunkId": "d1d3c28b227202f100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_13.uasset",
+			"ChunkId": "8ce786a8cffa8d6700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_12.uasset",
+			"ChunkId": "cc3a19c88b3ca89a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_11.uasset",
+			"ChunkId": "d4687bbfe561d85b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_10.uasset",
+			"ChunkId": "afc5f0a04f000c4d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_1.uasset",
+			"ChunkId": "01cfa15e20647c8600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_9.uasset",
+			"ChunkId": "f95da718e3b8900900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_8.uasset",
+			"ChunkId": "c775ee3c9e2abe6800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_7.uasset",
+			"ChunkId": "fe9e915f99e201f300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_6.uasset",
+			"ChunkId": "d8d5dab1a125b20000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_5.uasset",
+			"ChunkId": "290f4fe84b8cfc2100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_4.uasset",
+			"ChunkId": "0ab992512b729c1400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_39.uasset",
+			"ChunkId": "f81f4c263c60cbc200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_38.uasset",
+			"ChunkId": "c32349a382ef47a200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_37.uasset",
+			"ChunkId": "5efd183c96ba4a6400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_36.uasset",
+			"ChunkId": "2c88d0a87960a11400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_35.uasset",
+			"ChunkId": "f217d43bdf0e69cb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_34.uasset",
+			"ChunkId": "6a64e070609efca900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_33.uasset",
+			"ChunkId": "48eb867c7916c59100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_32.uasset",
+			"ChunkId": "91b7741ac8daecfb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_31.uasset",
+			"ChunkId": "ac752ef69887dbda00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_30.uasset",
+			"ChunkId": "cf494473c5e6f7b300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_3.uasset",
+			"ChunkId": "fbfb5168a45a41c200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_29.uasset",
+			"ChunkId": "c272a2ff2db25b1700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_28.uasset",
+			"ChunkId": "8b4f365aaf298d5d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_27.uasset",
+			"ChunkId": "06699eb7cc79381d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_26.uasset",
+			"ChunkId": "03fbb6baa0f3fb5200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_25.uasset",
+			"ChunkId": "4161ffcd3d372e8500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_24.uasset",
+			"ChunkId": "c62f18da6794821500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_23.uasset",
+			"ChunkId": "554fa2aa95498e2800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_22.uasset",
+			"ChunkId": "4838ec9dc4c8ec4200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_21.uasset",
+			"ChunkId": "3a60271010fa253400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_20.uasset",
+			"ChunkId": "6a01377056caff6400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_2.uasset",
+			"ChunkId": "d7ab96d4f294e11100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_19.uasset",
+			"ChunkId": "e6a3890732ee9eca00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_18.uasset",
+			"ChunkId": "329ea1f3f15ecb1700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_17.uasset",
+			"ChunkId": "66a81eed98175e2b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_16.uasset",
+			"ChunkId": "b9a39cd3547f6a9200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_15.uasset",
+			"ChunkId": "532ea4b589477f2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_14.uasset",
+			"ChunkId": "bfe920a0008b2b9900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_13.uasset",
+			"ChunkId": "3ec969f787ff6b8a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_12.uasset",
+			"ChunkId": "2ac8242d992a0f2600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_11.uasset",
+			"ChunkId": "10453efdc4571ee100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_10.uasset",
+			"ChunkId": "7da6f821b0b990d100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_1.uasset",
+			"ChunkId": "792fc8721039ab4d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_9.uasset",
+			"ChunkId": "021a79ece80f6c5f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_8.uasset",
+			"ChunkId": "938bf91788ff0d1c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_7.uasset",
+			"ChunkId": "f0bc080e7ba70cf900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_6.uasset",
+			"ChunkId": "66ec19f77464816600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_5.uasset",
+			"ChunkId": "8c24b326393338f700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_4.uasset",
+			"ChunkId": "54b6b14e72ab482b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_35.uasset",
+			"ChunkId": "14f15c0928fdbc6400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_34.uasset",
+			"ChunkId": "41f786becc1dd0f000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_33.uasset",
+			"ChunkId": "97ad89e8c286ae1200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_32.uasset",
+			"ChunkId": "15cd4231c89e1d6300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_31.uasset",
+			"ChunkId": "4534e2397d2eeb4600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_30.uasset",
+			"ChunkId": "12cd785faa891d0600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_3.uasset",
+			"ChunkId": "49094ea6c2be60fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_29.uasset",
+			"ChunkId": "c132b444fff2ae8000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_28.uasset",
+			"ChunkId": "2234ad5de2e61cef00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_27.uasset",
+			"ChunkId": "ab64da791ec2d04100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_26.uasset",
+			"ChunkId": "048a72eecf81e4da00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_25.uasset",
+			"ChunkId": "0a7594a6c5f439da00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_24.uasset",
+			"ChunkId": "f37a0e840287ebcd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_23.uasset",
+			"ChunkId": "bddd31cb978fa8e700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_22.uasset",
+			"ChunkId": "6322ff5917cbd49f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_21.uasset",
+			"ChunkId": "e75fd34f4eec612700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_20.uasset",
+			"ChunkId": "17cc7ca338a4944300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_2.uasset",
+			"ChunkId": "5b6c043a6985267100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_19.uasset",
+			"ChunkId": "36b0e82888282e9100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_18.uasset",
+			"ChunkId": "7d3787492dffa2b300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_17.uasset",
+			"ChunkId": "cd1b4e0d942aec0700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_16.uasset",
+			"ChunkId": "645bdae75de01a4600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_15.uasset",
+			"ChunkId": "a9a0a15aea56b73800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_14.uasset",
+			"ChunkId": "59322cf339ba0b4a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_13.uasset",
+			"ChunkId": "df89494f42d854c800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_12.uasset",
+			"ChunkId": "dd2472db8f91895e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_11.uasset",
+			"ChunkId": "73e22646f93571c600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_10.uasset",
+			"ChunkId": "db1b4dc15a912fc600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_1.uasset",
+			"ChunkId": "b99a0492e367ea7f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Archer_Sprite_0.uasset",
+			"ChunkId": "3d9f6565fa10628200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Moneymaker/Moneymaker_Sprite_0.uasset",
+			"ChunkId": "5d95a04081f1f21200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Expendables/Expendables_Sprite_0.uasset",
+			"ChunkId": "05e341b2a6a4fde500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Barracks/Barracks_Sprite_0.uasset",
+			"ChunkId": "056b4b57197ff2f200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_tower_Sprite_0.uasset",
+			"ChunkId": "bf0d4411daf4a60400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_diane_Sprite_0.uasset",
+			"ChunkId": "6bc63c2ad5d6f1da00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_building_Sprite_0.uasset",
+			"ChunkId": "b67ab5484ac4b89e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Enemies/BP_Knife.uasset",
+			"ChunkId": "770fcac79d55fc6c00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
@@ -1183,6 +3275,106 @@
 		{
 			"Path": "Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
 			"ChunkId": "cdbcbf4a06978c3b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk_Anim.uasset",
+			"ChunkId": "f3dcc6c07daf3e1b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Idle/Guardian_Idle_Anim.uasset",
+			"ChunkId": "ff62b40cff519fa700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Guardian_Sprite.uasset",
+			"ChunkId": "999c25492ab0a12b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Walk/Fireman_Walk_Anim.uasset",
+			"ChunkId": "1f2daa88934cbce900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Idle/Fireman_Idle_Anim.uasset",
+			"ChunkId": "db41d406aacdf65e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Fire/Fire_Sprite.uasset",
+			"ChunkId": "c6f4e90dba76ba7000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Walk/Bombman_Walk_Anim.uasset",
+			"ChunkId": "5b8e71f1adae924700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_Anim.uasset",
+			"ChunkId": "c7303591b818b78e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Attack/Bombman_Attack_Anim.uasset",
+			"ChunkId": "01d42a9e15dbf23f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Bomb_Sprite.uasset",
+			"ChunkId": "5ac7e41879a3024100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Fire_arrow_Sprite.uasset",
+			"ChunkId": "ebea446d8397865100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Arrow_Sprite.uasset",
+			"ChunkId": "34dfe8464318934500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Defenses/BP_Arrow.uasset",
+			"ChunkId": "7150de86c316f2d800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Anim.uasset",
+			"ChunkId": "df0247350880e85f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk/Archer_Walk_Anim.uasset",
+			"ChunkId": "9348cc2e177df26700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Idle/Archer_Idle_Anim.uasset",
+			"ChunkId": "87dbb32565ebd88c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Attack/Archer_Attack_Anim.uasset",
+			"ChunkId": "8340afb37b5d65b500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Archer_sprite.uasset",
+			"ChunkId": "599514e38e11dd5a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Moneymaker/Moneymaker_Sprite.uasset",
+			"ChunkId": "d82c5117ebf7c97600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Expendables/Expendables_Sprite.uasset",
+			"ChunkId": "d89c6e8c4e3ade2500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Barracks/Barracks_Sprite.uasset",
+			"ChunkId": "ac59731acddc3f4b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_tower_Sprite.uasset",
+			"ChunkId": "94bb1dd19f1c0b6200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_diane_Sprite.uasset",
+			"ChunkId": "8483ff65ace0395100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_building_Sprite.uasset",
+			"ChunkId": "fac6bce0797fed7b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion.uasset",
+			"ChunkId": "ca6a23f29fa3c29100000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
@@ -1217,12 +3409,20 @@
 			"ChunkId": "a2bc56991da13d6b00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_HUDManager.uasset",
-			"ChunkId": "b67c9738737597fc00000001"
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Win_Lose_HUD.uasset",
+			"ChunkId": "99079583eca6dde200000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/Controllers/TD_GameMode.uasset",
-			"ChunkId": "0c8d4dc2deef2f7000000001"
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Win_Lose_Menu.uasset",
+			"ChunkId": "beab7665beb2e79c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Win_Lose_GameMode.uasset",
+			"ChunkId": "cde0fb0c0ed04d9900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Win_Lose.umap",
+			"ChunkId": "111ef9cfad02d83e00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Buildings/BP_BuildArchery.uasset",
@@ -1261,6 +3461,10 @@
 			"ChunkId": "11b17cd0c6ba6b4c00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Blueprints/Enemies/BP_Thrower.uasset",
+			"ChunkId": "0fc824c209a5588d00000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Blueprints/GameManager.uasset",
 			"ChunkId": "d49677075519279600000001"
 		},
@@ -1269,28 +3473,40 @@
 			"ChunkId": "be0ea2d31e243de200000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_GameHUD.uasset",
-			"ChunkId": "6d685c911146ea6700000001"
+			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/Ground.uasset",
+			"ChunkId": "3ec11f19bd8cb47f00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/Buildings/BP_BuildMoney.uasset",
-			"ChunkId": "ab2477fdfb86665000000001"
+			"Path": "OrigamiSiege/Content/Blueprints/Buildings/BP_BuildMoneyMaker.uasset",
+			"ChunkId": "617018f0310dadbe00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Buildings/TypeBuildingsData.uasset",
 			"ChunkId": "2fab34892550fdde00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_GameHUD.uasset",
+			"ChunkId": "6d685c911146ea6700000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_VillageHUD.uasset",
 			"ChunkId": "b312a5f62cb6c5fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_HUDManager.uasset",
+			"ChunkId": "b67c9738737597fc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_PauseMenu.uasset",
+			"ChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Grids/BP_ConstructionCell.uasset",
 			"ChunkId": "143d9669fa1249bb00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/Enemies/BP_Thrower.uasset",
-			"ChunkId": "0fc824c209a5588d00000001"
+			"Path": "OrigamiSiege/Content/Blueprints/Controllers/TD_GameMode.uasset",
+			"ChunkId": "0c8d4dc2deef2f7000000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Enemies/BP_BasicWater.uasset",
@@ -1323,6 +3539,10 @@
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/BP_Spawner.uasset",
 			"ChunkId": "51e4cd551f7d65ab00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level2.umap",
+			"ChunkId": "101fd7303f3f1fdb00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Levels/Level1.umap",
@@ -1447,8 +3667,22 @@
 			"PackageChunkId": "c1ceadea19a929af00000001"
 		},
 		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"PackageChunkId": "2cc5808063f890db00000001",
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
 			"Name": "/Engine/Tutorial/ContentIntroCurve",
 			"PackageChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
 		},
 		{
 			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
@@ -1599,20 +3833,6 @@
 			]
 		},
 		{
-			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
-			"PackageChunkId": "2cc5808063f890db00000001",
-			"BulkDataChunkIds": [
-				"2cc5808063f890db00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Solver",
-			"PackageChunkId": "5c918efb403d4bb200000001",
-			"BulkDataChunkIds": [
-				"5c918efb403d4bb200000002"
-			]
-		},
-		{
 			"Name": "/Engine/EditorLandscapeResources/DataLayer",
 			"PackageChunkId": "fe8e2f79bc05d6e200000001"
 		},
@@ -1705,174 +3925,16 @@
 			"PackageChunkId": "f421d8f857b9ed0300000001"
 		},
 		{
-			"Name": "/Game/Materials/HoverMaterial",
-			"PackageChunkId": "67a2fc1b18d01f1000000001"
+			"Name": "/Game/Blueprints/OrigamiInstance",
+			"PackageChunkId": "d7818a11b025c71600000001"
 		},
 		{
-			"Name": "/Game/Materials/HitMaterial",
-			"PackageChunkId": "825e264c62ee470800000001"
+			"Name": "/Game/Models/UI/Summeron",
+			"PackageChunkId": "bb091b9d11c8e23b00000001"
 		},
 		{
-			"Name": "/Game/Materials/DefaultMaterial",
-			"PackageChunkId": "619fae0c5656520400000001"
-		},
-		{
-			"Name": "/Game/Materials/ClickedMaterial",
-			"PackageChunkId": "f682f9b662bcb32000000001"
-		},
-		{
-			"Name": "/Game/Materials/BaseMaterial",
-			"PackageChunkId": "6dbbfe131c7280dd00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Menus/Menu_Interactions",
-			"PackageChunkId": "d118e786ed7e28ad00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Menus/Menu_Controller",
-			"PackageChunkId": "2972278c179c16c400000001"
-		},
-		{
-			"Name": "/Game/Blueprints/LvlComponents/BP_GameDetector",
-			"PackageChunkId": "ff747137ff818efd00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Enemies/Enemy",
-			"PackageChunkId": "3197eb89994b9b8700000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Defenses/Defense",
-			"PackageChunkId": "e24ce7543fb8bb0300000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Controllers/CameraPawn",
-			"PackageChunkId": "1a7b5e3c24788e7f00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Buildings/Building",
-			"PackageChunkId": "36dc47557ff55ecd00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/SpawnEnemy",
-			"PackageChunkId": "a616fa24f58602e500000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
-			"PackageChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
-			"PackageChunkId": "5516ce2c36f3d9ae00000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Cloud_Color",
-			"PackageChunkId": "048e6fb25437845700000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Horizon_Color",
-			"PackageChunkId": "344ace582a05a9a500000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/C_Sky_Zenith_Color",
-			"PackageChunkId": "a78221ddf916516d00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
-			"PackageChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
-			"PackageChunkId": "f38cb73e67825d9600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial",
-			"PackageChunkId": "2acd952336aab07f00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
-			"PackageChunkId": "3c018da41573213600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
-			"PackageChunkId": "6ebbe4a6ced841cc00000001"
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
-			"PackageChunkId": "3bf2df25e14476d700000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
-			"PackageChunkId": "4762b775bfe4b22d00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
-			"PackageChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Name": "/ControlRig/M_Manip",
-			"PackageChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Name": "/Paper2D/DummySprite",
-			"PackageChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"PackageChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Name": "/Engine/EngineFonts/Roboto",
-			"PackageChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
-			"PackageChunkId": "ea704fa9c99103cc00000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
-			"PackageChunkId": "6e6a371ba7ffd6e900000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
-			"PackageChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
-			"PackageChunkId": "c851afa144f311c000000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
-			"PackageChunkId": "6fab96d8842b418000000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/T_Sky_Stars",
-			"PackageChunkId": "56d51199b9b2142a00000001",
-			"BulkDataChunkIds": [
-				"56d51199b9b2142a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Levels/Level1_BuiltData",
-			"PackageChunkId": "9c6ba456ea96fd8800000001",
-			"BulkDataChunkIds": [
-				"9c6ba456ea96fd8800000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
+			"Name": "/Game/Models/UI/Icon_V_Archer",
+			"PackageChunkId": "601a5251bdd8ba3800000001"
 		},
 		{
 			"Name": "/Engine/EngineResources/WhiteSquareTexture",
@@ -2076,8 +4138,413 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
+			"Name": "/Game/Models/UI/Win_Texture",
+			"PackageChunkId": "06b50f5ca24489e200000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Pause_Background",
+			"PackageChunkId": "d5359bbb743fca5b00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Main_Background",
+			"PackageChunkId": "2cff654fa96966d700000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Lose_Texture",
+			"PackageChunkId": "81f494e1c1dbc39000000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Guard2",
+			"PackageChunkId": "bad05121956433a000000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Guard",
+			"PackageChunkId": "d1ff7bd605eb082400000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Fireman2",
+			"PackageChunkId": "591d2edeabbed9ac00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Fireman",
+			"PackageChunkId": "704d6dc283a09d2700000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Bombman2",
+			"PackageChunkId": "4a64bd7cd48da33800000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Bombman",
+			"PackageChunkId": "ce46c2401768f31d00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Archer2",
+			"PackageChunkId": "de7a18c58ea303e500000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Archer2",
+			"PackageChunkId": "436c58b24e0bc17b00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_MoneyMaker2",
+			"PackageChunkId": "ea45880f56eeb56a00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Village",
+			"PackageChunkId": "31388974f96c492600000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_MoneyMaker",
+			"PackageChunkId": "8237606212c9b0b300000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Money",
+			"PackageChunkId": "9404f3cb1e5541d300000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Guard2",
+			"PackageChunkId": "ea5674c32c99b5bf00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Guard",
+			"PackageChunkId": "131ca0de1bca72d800000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Game",
+			"PackageChunkId": "5577422e09ab48c500000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Fireman2",
+			"PackageChunkId": "53bf1ccbbe53753d00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Fireman",
+			"PackageChunkId": "00d3a752a2debc6c00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_ExperimentalField2",
+			"PackageChunkId": "fe10735e8c9d496400000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_ExperimentalField",
+			"PackageChunkId": "3fbe5a600b94d6ba00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Bombman2",
+			"PackageChunkId": "e06b6627f68cde0a00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Bombman",
+			"PackageChunkId": "05b74950b1fd266800000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Barracks2",
+			"PackageChunkId": "95ab357f03596c8b00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Barracks",
+			"PackageChunkId": "81228dede1d066cf00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Archery2",
+			"PackageChunkId": "32280548881baf7100000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Archery",
+			"PackageChunkId": "41f5ca7e28bec37a00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Wheel_Attack_Skeleton",
+			"PackageChunkId": "e83705a666170cad00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Wheel_Attack_PhysicsAsset",
+			"PackageChunkId": "5e76fc56adc1ee1f00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Spike",
+			"PackageChunkId": "5970db575eae06b000000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Throw_Attack_Skeleton",
+			"PackageChunkId": "60178b534fba7ee200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Throw_Attack_PhysicsAsset",
+			"PackageChunkId": "d67d94c70a99d8c500000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Shoot",
+			"PackageChunkId": "6c291168868489aa00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Knife/Grab",
+			"PackageChunkId": "d3c8810e0d7140d800000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Knife/Edge",
+			"PackageChunkId": "f3ff13ddd5956d4b00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Knife/Cutter",
+			"PackageChunkId": "48cba113dbedc45e00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Archer",
+			"PackageChunkId": "8203a59b0c3807e100000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Background",
+			"PackageChunkId": "77136a7474387a8400000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic",
+			"PackageChunkId": "dc34a24e858c491100000001",
+			"BulkDataChunkIds": [
+				"dc34a24e858c491100000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_Normal",
+			"PackageChunkId": "855fe609d1a76c3300000001",
+			"BulkDataChunkIds": [
+				"855fe609d1a76c3300000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg",
+			"PackageChunkId": "a81c8251c58e40f200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Wax",
+			"PackageChunkId": "dd3b0ae3a33673be00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Mat",
+			"PackageChunkId": "4f53e1ec05bf875200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Attack_Skeleton",
+			"PackageChunkId": "f51bcf0d04365a5c00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Attack_PhysicsAsset",
+			"PackageChunkId": "1913cc6d65a8889b00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic_Walk_Skeleton",
+			"PackageChunkId": "de095d705ed0fe5500000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic_Walk_PhysicsAsset",
+			"PackageChunkId": "23c02a004d7529be00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Pupil",
+			"PackageChunkId": "a828338fc414457500000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Iris",
+			"PackageChunkId": "eb69ac2fa0e2ed0900000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Hit",
+			"PackageChunkId": "bf58fab7660d68dd00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Eyelid",
+			"PackageChunkId": "47efbb7883b6d0b200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Eye",
+			"PackageChunkId": "d0d5028da7308f2900000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_BaseColor",
+			"PackageChunkId": "b71dd923b2275d1700000001",
+			"BulkDataChunkIds": [
+				"b71dd923b2275d1700000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture",
+			"PackageChunkId": "ac3a1b786cb0cbd000000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Wood_Texture_Normal",
+			"PackageChunkId": "75b65d9aebd779b200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Wood_Texture",
+			"PackageChunkId": "e4418ed36457831100000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Fire_Candle_Texture",
+			"PackageChunkId": "2fde3c9c8376a8e700000001",
+			"BulkDataChunkIds": [
+				"2fde3c9c8376a8e700000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Water_Normal",
+			"PackageChunkId": "4bfb12a692ba383100000001",
+			"BulkDataChunkIds": [
+				"4bfb12a692ba383100000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Fire_arrow",
+			"PackageChunkId": "97e0ba7f77069bd400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Arrow",
+			"PackageChunkId": "315a40ad5482744b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk",
+			"PackageChunkId": "6cf3cda5141e6e1d00000001",
+			"BulkDataChunkIds": [
+				"6cf3cda5141e6e1d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle",
+			"PackageChunkId": "16ea61a7badefab100000001",
+			"BulkDataChunkIds": [
+				"16ea61a7badefab100000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Guardian",
+			"PackageChunkId": "370828c9461c0aea00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk",
+			"PackageChunkId": "d30ce6418765249300000001",
+			"BulkDataChunkIds": [
+				"d30ce6418765249300000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle",
+			"PackageChunkId": "093a44688000631f00000001",
+			"BulkDataChunkIds": [
+				"093a44688000631f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Fire",
+			"PackageChunkId": "0c006db364f1fe8a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk",
+			"PackageChunkId": "7283b8ece372c3b800000001",
+			"BulkDataChunkIds": [
+				"7283b8ece372c3b800000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_7",
+			"PackageChunkId": "0e52481f6ae2bd6600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_6",
+			"PackageChunkId": "3ad23fbd9015fe9b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_5",
+			"PackageChunkId": "43d8432e935c9d9200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_4",
+			"PackageChunkId": "85b8ae8bc64de9e500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_3",
+			"PackageChunkId": "69e25f66858c0a6200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_2",
+			"PackageChunkId": "16d2fcc0c852e72200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_1",
+			"PackageChunkId": "f4cc193ff627a1b700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack",
+			"PackageChunkId": "87f36b02430db6cb00000001",
+			"BulkDataChunkIds": [
+				"87f36b02430db6cb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Bomb",
+			"PackageChunkId": "13376b4cf1ee40bd00000001"
+		},
+		{
+			"Name": "/Game/Materials/HoverMaterial",
+			"PackageChunkId": "67a2fc1b18d01f1000000001"
+		},
+		{
+			"Name": "/Game/Materials/DefaultMaterial",
+			"PackageChunkId": "619fae0c5656520400000001"
+		},
+		{
+			"Name": "/Game/Materials/ClickedMaterial",
+			"PackageChunkId": "f682f9b662bcb32000000001"
+		},
+		{
+			"Name": "/Game/Materials/BaseMaterial",
+			"PackageChunkId": "6dbbfe131c7280dd00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Menus/Menu_Interactions",
+			"PackageChunkId": "d118e786ed7e28ad00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Menus/Menu_Controller",
+			"PackageChunkId": "2972278c179c16c400000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Enemies/Enemy",
+			"PackageChunkId": "3197eb89994b9b8700000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Defenses/Defense",
+			"PackageChunkId": "e24ce7543fb8bb0300000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Controllers/CameraPawn",
+			"PackageChunkId": "1a7b5e3c24788e7f00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Buildings/Building",
+			"PackageChunkId": "36dc47557ff55ecd00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/SpawnEnemy",
+			"PackageChunkId": "a616fa24f58602e500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+			"PackageChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+			"PackageChunkId": "fd3456639b15286700000001"
 		},
 		{
 			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
@@ -2095,18 +4562,187 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/T_Sky_Blue",
-			"PackageChunkId": "86737b633647e77300000001",
+			"Name": "/Game/Models/Buildings/Archery/Archery_building",
+			"PackageChunkId": "938f7524aaeb03b900000001"
+		},
+		{
+			"Name": "/Game/Levels/Main_BuiltData",
+			"PackageChunkId": "b71b2cfed07ebe1200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack",
+			"PackageChunkId": "8f5f6382e86e9d8000000001",
 			"BulkDataChunkIds": [
-				"86737b633647e77300000002"
+				"8f5f6382e86e9d8000000002"
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
-			"PackageChunkId": "927b2fe4876a1f7400000001",
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk",
+			"PackageChunkId": "02e7bda92ff88c8700000001",
 			"BulkDataChunkIds": [
-				"927b2fe4876a1f7400000002"
+				"02e7bda92ff88c8700000002"
 			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle",
+			"PackageChunkId": "a6f6992f293e5f0600000001",
+			"BulkDataChunkIds": [
+				"a6f6992f293e5f0600000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack",
+			"PackageChunkId": "06b96cf50f26bee800000001",
+			"BulkDataChunkIds": [
+				"06b96cf50f26bee800000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Archer",
+			"PackageChunkId": "d385f19968ce78eb00000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Moneymaker/Moneymaker",
+			"PackageChunkId": "d25517ed3764494b00000001",
+			"BulkDataChunkIds": [
+				"d25517ed3764494b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Buildings/Expendables/Expendables",
+			"PackageChunkId": "df584fdcb8f93f0500000001",
+			"BulkDataChunkIds": [
+				"df584fdcb8f93f0500000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Buildings/Barracks/Barracks",
+			"PackageChunkId": "c4f00e7a5a8ac4e300000001",
+			"BulkDataChunkIds": [
+				"c4f00e7a5a8ac4e300000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_tower",
+			"PackageChunkId": "b81b4a1babd1666d00000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_diane",
+			"PackageChunkId": "2ddbcaf8429c6a2000000001"
+		},
+		{
+			"Name": "/Game/Levels/Level2_BuiltData",
+			"PackageChunkId": "d376e0fce666f99f00000001",
+			"BulkDataChunkIds": [
+				"d376e0fce666f99f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Level1_BuiltData",
+			"PackageChunkId": "9c6ba456ea96fd8800000001",
+			"BulkDataChunkIds": [
+				"9c6ba456ea96fd8800000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"PackageChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Cloud_Color",
+			"PackageChunkId": "048e6fb25437845700000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Horizon_Color",
+			"PackageChunkId": "344ace582a05a9a500000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/C_Sky_Zenith_Color",
+			"PackageChunkId": "a78221ddf916516d00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/DroidSansMono",
+			"PackageChunkId": "e563b896e4821bdd00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"PackageChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"PackageChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"PackageChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"PackageChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"PackageChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
+			"PackageChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
+			"PackageChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"PackageChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"PackageChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"PackageChunkId": "6fab96d8842b418000000001"
 		},
 		{
 			"Name": "/HairStrands/Materials/HairDebugMaterial",
@@ -2125,6 +4761,38 @@
 			"PackageChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
+			"Name": "/DatasmithContent/Materials/Water/Textures/T_Water_LF_N",
+			"PackageChunkId": "01c2fca777d1b28900000001",
+			"BulkDataChunkIds": [
+				"01c2fca777d1b28900000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Blue",
+			"PackageChunkId": "86737b633647e77300000001",
+			"BulkDataChunkIds": [
+				"86737b633647e77300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"PackageChunkId": "927b2fe4876a1f7400000001",
+			"BulkDataChunkIds": [
+				"927b2fe4876a1f7400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Stars",
+			"PackageChunkId": "56d51199b9b2142a00000001",
+			"BulkDataChunkIds": [
+				"56d51199b9b2142a00000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/PlaceholderTextures/FlatNormalMap",
+			"PackageChunkId": "94719bde6334f57200000001"
+		},
+		{
 			"Name": "/Engine/EngineMaterials/DefaultMaterial",
 			"PackageChunkId": "b4d3126ba7954ec000000001"
 		},
@@ -2141,8 +4809,52 @@
 			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
-			"Name": "/Game/Blueprints/BP_GameDetector",
-			"PackageChunkId": "000000000000000000000000"
+			"Name": "/Game/Blueprints/LvlComponents/BP_GameDetector",
+			"PackageChunkId": "ff747137ff818efd00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Summeron_Font",
+			"PackageChunkId": "01192731cc2d0a3600000001"
+		},
+		{
+			"Name": "/Game/Models/Map/PaperWall",
+			"PackageChunkId": "8b6a2cc1d255304500000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Body_2",
+			"PackageChunkId": "4fd64708ca73fdbf00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Body",
+			"PackageChunkId": "77a350b3387fffa100000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Wood",
+			"PackageChunkId": "8eee4cdb8f9ebe3300000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/ShootWood",
+			"PackageChunkId": "949f642a7bc0c68700000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Knife/Knife",
+			"PackageChunkId": "38607bae79f163aa00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Wax_Inst",
+			"PackageChunkId": "bb7f45de903b4f5800000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Mat_Inst",
+			"PackageChunkId": "34b33c00dfe088cb00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Water",
+			"PackageChunkId": "e2770ff196c0994900000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle",
+			"PackageChunkId": "248e1f406ed575ae00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Controllers/TD_Controller",
@@ -2151,6 +4863,10 @@
 		{
 			"Name": "/Game/Blueprints/Test",
 			"PackageChunkId": "39a9d92ab8d1b7b000000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Lvl2_Spawn",
+			"PackageChunkId": "94f027834135a2cc00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Lvl1_Spawn",
@@ -2173,8 +4889,44 @@
 			"PackageChunkId": "fabb39727be145c100000001"
 		},
 		{
+			"Name": "/Game/Models/Enemies/Wheel/Wheel_Attack_Anim",
+			"PackageChunkId": "275fd6706a45580300000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Throw_Attack_Anim",
+			"PackageChunkId": "155c13509cf3d5ac00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Walk_Anim",
+			"PackageChunkId": "1046a2accca9e7cb00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Attack_Anim",
+			"PackageChunkId": "81f888c48b3b445100000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic_Walk_Anim",
+			"PackageChunkId": "72c7ab41b6de15a400000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic_Attack",
+			"PackageChunkId": "ff6f6bb2070a21d700000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Fire_Candle",
+			"PackageChunkId": "fcd20062530de5f700000001"
+		},
+		{
 			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
 			"PackageChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/DroidSansMono",
+			"PackageChunkId": "1a82e2e1070fe60800000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultLitSpriteMaterial",
+			"PackageChunkId": "b4e99ebee8538a8000000001"
 		},
 		{
 			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
@@ -2187,6 +4939,10 @@
 		{
 			"Name": "/Paper2D/MaskedUnlitSpriteMaterial",
 			"PackageChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Name": "/Paper2D/TranslucentUnlitSpriteMaterial",
+			"PackageChunkId": "ed80e6fdcb7b904c00000001"
 		},
 		{
 			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Mount",
@@ -2497,16 +5253,1556 @@
 			"PackageChunkId": "34868b7f9c10838900000001"
 		},
 		{
+			"Name": "/Game/Blueprints/BP_GameDetector",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Models/Map/Wall",
+			"PackageChunkId": "6458c23ebb14598e00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic",
+			"PackageChunkId": "8e39a8d58cfe73fa00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Wheel_Attack",
+			"PackageChunkId": "bd97fd0fc9d5845500000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Wheel",
+			"PackageChunkId": "75b071d1a165f02e00000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Body",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Throw_Attack",
+			"PackageChunkId": "7fc3cc185e07e50100000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Throw/Throw",
+			"PackageChunkId": "2487ffc2f46834d600000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Candle/Candle_Attack",
+			"PackageChunkId": "e268492faec80d2100000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Basic/Basic_Walk",
+			"PackageChunkId": "1d1b580e93368ddc00000001"
+		},
+		{
 			"Name": "/Engine/EngineSky/SM_SkySphere",
 			"PackageChunkId": "48df828be219f7ad00000001"
 		},
 		{
-			"Name": "/Game/Blueprints/Enemies/BP_Knife",
-			"PackageChunkId": "770fcac79d55fc6c00000001"
+			"Name": "/Paper2D/MaskedLitSpriteMaterial",
+			"PackageChunkId": "c17e2b8f4ee5c13800000001"
 		},
 		{
-			"Name": "/Game/Blueprints/Defenses/BP_Arrow",
-			"PackageChunkId": "7150de86c316f2d800000001"
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_9",
+			"PackageChunkId": "99f85243363e035100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_8",
+			"PackageChunkId": "984b331ee822457600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_7",
+			"PackageChunkId": "b7a39e3ba672ac3700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_6",
+			"PackageChunkId": "90bda91d2760abf500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_5",
+			"PackageChunkId": "a79c00c27073254500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_4",
+			"PackageChunkId": "36445ffe2b4f5d8900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_39",
+			"PackageChunkId": "98de74b578ea746d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_38",
+			"PackageChunkId": "3c454ff4d63339c500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_37",
+			"PackageChunkId": "c4927fae4b4954ee00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_36",
+			"PackageChunkId": "d706f6c696085e7500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_35",
+			"PackageChunkId": "5b248b400e40c80100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_34",
+			"PackageChunkId": "34841450221026d900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_33",
+			"PackageChunkId": "fe16282e1852018b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_32",
+			"PackageChunkId": "e85e30b213a8352500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_31",
+			"PackageChunkId": "c710b4a5aadb37ca00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_30",
+			"PackageChunkId": "c36fa3770d76c32b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_3",
+			"PackageChunkId": "d9335226ab66a83700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_29",
+			"PackageChunkId": "918bf0f43126187000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_28",
+			"PackageChunkId": "142747e2b006332800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_27",
+			"PackageChunkId": "531e997510caf1d000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_26",
+			"PackageChunkId": "69d3d8919fd24bf000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_25",
+			"PackageChunkId": "a5ee1ff9cee3482c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_24",
+			"PackageChunkId": "b7198ee85c3bb82700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_23",
+			"PackageChunkId": "e776baef665eb22b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_22",
+			"PackageChunkId": "e373fd6c5584156700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_21",
+			"PackageChunkId": "37908b8f2e12876100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_20",
+			"PackageChunkId": "85389160c170bb8b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_2",
+			"PackageChunkId": "3350cb6a337adf9b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_19",
+			"PackageChunkId": "6500ce9c2ebfc15900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_18",
+			"PackageChunkId": "998f2ccca5dbac1500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_17",
+			"PackageChunkId": "1bfe6e4656d4d88400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_16",
+			"PackageChunkId": "890230209bd3094e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_15",
+			"PackageChunkId": "334190552d8d286600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_14",
+			"PackageChunkId": "b317f76b2d22d3d000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_13",
+			"PackageChunkId": "27eae813d050911e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_12",
+			"PackageChunkId": "8ee81dbbbc3cc44c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_11",
+			"PackageChunkId": "6268db97339e851800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_10",
+			"PackageChunkId": "74fff6f3e578b8af00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_1",
+			"PackageChunkId": "db191b93684e708e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Sprite_0",
+			"PackageChunkId": "7723753026dc962500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_9",
+			"PackageChunkId": "9d37bbb60e7bdb4600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_8",
+			"PackageChunkId": "f525415d5b779f0700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_7",
+			"PackageChunkId": "d1e06ccccde3a1d400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_6",
+			"PackageChunkId": "5d20e4efefdc06b600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_5",
+			"PackageChunkId": "dea4a4357822beb100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_48",
+			"PackageChunkId": "c7caab6e07f3cd8500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_47",
+			"PackageChunkId": "ad12ee7a691466fb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_46",
+			"PackageChunkId": "61631ab08c32269600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_45",
+			"PackageChunkId": "c494b71aa727596e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_44",
+			"PackageChunkId": "3c1f91dcdf419c3900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_43",
+			"PackageChunkId": "85f1f743f2a5263c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_42",
+			"PackageChunkId": "8a0292c485477abd00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_41",
+			"PackageChunkId": "a41c90333df4722500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_40",
+			"PackageChunkId": "f566da1080db0ce200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_4",
+			"PackageChunkId": "eb39924279c3786c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_39",
+			"PackageChunkId": "057abc54ed4a473c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_38",
+			"PackageChunkId": "e104e43b6afc5c8b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_37",
+			"PackageChunkId": "d14b5900f580619800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_36",
+			"PackageChunkId": "dd7a34191eb4b1b500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_35",
+			"PackageChunkId": "97ad78f05aa1646400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_34",
+			"PackageChunkId": "16953d10b8728cd700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_33",
+			"PackageChunkId": "84a49757c6b134e000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_32",
+			"PackageChunkId": "9212a1eb326f6b8100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_31",
+			"PackageChunkId": "20e8142db460343e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_30",
+			"PackageChunkId": "9f06a70ecc8db35700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_3",
+			"PackageChunkId": "737abf372c88cfef00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_29",
+			"PackageChunkId": "a2d68c6ab57be7f400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_28",
+			"PackageChunkId": "76ace82cef90632000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_27",
+			"PackageChunkId": "5d605697ae3ee25c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_26",
+			"PackageChunkId": "0965142857e7a73000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_25",
+			"PackageChunkId": "a189d68595f0f55d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_24",
+			"PackageChunkId": "b2e77eb9411aef8200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_23",
+			"PackageChunkId": "c92c33964c0a5d8400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_22",
+			"PackageChunkId": "1e8ffcacef8a39f200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_21",
+			"PackageChunkId": "54c2607b40e33c2400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_20",
+			"PackageChunkId": "80f6eeaea3e5f50100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_2",
+			"PackageChunkId": "df651561d614eefb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_19",
+			"PackageChunkId": "c6dc6d83083e578400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_18",
+			"PackageChunkId": "a0464d551860054500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_17",
+			"PackageChunkId": "5909516516629c1100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_16",
+			"PackageChunkId": "7e710e59475f3fb700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_15",
+			"PackageChunkId": "96e40744188a7f6800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_14",
+			"PackageChunkId": "c302112ca6cf717700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_13",
+			"PackageChunkId": "51f7456981cb968200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_12",
+			"PackageChunkId": "b6fce82ae4b48eeb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_11",
+			"PackageChunkId": "ca34aa53e84b5b7b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_10",
+			"PackageChunkId": "ab8028b2d2beeeee00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_1",
+			"PackageChunkId": "52325ab9e6c186b800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Sprite_0",
+			"PackageChunkId": "8e20e524b3a27ef500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Guardian_Sprite_0",
+			"PackageChunkId": "2d9ed8b315c0ce2f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_9",
+			"PackageChunkId": "fc025ce2a7d9eca200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_8",
+			"PackageChunkId": "532f35c2e4f124c900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_7",
+			"PackageChunkId": "0287e8d5466097fb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_6",
+			"PackageChunkId": "7b315d4c8796d84700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_5",
+			"PackageChunkId": "0d753fb3c2936fda00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_4",
+			"PackageChunkId": "cbaa6acd5c0715c600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_35",
+			"PackageChunkId": "06de41c762c9bcd700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_34",
+			"PackageChunkId": "55466d9554a2d4e400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_33",
+			"PackageChunkId": "975d36afbe46ee5400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_32",
+			"PackageChunkId": "0822cce5a787964a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_31",
+			"PackageChunkId": "132c969af648586700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_30",
+			"PackageChunkId": "b7a6ec04f895b2f500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_3",
+			"PackageChunkId": "c306519fda5ecac900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_29",
+			"PackageChunkId": "35060d20679921cc00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_28",
+			"PackageChunkId": "18ecfc848860c3cc00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_27",
+			"PackageChunkId": "43a569388d86cdcc00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_26",
+			"PackageChunkId": "c8e0d507e3d3a6d900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_25",
+			"PackageChunkId": "4f701999f1ce083600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_24",
+			"PackageChunkId": "64f4287c2379eb2600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_23",
+			"PackageChunkId": "969aa1aee0c14c0a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_22",
+			"PackageChunkId": "e0e554b1a0fdd27e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_21",
+			"PackageChunkId": "47f1b86764fb315a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_20",
+			"PackageChunkId": "de5a17117380916600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_2",
+			"PackageChunkId": "082f1ec6490ba31700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_19",
+			"PackageChunkId": "ce1420d736b1afbc00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_18",
+			"PackageChunkId": "46f57f91251a8f6000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_17",
+			"PackageChunkId": "ef86e66c7090d65300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_16",
+			"PackageChunkId": "59e831717f7ad9a500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_15",
+			"PackageChunkId": "114cacadd1cd391700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_14",
+			"PackageChunkId": "0f457fe22e746d2000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_13",
+			"PackageChunkId": "6bbc4fb8c4f9151b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_12",
+			"PackageChunkId": "fe7352d2fa1258c000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_11",
+			"PackageChunkId": "0aa8b97e1b4a03da00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_10",
+			"PackageChunkId": "05c476620ce485cc00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Sprite_1",
+			"PackageChunkId": "726177bbdf0f47d400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_9",
+			"PackageChunkId": "3df7007cafe25a8d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_8",
+			"PackageChunkId": "e891127ee825075500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_7",
+			"PackageChunkId": "d62fe50d41c0f37700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_6",
+			"PackageChunkId": "e02db0c5cd98bd7b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_5",
+			"PackageChunkId": "1f1919ca1c76f42b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_4",
+			"PackageChunkId": "8f17ae1e3d406b2000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_3",
+			"PackageChunkId": "26a425a49ecff02d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_29",
+			"PackageChunkId": "7c465457e6f6ee5100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_28",
+			"PackageChunkId": "326a97c32ac7b1e500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_27",
+			"PackageChunkId": "df7c52adb937d24100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_26",
+			"PackageChunkId": "1acde8ca0069717000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_25",
+			"PackageChunkId": "5549fdcf8fc81aac00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_24",
+			"PackageChunkId": "2327afc3c3cb8ec300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_23",
+			"PackageChunkId": "425b13b2beffc8ef00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_22",
+			"PackageChunkId": "52a8f5e330c89be200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_21",
+			"PackageChunkId": "248b68f451370cdd00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_20",
+			"PackageChunkId": "7484bdaac716b97700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_2",
+			"PackageChunkId": "04c1413fbd08847c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_19",
+			"PackageChunkId": "aed5297fa5515ed900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_18",
+			"PackageChunkId": "15c38d74e94ee31d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_17",
+			"PackageChunkId": "0350dbd68861fe7700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_16",
+			"PackageChunkId": "093b34acc76b154100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_15",
+			"PackageChunkId": "86a27bed6c5a4a2b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_14",
+			"PackageChunkId": "780a8279099eb06200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_13",
+			"PackageChunkId": "9ec83b2eab383ca100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_12",
+			"PackageChunkId": "7aa33831115ef08a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_11",
+			"PackageChunkId": "63d51353af6df57700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_10",
+			"PackageChunkId": "91d99883790b55e100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_1",
+			"PackageChunkId": "94182b15c167480000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Sprite_0",
+			"PackageChunkId": "0b0875440beb5c8000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Fire_Sprite_0",
+			"PackageChunkId": "db2e3e0c20ccf0c000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_9",
+			"PackageChunkId": "8bbaaa5fb60e210f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_8",
+			"PackageChunkId": "f5ec9cb5584a7b8c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_7",
+			"PackageChunkId": "ad434e0f3953ce0d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_6",
+			"PackageChunkId": "501c3745dc132d8000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_5",
+			"PackageChunkId": "c7796daa5839157900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_4",
+			"PackageChunkId": "a9ef9cf68a51860a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_3",
+			"PackageChunkId": "8f07883607709ec900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_29",
+			"PackageChunkId": "8e76d20ae17836e300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_28",
+			"PackageChunkId": "75bbb72357d6ff7200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_27",
+			"PackageChunkId": "09e9efabd77eeb3000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_26",
+			"PackageChunkId": "2565c36c34a7cfbe00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_25",
+			"PackageChunkId": "7f13c689119a474d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_24",
+			"PackageChunkId": "a6019bc1b3ddb26f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_23",
+			"PackageChunkId": "f629563f1e0b0faf00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_22",
+			"PackageChunkId": "adcc8624e9e8601f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_21",
+			"PackageChunkId": "b06f3ddb8d46caf300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_20",
+			"PackageChunkId": "88dc6645c7d5792c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_2",
+			"PackageChunkId": "34151d86bd745d3400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_19",
+			"PackageChunkId": "0562da560c23e9e100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_18",
+			"PackageChunkId": "5856909d47492a4e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_17",
+			"PackageChunkId": "71d7ed17bdf17dc400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_16",
+			"PackageChunkId": "50d582842c87a57600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_15",
+			"PackageChunkId": "9bcfa7033d937f9100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_14",
+			"PackageChunkId": "76561363d121481f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_13",
+			"PackageChunkId": "ad98cb8eec7ee94700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_12",
+			"PackageChunkId": "b9f3fc184fc9ae3300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_11",
+			"PackageChunkId": "f18e4e3c70ef50b400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_10",
+			"PackageChunkId": "4dd63292de3a2a0300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_1",
+			"PackageChunkId": "ac78bc2a74340df000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Sprite_0",
+			"PackageChunkId": "6d3453891f1b03a200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_6",
+			"PackageChunkId": "3195b23d4f58ee9300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_5",
+			"PackageChunkId": "52ffeec4a1d4cb5c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_4",
+			"PackageChunkId": "39fbd48e27d3397800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_3",
+			"PackageChunkId": "8254530489fa689c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_2",
+			"PackageChunkId": "27de7dfcbbdc46ad00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_1",
+			"PackageChunkId": "429656b425241b3200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Sprite_0",
+			"PackageChunkId": "6581a6c34644a87400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_9",
+			"PackageChunkId": "54e2e147b3342dd700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_8",
+			"PackageChunkId": "8a093c2f423a080200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_7",
+			"PackageChunkId": "e7fbeba09dbd630900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_6",
+			"PackageChunkId": "acc7149e680d1a7600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_5",
+			"PackageChunkId": "f9a0c6e3d911e81b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_4",
+			"PackageChunkId": "3d72b21ddb0654f700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_3",
+			"PackageChunkId": "1cd4363d2bc7251d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_2",
+			"PackageChunkId": "44b0b7edb6207f2f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_19",
+			"PackageChunkId": "1ac95946e868ce4a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_18",
+			"PackageChunkId": "69bc8555926aa5b600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_17",
+			"PackageChunkId": "f95fd5c4f96945eb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_16",
+			"PackageChunkId": "d3b9dc40846d926600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_15",
+			"PackageChunkId": "d5c0002c89201d1300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_14",
+			"PackageChunkId": "b04b01013afdc24600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_13",
+			"PackageChunkId": "04baf9de04587ed600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_12",
+			"PackageChunkId": "f9626f286dbf189400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_11",
+			"PackageChunkId": "b413ead1ea9a96b000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_10",
+			"PackageChunkId": "06f7b0d9c3803bd600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_1",
+			"PackageChunkId": "634b90bdea362ce100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Sprite_0",
+			"PackageChunkId": "78173cefaa41a37300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Bomb_Sprite_0",
+			"PackageChunkId": "d578e1f12d71ce9800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Fire_arrow_Sprite_0",
+			"PackageChunkId": "8eaf26bec77db1db00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Arrow_Sprite_0",
+			"PackageChunkId": "a1ed4df09e14b5ff00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_9",
+			"PackageChunkId": "3016c3db99bcdba300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_8",
+			"PackageChunkId": "18ef65553c81ed8000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_7",
+			"PackageChunkId": "b09994a37ed3952800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_6",
+			"PackageChunkId": "3517a56081e9606a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_5",
+			"PackageChunkId": "e26d033507a74d4c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_4",
+			"PackageChunkId": "8723bff3ab4a829800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_39",
+			"PackageChunkId": "de7ddb536c74424c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_38",
+			"PackageChunkId": "2559ce063fb9ca8f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_37",
+			"PackageChunkId": "466b41d8af56c30f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_36",
+			"PackageChunkId": "c00fa23b57c610e700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_35",
+			"PackageChunkId": "fe6ba5105177e9b600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_34",
+			"PackageChunkId": "4e36af6c92187f6100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_33",
+			"PackageChunkId": "7cd6fbc79fc329ec00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_32",
+			"PackageChunkId": "fe97b197ca81567f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_31",
+			"PackageChunkId": "23ea7f63118d740300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_30",
+			"PackageChunkId": "2faa8e62aac682b800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_3",
+			"PackageChunkId": "1fa1abc63d1d7ae000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_29",
+			"PackageChunkId": "c13a3753068db81000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_28",
+			"PackageChunkId": "578465d5e711007900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_27",
+			"PackageChunkId": "5e194e71bd6925d200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_26",
+			"PackageChunkId": "39dbabcc68f1ff1b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_25",
+			"PackageChunkId": "df41f8bd17c0cf6000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_24",
+			"PackageChunkId": "e14b24c0cdc4aca100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_23",
+			"PackageChunkId": "2780c7493f1c4a7c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_22",
+			"PackageChunkId": "510e65835b56408700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_21",
+			"PackageChunkId": "f96607458d6f013f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_20",
+			"PackageChunkId": "fd24cea37f50ddd700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_2",
+			"PackageChunkId": "13efb2300966da6a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_19",
+			"PackageChunkId": "8f9d5d8676b50b6500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_18",
+			"PackageChunkId": "70e2a6a63d413a6f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_17",
+			"PackageChunkId": "ae42710ffd8eb39400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_16",
+			"PackageChunkId": "10900a248bdd86d400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_15",
+			"PackageChunkId": "37e434cdd52dda8700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_14",
+			"PackageChunkId": "7a54aaa770369d0900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_13",
+			"PackageChunkId": "7582aae6b772d0c800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_12",
+			"PackageChunkId": "18efa11b0f9db21c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_11",
+			"PackageChunkId": "615da9bb615c293600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_10",
+			"PackageChunkId": "c275b8a1aed1720500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Sprite_1",
+			"PackageChunkId": "f2a4a7d6f8c50aa200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_9",
+			"PackageChunkId": "0b9da9f1137801ad00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_8",
+			"PackageChunkId": "5233f5604338274000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_7",
+			"PackageChunkId": "6481980992d8d14700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_6",
+			"PackageChunkId": "9ce54b0427b5819200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_5",
+			"PackageChunkId": "1687fd76c2dd427600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_4",
+			"PackageChunkId": "2fa38470244f5a5800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_39",
+			"PackageChunkId": "2ed4ef97b188ceb300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_38",
+			"PackageChunkId": "81cd8a44f970a95b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_37",
+			"PackageChunkId": "2238a21f1c7b421600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_36",
+			"PackageChunkId": "75c2f381aa3d98e200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_35",
+			"PackageChunkId": "7e5a31a65e1b642c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_34",
+			"PackageChunkId": "3cba1b2f63ae198d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_33",
+			"PackageChunkId": "e083858269bedbae00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_32",
+			"PackageChunkId": "0d00a705b1f793d600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_31",
+			"PackageChunkId": "8aa4e335073a655600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_30",
+			"PackageChunkId": "e25e48095197cdfe00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_3",
+			"PackageChunkId": "20c409e26597bc4b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_29",
+			"PackageChunkId": "63ac822f20e1d25e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_28",
+			"PackageChunkId": "c0b47e1668c5781100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_27",
+			"PackageChunkId": "8f2e5d8bcd75080700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_26",
+			"PackageChunkId": "25195559a66a4cee00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_25",
+			"PackageChunkId": "f9b0659a19e8e5d200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_24",
+			"PackageChunkId": "04390b44a5e5d44d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_23",
+			"PackageChunkId": "c6e24e970b479bae00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_22",
+			"PackageChunkId": "0d44dd04054d204200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_21",
+			"PackageChunkId": "4146b8a67d88b2ae00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_20",
+			"PackageChunkId": "e6db20af7a7967d200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_2",
+			"PackageChunkId": "de925b37ef7fb2c800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_19",
+			"PackageChunkId": "2bd6095ad86c6eb200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_18",
+			"PackageChunkId": "cb0c67bbe4e20a6900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_17",
+			"PackageChunkId": "afb7f3ce3115e8fb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_16",
+			"PackageChunkId": "325a8dcea6a3bf6600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_15",
+			"PackageChunkId": "475a3ccff933aa6500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_14",
+			"PackageChunkId": "d1d3c28b227202f100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_13",
+			"PackageChunkId": "8ce786a8cffa8d6700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_12",
+			"PackageChunkId": "cc3a19c88b3ca89a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_11",
+			"PackageChunkId": "d4687bbfe561d85b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_10",
+			"PackageChunkId": "afc5f0a04f000c4d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Sprite_1",
+			"PackageChunkId": "01cfa15e20647c8600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_9",
+			"PackageChunkId": "f95da718e3b8900900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_8",
+			"PackageChunkId": "c775ee3c9e2abe6800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_7",
+			"PackageChunkId": "fe9e915f99e201f300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_6",
+			"PackageChunkId": "d8d5dab1a125b20000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_5",
+			"PackageChunkId": "290f4fe84b8cfc2100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_4",
+			"PackageChunkId": "0ab992512b729c1400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_39",
+			"PackageChunkId": "f81f4c263c60cbc200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_38",
+			"PackageChunkId": "c32349a382ef47a200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_37",
+			"PackageChunkId": "5efd183c96ba4a6400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_36",
+			"PackageChunkId": "2c88d0a87960a11400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_35",
+			"PackageChunkId": "f217d43bdf0e69cb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_34",
+			"PackageChunkId": "6a64e070609efca900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_33",
+			"PackageChunkId": "48eb867c7916c59100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_32",
+			"PackageChunkId": "91b7741ac8daecfb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_31",
+			"PackageChunkId": "ac752ef69887dbda00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_30",
+			"PackageChunkId": "cf494473c5e6f7b300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_3",
+			"PackageChunkId": "fbfb5168a45a41c200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_29",
+			"PackageChunkId": "c272a2ff2db25b1700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_28",
+			"PackageChunkId": "8b4f365aaf298d5d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_27",
+			"PackageChunkId": "06699eb7cc79381d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_26",
+			"PackageChunkId": "03fbb6baa0f3fb5200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_25",
+			"PackageChunkId": "4161ffcd3d372e8500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_24",
+			"PackageChunkId": "c62f18da6794821500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_23",
+			"PackageChunkId": "554fa2aa95498e2800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_22",
+			"PackageChunkId": "4838ec9dc4c8ec4200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_21",
+			"PackageChunkId": "3a60271010fa253400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_20",
+			"PackageChunkId": "6a01377056caff6400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_2",
+			"PackageChunkId": "d7ab96d4f294e11100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_19",
+			"PackageChunkId": "e6a3890732ee9eca00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_18",
+			"PackageChunkId": "329ea1f3f15ecb1700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_17",
+			"PackageChunkId": "66a81eed98175e2b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_16",
+			"PackageChunkId": "b9a39cd3547f6a9200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_15",
+			"PackageChunkId": "532ea4b589477f2000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_14",
+			"PackageChunkId": "bfe920a0008b2b9900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_13",
+			"PackageChunkId": "3ec969f787ff6b8a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_12",
+			"PackageChunkId": "2ac8242d992a0f2600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_11",
+			"PackageChunkId": "10453efdc4571ee100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_10",
+			"PackageChunkId": "7da6f821b0b990d100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Sprite_1",
+			"PackageChunkId": "792fc8721039ab4d00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_9",
+			"PackageChunkId": "021a79ece80f6c5f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_8",
+			"PackageChunkId": "938bf91788ff0d1c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_7",
+			"PackageChunkId": "f0bc080e7ba70cf900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_6",
+			"PackageChunkId": "66ec19f77464816600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_5",
+			"PackageChunkId": "8c24b326393338f700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_4",
+			"PackageChunkId": "54b6b14e72ab482b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_35",
+			"PackageChunkId": "14f15c0928fdbc6400000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_34",
+			"PackageChunkId": "41f786becc1dd0f000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_33",
+			"PackageChunkId": "97ad89e8c286ae1200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_32",
+			"PackageChunkId": "15cd4231c89e1d6300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_31",
+			"PackageChunkId": "4534e2397d2eeb4600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_30",
+			"PackageChunkId": "12cd785faa891d0600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_3",
+			"PackageChunkId": "49094ea6c2be60fb00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_29",
+			"PackageChunkId": "c132b444fff2ae8000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_28",
+			"PackageChunkId": "2234ad5de2e61cef00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_27",
+			"PackageChunkId": "ab64da791ec2d04100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_26",
+			"PackageChunkId": "048a72eecf81e4da00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_25",
+			"PackageChunkId": "0a7594a6c5f439da00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_24",
+			"PackageChunkId": "f37a0e840287ebcd00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_23",
+			"PackageChunkId": "bddd31cb978fa8e700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_22",
+			"PackageChunkId": "6322ff5917cbd49f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_21",
+			"PackageChunkId": "e75fd34f4eec612700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_20",
+			"PackageChunkId": "17cc7ca338a4944300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_2",
+			"PackageChunkId": "5b6c043a6985267100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_19",
+			"PackageChunkId": "36b0e82888282e9100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_18",
+			"PackageChunkId": "7d3787492dffa2b300000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_17",
+			"PackageChunkId": "cd1b4e0d942aec0700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_16",
+			"PackageChunkId": "645bdae75de01a4600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_15",
+			"PackageChunkId": "a9a0a15aea56b73800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_14",
+			"PackageChunkId": "59322cf339ba0b4a00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_13",
+			"PackageChunkId": "df89494f42d854c800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_12",
+			"PackageChunkId": "dd2472db8f91895e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_11",
+			"PackageChunkId": "73e22646f93571c600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_10",
+			"PackageChunkId": "db1b4dc15a912fc600000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Sprite_1",
+			"PackageChunkId": "b99a0492e367ea7f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Archer_Sprite_0",
+			"PackageChunkId": "3d9f6565fa10628200000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Moneymaker/Moneymaker_Sprite_0",
+			"PackageChunkId": "5d95a04081f1f21200000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Expendables/Expendables_Sprite_0",
+			"PackageChunkId": "05e341b2a6a4fde500000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Barracks/Barracks_Sprite_0",
+			"PackageChunkId": "056b4b57197ff2f200000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_tower_Sprite_0",
+			"PackageChunkId": "bf0d4411daf4a60400000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_diane_Sprite_0",
+			"PackageChunkId": "6bc63c2ad5d6f1da00000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_building_Sprite_0",
+			"PackageChunkId": "b67ab5484ac4b89e00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Enemies/BP_Knife",
+			"PackageChunkId": "770fcac79d55fc6c00000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
@@ -2523,6 +6819,106 @@
 		{
 			"Name": "/Engine/EngineSky/BP_Sky_Sphere",
 			"PackageChunkId": "cdbcbf4a06978c3b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk_Anim",
+			"PackageChunkId": "f3dcc6c07daf3e1b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Idle/Guardian_Idle_Anim",
+			"PackageChunkId": "ff62b40cff519fa700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Guardian/Guardian_Sprite",
+			"PackageChunkId": "999c25492ab0a12b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Walk/Fireman_Walk_Anim",
+			"PackageChunkId": "1f2daa88934cbce900000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Idle/Fireman_Idle_Anim",
+			"PackageChunkId": "db41d406aacdf65e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Fire/Fire_Sprite",
+			"PackageChunkId": "c6f4e90dba76ba7000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Walk/Bombman_Walk_Anim",
+			"PackageChunkId": "5b8e71f1adae924700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_Anim",
+			"PackageChunkId": "c7303591b818b78e00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Attack/Bombman_Attack_Anim",
+			"PackageChunkId": "01d42a9e15dbf23f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Bomb_Sprite",
+			"PackageChunkId": "5ac7e41879a3024100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Fire_arrow_Sprite",
+			"PackageChunkId": "ebea446d8397865100000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Arrow/Arrow_Sprite",
+			"PackageChunkId": "34dfe8464318934500000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Defenses/BP_Arrow",
+			"PackageChunkId": "7150de86c316f2d800000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack_Anim",
+			"PackageChunkId": "df0247350880e85f00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Walk/Archer_Walk_Anim",
+			"PackageChunkId": "9348cc2e177df26700000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Idle/Archer_Idle_Anim",
+			"PackageChunkId": "87dbb32565ebd88c00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Attack/Archer_Attack_Anim",
+			"PackageChunkId": "8340afb37b5d65b500000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Archer/Archer_sprite",
+			"PackageChunkId": "599514e38e11dd5a00000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Moneymaker/Moneymaker_Sprite",
+			"PackageChunkId": "d82c5117ebf7c97600000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Expendables/Expendables_Sprite",
+			"PackageChunkId": "d89c6e8c4e3ade2500000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Barracks/Barracks_Sprite",
+			"PackageChunkId": "ac59731acddc3f4b00000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_tower_Sprite",
+			"PackageChunkId": "94bb1dd19f1c0b6200000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_diane_Sprite",
+			"PackageChunkId": "8483ff65ace0395100000001"
+		},
+		{
+			"Name": "/Game/Models/Buildings/Archery/Archery_building_Sprite",
+			"PackageChunkId": "fac6bce0797fed7b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion",
+			"PackageChunkId": "ca6a23f29fa3c29100000001"
 		},
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
@@ -2557,16 +6953,20 @@
 			"PackageChunkId": "a2bc56991da13d6b00000001"
 		},
 		{
-			"Name": "/Game/Blueprints/UI/WP_HUDManager",
-			"PackageChunkId": "b67c9738737597fc00000001"
+			"Name": "/Game/Blueprints/Menus/Win_Lose_HUD",
+			"PackageChunkId": "99079583eca6dde200000001"
 		},
 		{
-			"Name": "/Game/Blueprints/Controllers/TD_GameMode",
-			"PackageChunkId": "0c8d4dc2deef2f7000000001"
+			"Name": "/Game/Blueprints/Menus/Win_Lose_Menu",
+			"PackageChunkId": "beab7665beb2e79c00000001"
 		},
 		{
-			"Name": "/Game/Blueprints/TD_GameMode",
-			"PackageChunkId": "000000000000000000000000"
+			"Name": "/Game/Blueprints/Menus/Win_Lose_GameMode",
+			"PackageChunkId": "cde0fb0c0ed04d9900000001"
+		},
+		{
+			"Name": "/Game/Levels/Win_Lose",
+			"PackageChunkId": "111ef9cfad02d83e00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Buildings/BP_BuildArchery",
@@ -2605,6 +7005,10 @@
 			"PackageChunkId": "11b17cd0c6ba6b4c00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/Enemies/BP_Thrower",
+			"PackageChunkId": "0fc824c209a5588d00000001"
+		},
+		{
 			"Name": "/Game/Blueprints/GameManager",
 			"PackageChunkId": "d49677075519279600000001"
 		},
@@ -2613,32 +7017,52 @@
 			"PackageChunkId": "be0ea2d31e243de200000001"
 		},
 		{
-			"Name": "/Game/Blueprints/UI/WP_GameHUD",
-			"PackageChunkId": "6d685c911146ea6700000001"
+			"Name": "/Game/Blueprints/LvlComponents/Ground",
+			"PackageChunkId": "3ec11f19bd8cb47f00000001"
 		},
 		{
-			"Name": "/Game/Blueprints/Buildings/BP_BuildMoney",
-			"PackageChunkId": "ab2477fdfb86665000000001"
+			"Name": "/Game/Blueprints/Buildings/BP_BuildMoneyMaker",
+			"PackageChunkId": "617018f0310dadbe00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Buildings/TypeBuildingsData",
 			"PackageChunkId": "2fab34892550fdde00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/Buildings/BP_BuildMoney",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Blueprints/UI/WP_GameHUD",
+			"PackageChunkId": "6d685c911146ea6700000001"
+		},
+		{
 			"Name": "/Game/Blueprints/UI/WP_VillageHUD",
 			"PackageChunkId": "b312a5f62cb6c5fb00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/UI/WP_HUDManager",
+			"PackageChunkId": "b67c9738737597fc00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/UI/WP_PauseMenu",
+			"PackageChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Grids/BP_ConstructionCell",
 			"PackageChunkId": "143d9669fa1249bb00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/Controllers/TD_GameMode",
+			"PackageChunkId": "0c8d4dc2deef2f7000000001"
+		},
+		{
 			"Name": "/Game/Blueprints/BP_ConstructionCell",
 			"PackageChunkId": "000000000000000000000000"
 		},
 		{
-			"Name": "/Game/Blueprints/Enemies/BP_Thrower",
-			"PackageChunkId": "0fc824c209a5588d00000001"
+			"Name": "/Game/Blueprints/TD_GameMode",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Game/Blueprints/Enemies/BP_BasicWater",
@@ -2679,6 +7103,10 @@
 		{
 			"Name": "/Game/Blueprints/LvlComponents/BP_Spawner",
 			"PackageChunkId": "51e4cd551f7d65ab00000001"
+		},
+		{
+			"Name": "/Game/Levels/Level2",
+			"PackageChunkId": "101fd7303f3f1fdb00000001"
 		},
 		{
 			"Name": "/Game/Levels/Level1",
