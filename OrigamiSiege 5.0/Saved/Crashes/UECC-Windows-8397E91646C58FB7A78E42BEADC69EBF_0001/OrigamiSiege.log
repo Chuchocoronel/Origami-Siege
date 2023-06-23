@@ -1,0 +1,992 @@
+﻿Log file open, 06/23/23 04:20:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=31600)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: OrigamiSiege
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:/Uni/Origami-Siege/OrigamiSiege 5.0/OrigamiSiege.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.3086] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="cbebaab84dad8441467aa88c3a253c5d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.229453
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8397E91646C58FB7A78E42BEADC69EBF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.3086] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.23-02.20.04:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.23-02.20.04:308][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.23-02.20.04:312][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.23-02.20.04:327][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     DeviceId    : 2544
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     SubSysId    : 397d1462
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     DedicatedVideoMemory : 8439988224 bytes
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     SharedSystemMemory : 8554887168 bytes
+[2023.06.23-02.20.04:329][  0]LogD3D11RHI:     AdapterLuid : 0 56280
+[2023.06.23-02.20.04:472][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_1)
+[2023.06.23-02.20.04:472][  0]LogD3D11RHI:       8049/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     Revision    : 0000
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     SharedSystemMemory : 8554887168 bytes
+[2023.06.23-02.20.04:473][  0]LogD3D11RHI:     AdapterLuid : 0 59392
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     DeviceId    : 2544
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     SubSysId    : 397d1462
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     DedicatedVideoMemory : 8439988224 bytes
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     SharedSystemMemory : 8554887168 bytes
+[2023.06.23-02.20.04:474][  0]LogD3D11RHI:     AdapterLuid : 0 56280
+[2023.06.23-02.20.04:474][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.23-02.20.04:474][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.23-02.20.04:474][  0]LogHAL: Display: Platform has ~ 16 GB [17109774336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.23-02.20.04:474][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.23-02.20.04:474][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.23-02.20.04:474][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.23-02.20.04:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.23-02.20.04:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.23-02.20.04:475][  0]LogInit: Computer: DESKTOP-08F46JB
+[2023.06.23-02.20.04:475][  0]LogInit: User: user
+[2023.06.23-02.20.04:475][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.06.23-02.20.04:475][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.23-02.20.04:475][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.23-02.20.04:475][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.23-02.20.04:475][  0]LogMemory: Process Physical Memory: 258.29 MB used, 266.92 MB peak
+[2023.06.23-02.20.04:475][  0]LogMemory: Process Virtual Memory: 211.49 MB used, 211.49 MB peak
+[2023.06.23-02.20.04:475][  0]LogMemory: Physical Memory: 7876.36 MB used,  8440.80 MB free, 16317.15 MB total
+[2023.06.23-02.20.04:475][  0]LogMemory: Virtual Memory: 15009.39 MB used,  13083.76 MB free, 28093.15 MB total
+[2023.06.23-02.20.04:475][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.23-02.20.04:479][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.23-02.20.04:493][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.23-02.20.04:493][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.06.23-02.20.04:493][  0]LogInit: Using OS detected locale (es-ES).
+[2023.06.23-02.20.04:651][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.23-02.20.04:662][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.23-02.20.04:662][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.06.23-02.20.04:662][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2023.06.23-02.20.04:662][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2023.06.23-02.20.04:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.23-02.20.04:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.23-02.20.04:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.23-02.20.04:778][  0]LogD3D11RHI:     GPU DeviceId: 0x2544 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.23-02.20.04:778][  0]LogWindows: Attached monitors:
+[2023.06.23-02.20.04:778][  0]LogWindows:     resolution: 1920x1080, work area: (1920, -6) -> (3840, 1034), device: '\\.\DISPLAY1'
+[2023.06.23-02.20.04:778][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.06.23-02.20.04:778][  0]LogWindows: Found 2 attached monitors.
+[2023.06.23-02.20.04:778][  0]LogWindows: EnumDisplayDevices:
+[2023.06.23-02.20.04:778][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.06.23-02.20.04:778][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.06.23-02.20.04:778][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.23-02.20.04:778][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.23-02.20.04:778][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.23-02.20.04:778][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.06.23-02.20.04:778][  0]LogD3D11RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.06.23-02.20.04:778][  0]LogD3D11RHI:      Driver Date: 2-24-2023
+[2023.06.23-02.20.04:779][  0]LogRHI: Texture pool is 5634 MB (70% of 8049 MB)
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     DeviceId    : 2544
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     SubSysId    : 397d1462
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     DedicatedVideoMemory : 8439988224 bytes
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     SharedSystemMemory : 8554887168 bytes
+[2023.06.23-02.20.04:779][  0]LogD3D11RHI:     AdapterLuid : 0 56280
+[2023.06.23-02.20.04:858][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.23-02.20.04:858][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.23-02.20.04:858][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.06.23-02.20.04:858][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.23-02.20.04:891][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.06.23-02.20.04:919][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.23-02.20.04:924][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Uni/Origami-Siege/OrigamiSiege 5.0/OrigamiSiege.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/TurnkeyReport_0.log" -log="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/TurnkeyLog_0.log" -project="E:/Uni/Origami-Siege/OrigamiSiege 5.0/OrigamiSiege.uproject"  -platform=all'
+[2023.06.23-02.20.04:924][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Uni/Origami-Siege/OrigamiSiege 5.0/OrigamiSiege.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/TurnkeyReport_0.log" -log="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/TurnkeyLog_0.log" -project="E:/Uni/Origami-Siege/OrigamiSiege 5.0/OrigamiSiege.uproject"  -platform=all" ]
+[2023.06.23-02.20.04:942][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.23-02.20.04:947][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.23-02.20.04:947][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.23-02.20.04:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.23-02.20.04:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.23-02.20.04:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.23-02.20.04:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.23-02.20.04:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.23-02.20.04:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.23-02.20.04:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.23-02.20.04:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.23-02.20.04:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.23-02.20.04:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.23-02.20.04:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.23-02.20.04:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.23-02.20.04:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.23-02.20.04:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.23-02.20.04:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.23-02.20.04:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.23-02.20.04:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.23-02.20.04:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.23-02.20.04:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.23-02.20.04:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.23-02.20.04:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.23-02.20.04:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.23-02.20.04:984][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.23-02.20.04:990][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.23-02.20.04:992][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.23-02.20.04:992][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.23-02.20.04:992][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.23-02.20.04:992][  0]LogTargetPlatformManager:   PCM
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager:   BINKA
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager:   OGG
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.23-02.20.04:994][  0]LogTargetPlatformManager:   OPUS
+[2023.06.23-02.20.05:035][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.23-02.20.05:039][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.23-02.20.05:042][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.23-02.20.05:042][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.23-02.20.05:042][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.23-02.20.05:042][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.23-02.20.05:042][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.23-02.20.05:043][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.23-02.20.05:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Uni/Origami-Siege/OrigamiSiege 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.23-02.20.05:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.23-02.20.05:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Uni/Origami-Siege/OrigamiSiege 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.23-02.20.05:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.23-02.20.05:061][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.23-02.20.05:061][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.23-02.20.05:061][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.23-02.20.05:067][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.06.23-02.20.05:067][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1411.18MBs, RandomWriteSpeed=226.43MBs. Assigned SpeedClass 'Local'
+[2023.06.23-02.20.05:068][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.23-02.20.05:068][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.23-02.20.05:068][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.23-02.20.05:073][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.23-02.20.05:073][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.23-02.20.05:073][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (E:/Uni/Origami-Siege/OrigamiSiege 5.0/Intermediate/Shaders/WorkingDirectory/23468/).
+[2023.06.23-02.20.05:074][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/29DA55F64DE8E5A0693C7F9B223AAB43/'.
+[2023.06.23-02.20.05:074][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.23-02.20.05:074][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.06.23-02.20.06:292][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.23-02.20.06:292][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.23-02.20.06:293][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.23-02.20.06:341][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2023.06.23-02.20.06:345][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.23-02.20.06:493][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.23-02.20.06:493][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.23-02.20.06:693][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.23-02.20.06:693][  0]LogDeviceProfileManager: Active device profile: [0000077F44AA3B80][0000077F37F55000 50] WindowsEditor
+[2023.06.23-02.20.06:693][  0]LogDeviceProfileManager: Profiles: [0000077F44AA3640][0000077F37F52800 50] Windows, [0000077F44AA3B80][0000077F37F55000 50] WindowsEditor, [0000077F44AA2300][0000077F37EE7800 50] WindowsServer, [0000077F44AA0380][0000077F3DFDC800 50] WindowsClient, [0000077F44AA1F80][0000077F2DAA7800 50] IOS, [0000077F44AA0C40][0000077F367E2800 50] iPadAir2, [0000077F44AA4EC0][0000077F44AC0000 50] IPadPro, [0000077F44AA5240][0000077F44AC2800 50] iPadAir3, [0000077F44AA3480][0000077F44AC7800 50] iPadAir4, [0000077F44AA0000][0000077F44ACA000 50] iPadMini4, [0000077F44AA4600][0000077F44ACC800 50] iPadMini5, [0000077F44AA1C00][0000077F37F50000 50] iPadMini6, [0000077F44AA8340][0000077F44AE2800 50] iPhone6S, [0000077F44AA86C0][0000077F44AE0000 50] iPhone7, [0000077F44AA8A40][0000077F44AE5000 50] iPodTouch7, [0000077F44AA8C00][0000077F44AEA000 50] iPhone6SPlus, [0000077F44AA8180][0000077F44AEC800 50] iPhone7Plus, [0000077F44AA6AC0][0000077F44AC5000 50] iPhoneSE, [0000077F44AA71C0][0000077F44AE7800 50] iPhone8, [0000077F44AA3F00][0000077F44A70000 50] iPhone8Plus, [0000077F44AA1A40][0000077F44A75000 50] iPhoneX, [0000077F44AA7000][0000077F44A77800 50] iPhoneXS, [0000077F44AA6900][0000077F44A7A000 50] iPhoneXSMax, [0000077F44AA2140][0000077F44A7C800 50] iPhoneXR, [0000077F44AA4D00][0000077F37E7C800 50] iPhone11, [0000077F44AA63C0][0000077F44B10000 50] iPhone11Pro, [0000077F44AA0700][0000077F44B15000 50] iPhone11ProMax, [0000077F44AA5B00][0000077F44B17800 50] iPhoneSE2, [0000077F44AA55C0][0000077F44B1A000 50] iPhone12Mini, [0000077F44AA5E80][0000077F44B1C800 50] iPhone12, [0000077F44AA8880][0000077F44A72800 50] iPhone12Pro, [0000077F44AA1180][0000077F44B30000 50] iPhone12ProMax, [0000077F44AA1880][0000077F44B35000 50] iPhone13Mini, [0000077F44AA0E00][0000077F44B37800 50] iPhone13, [0000077F44AA6580][0000077F44B3A000 50] iPhone13Pro, [0000077F44AA5780][0000077F44B3C800 50] iPhone13ProMax, [0000077F44AA01C0][0000077F44B12800 50] iPadPro105, [0000077F44AA7A80][0000077F44B50000 50] iPadPro129, [0000077F44AA7E00][0000077F44B55000 50] iPadPro97, [0000077F44AA2BC0][0000077F44B57800 50] iPadPro2_129, [0000077F44AA2F40][0000077F44B5A000 50] iPad5, [0000077F44AA47C0][0000077F44B5C800 50] iPad6, [0000077F44AA7380][0000077F44B32800 50] iPad7, [0000077F44AA1DC0][0000077F44B60000 50] iPad8, [0000077F44AA6200][0000077F44B65000 50] iPad9, [0000077F44AA3100][0000077F44B67800 50] iPadPro11, [0000077F44AA6C80][0000077F44B6A000 50] iPadPro2_11, [0000077F44AA2A00][0000077F44B6C800 50] iPadPro3_11, [0000077F44AA7540][0000077F44B52800 50] iPadPro3_129, [0000077F44AA24C0][0000077F44B70000 50] iPadPro4_129, [0000077F44AA4980][0000077F44B75000 50] iPadPro5_129, [0000077F44AA39C0][0000077F44B77800 50] AppleTV, [0000077F44AA5400][0000077F44B7A000 50] AppleTV4K, [0000077F44AA6040][0000077F44B7C800 50] TVOS, [0000077F44AAA2C0][0000077F44B90000 50] Mac, [0000077F44AAA640][0000077F44B92800 50] MacEditor, [0000077F44AAA800][0000077F44B97800 50] MacClient, [0000077F44AA4280][0000077F44B9A000 50] MacServer, [0000077F44AA9F40][0000077F44B62800 50] Linux, [0000077F44AA9300][0000077F44B72800 50] LinuxEditor, [0000077F44AA32C0][0000077F44B9C800 50] LinuxArm64Editor, [0000077F44AAA100][0000077F44A90000 50] LinuxArm64, [0000077F44AA5080][0000077F44A95000 50] LinuxClient, [0000077F44AA0A80][0000077F44A97800 50] LinuxArm64Client, [0000077F44AA08C0][0000077F44A9A000 50] LinuxServer, [0000077F44AA7C40][0000077F44A9C800 50] LinuxArm64Server, [0000077F44AA5940][0000077F44B95000 50] Android, [0000077F44AA8DC0][0000077F44BA0000 50] Android_Preview_OpenGL, [0000077F44AA16C0][0000077F44BA5000 50] Android_Preview_Vulkan, [0000077F44AAA480][0000077F44BA7800 50] Android_Low, [0000077F44AA4B40][0000077F44BAA000 50] Android_Mid, [0000077F44AA1340][0000077F44BAC800 50] Android_High, [0000077F44AA9840][0000077F44A92800 50] Android_Default, [0000077F44AA3D40][0000077F44BB0000 50] Android_Adreno4xx, [0000077F44AA2840][0000077F44BB5000 50] Android_Adreno5xx_Low, [0000077F44AA9A00][0000077F44BB7800 50] Android_Adreno5xx, [0000077F44AA1500][0000077F44BBA000 50] Android_Adreno6xx, [0000077F44AA9D80][0000077F44BBC800 50] Android_Adreno6xx_Vulkan, [0000077F44AA2D80][0000077F44BA2800 50] Android_Adreno7xx, [0000077F44AAAB80][0000077F44BC0000 50] Android_Adreno7xx_Vulkan, [0000077F44AAB440][0000077F44BC5000 50] Android_Mali_T6xx, [0000077F44AA6E40][0000077F44BC7800 50] Android_Mali_T7xx, [0000077F44AA7700][0000077F44BCA000 50] Android_Mali_T8xx, [0000077F44AA6740][0000077F44BCC800 50] Android_Mali_G71, [0000077F44AAB600][0000077F44BB2800 50] Android_Mali_G72, [0000077F44AA78C0][0000077F44BD0000 50] Android_Mali_G72_Vulkan, [0000077F44AAB980][0000077F44BD5000 50] Android_Mali_G76, [0000077F44AA4440][0000077F44BD7800 50] Android_Mali_G76_Vulkan, [0000077F44AAA9C0][0000077F44BDA000 50] Android_Mali_G77, [0000077F44AAC400][0000077F44BDC800 50] Android_Mali_G77_Vulkan, [0000077F44AA9BC0][0000077F44BC2800 50] Android_Mali_G78, [0000077F44AA5CC0][0000077F44BE0000 50] Android_Mali_G78_Vulkan, [0000077F44AA9680][0000077F44BE5000 50] Android_Mali_G710, [0000077F44AAC5C0][0000077F44BE7800 50] Android_Mali_G710_Vulkan, [0000077F44AA2680][0000077F44BEA000 50] Android_Xclipse_920, [0000077F44AAC940][0000077F44BEC800 50] Android_Xclipse_920_Vulkan, [0000077F44AABB40][0000077F44BD2800 50] Android_Vulkan_SM5, [0000077F44AABD00][0000077F44BF0000 50] Android_PowerVR_G6xxx, [0000077F44AAD3C0][0000077F44BF5000 50] Android_PowerVR_GT7xxx, [0000077F44AAB7C0][0000077F44BF7800 50] Android_PowerVR_GE8xxx, [0000077F44AA8F80][0000077F44BFA000 50] Android_PowerVR_GM9xxx, [0000077F44AA0540][0000077F44BFC800 50] Android_PowerVR_GM9xxx_Vulkan, [0000077F44AAD580][0000077F44BE2800 50] Android_TegraK1, [0000077F44AAC080][0000077F44C00000 50] Android_Unknown_Vulkan, [0000077F44AAD900][0000077F44C05000 50] Oculus_Quest, [0000077F44AAB280][0000077F44C07800 50] Oculus_Quest2, [0000077F44AAE380][0000077F44C0A000 50] HoloLens, 
+[2023.06.23-02.20.06:694][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-02.20.06:696][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.23-02.20.06:710][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.23-02.20.06:869][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.23-02.20.06:869][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.23-02.20.06:869][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.23-02.20.06:869][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.23-02.20.06:869][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.23-02.20.06:881][  0]LogNetVersion: OrigamiSiege 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1116655645)
+[2023.06.23-02.20.06:991][  0]LogSlate: Border
+[2023.06.23-02.20.06:991][  0]LogSlate: BreadcrumbButton
+[2023.06.23-02.20.06:991][  0]LogSlate: Default
+[2023.06.23-02.20.06:991][  0]LogSlate: Icons.Save
+[2023.06.23-02.20.06:991][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.23-02.20.06:991][  0]LogSlate: ListView
+[2023.06.23-02.20.06:991][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.23-02.20.06:991][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.23-02.20.06:991][  0]LogSlate: TableView.DarkRow
+[2023.06.23-02.20.06:991][  0]LogSlate: TableView.Row
+[2023.06.23-02.20.06:991][  0]LogSlate: TreeView
+[2023.06.23-02.20.07:146][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.07:169][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.07:169][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.07:267][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.23-02.20.07:267][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.06.23-02.20.07:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.23-02.20.07:562][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4C63F2A84986D2EB821FC38AA35FCDFF | Instance: 1BEAFC6D494D416D789E68BFF07E8E5C (DESKTOP-08F46JB-23468).
+[2023.06.23-02.20.07:597][  0]LogPython: Using Python 3.9.7
+[2023.06.23-02.20.08:272][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.23-02.20.08:276][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.23-02.20.08:494][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.08:496][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.08:498][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.08:509][  0]LogUProjectInfo: Found projects:
+[2023.06.23-02.20.08:619][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.23-02.20.08:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.23-02.20.08:687][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.23-02.20.08:687][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.23-02.20.08:769][  0]LogCollectionManager: Loaded 0 collections in 0.002114 seconds
+[2023.06.23-02.20.08:833][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Collections/' took 0.00s
+[2023.06.23-02.20.08:833][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Developers/user/Collections/' took 0.00s
+[2023.06.23-02.20.08:833][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Collections/' took 0.00s
+[2023.06.23-02.20.09:080][  0]LogEngine: Initializing Engine...
+[2023.06.23-02.20.09:093][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.23-02.20.09:337][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.23-02.20.09:337][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.23-02.20.09:347][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-02.20.09:375][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.23-02.20.09:376][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.23-02.20.09:399][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.23-02.20.09:399][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.23-02.20.09:399][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.23-02.20.09:400][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.23-02.20.09:400][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.23-02.20.09:406][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.23-02.20.09:431][  0]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (2- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2023.06.23-02.20.09:431][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.23-02.20.09:434][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.23-02.20.09:434][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.23-02.20.09:434][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.23-02.20.09:434][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.23-02.20.09:436][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.23-02.20.09:436][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.23-02.20.09:436][  0]LogInit: FAudioDevice initialized.
+[2023.06.23-02.20.09:436][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.23-02.20.09:436][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.23-02.20.09:436][  0]LogInit: Texture streaming: Enabled
+[2023.06.23-02.20.09:469][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.23-02.20.09:478][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.23-02.20.09:502][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.23-02.20.09:509][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.23-02.20.09:509][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: OrigamiSiegeEditor Win64 Development
+[2023.06.23-02.20.11:193][  0]LogLiveCoding: Display: First instance in process group "UE_OrigamiSiege_0x0bc93005", spawning console
+[2023.06.23-02.20.11:194][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.23-02.20.11:194][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.23-02.20.11:219][  0]LogInit: Transaction tracking system initialized
+[2023.06.23-02.20.11:290][  0]BlueprintLog: New page: Editor Load
+[2023.06.23-02.20.11:459][  0]LocalizationService: Localization service is disabled
+[2023.06.23-02.20.11:503][  0]TimingProfiler: Initialize
+[2023.06.23-02.20.11:503][  0]TimingProfiler: OnSessionChanged
+[2023.06.23-02.20.11:503][  0]LoadingProfiler: Initialize
+[2023.06.23-02.20.11:504][  0]LoadingProfiler: OnSessionChanged
+[2023.06.23-02.20.11:504][  0]NetworkingProfiler: Initialize
+[2023.06.23-02.20.11:504][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.23-02.20.11:504][  0]MemoryProfiler: Initialize
+[2023.06.23-02.20.11:504][  0]MemoryProfiler: OnSessionChanged
+[2023.06.23-02.20.12:121][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/' took 0.01s
+[2023.06.23-02.20.12:121][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.23-02.20.12:190][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.23-02.20.12:192][  0]SourceControl: Source control is disabled
+[2023.06.23-02.20.12:192][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.924
+[2023.06.23-02.20.12:192][  0]Cmd: MAP LOAD FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Levels/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.23-02.20.12:196][  0]LightingResults: New page: Lighting Build
+[2023.06.23-02.20.12:202][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-02.20.12:202][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-02.20.12:202][  0]MapCheck: New page: Map Check
+[2023.06.23-02.20.12:202][  0]LightingResults: New page: Lighting Build
+[2023.06.23-02.20.12:208][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.23-02.20.12:210][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.06.23-02.20.12:347][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2023.06.23-02.20.12:348][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.23-02.20.12:348][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-02.20.12:348][  0]LogAIModule: Creating AISystem for world Main
+[2023.06.23-02.20.12:352][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.23-02.20.12:360][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.23-02.20.12:360][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.23-02.20.12:361][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2023.06.23-02.20.12:361][  0]LogFileHelpers: Loading map 'Main' took 0.168
+[2023.06.23-02.20.12:372][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.104
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: ================================================
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.23-02.20.12:372][  0]LogShaderCompilers: Display: ================================================
+[2023.06.23-02.20.12:488][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.23-02.20.12:501][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-02.20.12:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-02.20.12:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-02.20.12:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-02.20.12:547][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:547][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:554][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:554][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:561][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:561][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:566][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:566][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:576][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:576][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:582][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:582][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:586][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:586][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:591][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:591][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:596][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:596][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:602][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.23-02.20.12:602][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-02.20.12:602][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.23-02.20.12:899][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.23-02.20.12:900][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.23-02.20.12:906][  0]LogSlate: Took 0.003898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.23-02.20.12:910][  0]LogSlate: Took 0.003199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.23-02.20.12:914][  0]LogSlate: Took 0.003427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.23-02.20.12:969][  0]LogViewport: Scene viewport resized to 1134x604, mode Windowed.
+[2023.06.23-02.20.13:209][  0]LogStall: Startup...
+[2023.06.23-02.20.13:210][  0]LogStall: Startup complete.
+[2023.06.23-02.20.13:219][  0]LogLoad: (Engine Initialization) Total time: 9.95 seconds
+[2023.06.23-02.20.13:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.23-02.20.13:250][  0]LogAssetRegistry: Asset discovery search completed in 6.9087 seconds
+[2023.06.23-02.20.13:257][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.06.23-02.20.13:283][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.23-02.20.13:422][  2]LogSlate: Took 0.003612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.23-02.20.31:933][622]LogViewport: Scene viewport resized to 752x577, mode Windowed.
+[2023.06.23-02.20.36:190][836]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\Dirt_tex.png)
+[2023.06.23-02.20.36:200][836]LogTexture: Display: Building textures: /Game/Models/Map/Landscape/Dirt_tex.Dirt_tex (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.06.23-02.20.36:200][836]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\Dirt_tex_normal.png)
+[2023.06.23-02.20.36:221][836]LogTexture: Display: Building textures: /Game/Models/Map/Landscape/Dirt_tex_normal.Dirt_tex_normal (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.06.23-02.20.36:221][836]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\Grass_tex.png)
+[2023.06.23-02.20.36:234][836]LogTexture: Display: Building textures: /Game/Models/Map/Landscape/Grass_tex.Grass_tex (TFO_AutoDXT, 600X600 X1X1) (Required Memory Estimate: 6.866455 MB), EncodeSpeed: Fast
+[2023.06.23-02.20.36:234][836]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\Grass_tex_normal.png)
+[2023.06.23-02.20.36:259][836]LogTexture: Display: Building textures: /Game/Models/Map/Landscape/Grass_tex_normal.Grass_tex_normal (TFO_BC5, 600X600 X1X1) (Required Memory Estimate: 6.866455 MB), EncodeSpeed: Fast
+[2023.06.23-02.20.38:284][842]LogViewport: Scene viewport resized to 1134x604, mode Windowed.
+[2023.06.23-02.20.40:683][ 82]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.06.23-02.20.40:688][ 82]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.06.23-02.20.40:694][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.06.23-02.20.47:293][875]LogContentBrowser: Attempting asset rename: NewMaterial -> Ground_Mat
+[2023.06.23-02.20.47:293][875]LogContentBrowser: End creating deferred item NewMaterial
+[2023.06.23-02.20.54:033][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.23-02.20.55:427][650]LogSlate: Window 'Save Content' being destroyed
+[2023.06.23-02.20.55:491][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map/Landscape/Dirt_tex" FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Dirt_tex.uasset" SILENT=true
+[2023.06.23-02.20.55:494][650]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.003342 seconds
+[2023.06.23-02.20.55:515][650]LogSavePackage: Moving output files for package: /Game/Models/Map/Landscape/Dirt_tex
+[2023.06.23-02.20.55:515][650]LogSavePackage: Moving 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Dirt_texBD656178459EB5445C5B15AE76EEAD9F.tmp' to 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Dirt_tex.uasset'
+[2023.06.23-02.20.55:517][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map/Landscape/Dirt_tex_normal" FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Dirt_tex_normal.uasset" SILENT=true
+[2023.06.23-02.20.55:541][650]LogSavePackage: Moving output files for package: /Game/Models/Map/Landscape/Dirt_tex_normal
+[2023.06.23-02.20.55:541][650]LogSavePackage: Moving 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Dirt_tex_normalD61FC2624CFDB1C654E1D4AD15A06EAC.tmp' to 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Dirt_tex_normal.uasset'
+[2023.06.23-02.20.55:542][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map/Landscape/Grass_tex" FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Grass_tex.uasset" SILENT=true
+[2023.06.23-02.20.55:572][650]LogSavePackage: Moving output files for package: /Game/Models/Map/Landscape/Grass_tex
+[2023.06.23-02.20.55:572][650]LogSavePackage: Moving 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Grass_tex1D96BB1A4BB49BDEA9AD18B9408B488A.tmp' to 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Grass_tex.uasset'
+[2023.06.23-02.20.55:573][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map/Landscape/Grass_tex_normal" FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Grass_tex_normal.uasset" SILENT=true
+[2023.06.23-02.20.55:608][650]LogSavePackage: Moving output files for package: /Game/Models/Map/Landscape/Grass_tex_normal
+[2023.06.23-02.20.55:608][650]LogSavePackage: Moving 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Grass_tex_normalC4A32524405C164900466784E1684389.tmp' to 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Grass_tex_normal.uasset'
+[2023.06.23-02.20.55:618][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Map/Landscape/Ground_Mat" FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Ground_Mat.uasset" SILENT=true
+[2023.06.23-02.20.55:619][650]LogSavePackage: Moving output files for package: /Game/Models/Map/Landscape/Ground_Mat
+[2023.06.23-02.20.55:619][650]LogSavePackage: Moving 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Saved/Ground_MatF5CA0D2F4F6B4C0AB4E68593B5723034.tmp' to 'E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Models/Map/Landscape/Ground_Mat.uasset'
+[2023.06.23-02.20.58:612][650]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.06.23-02.20.58:612][650]Cmd: MAP LOAD FILE="E:/Uni/Origami-Siege/OrigamiSiege 5.0/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.23-02.20.58:612][650]LightingResults: New page: Lighting Build
+[2023.06.23-02.20.58:612][650]LoadErrors: New page: Loading map: Level1.umap
+[2023.06.23-02.20.58:636][650]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-02.20.58:636][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-02.20.58:636][650]MapCheck: New page: Map Check
+[2023.06.23-02.20.58:636][650]LightingResults: New page: Lighting Build
+[2023.06.23-02.20.58:643][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.23-02.20.58:649][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.23-02.20.58:666][650]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-02.20.58:666][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-02.20.58:674][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.23-02.20.58:681][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.23-02.20.58:693][650]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.06.23-02.20.58:693][650]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.23-02.20.58:693][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-02.20.58:693][650]LogAIModule: Creating AISystem for world Level1
+[2023.06.23-02.20.58:823][650]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.23-02.20.58:833][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.23-02.20.58:846][650]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.23-02.20.58:846][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,078ms to complete.
+[2023.06.23-02.20.58:846][650]LogFileHelpers: Loading map 'Level1' took 0.235
+[2023.06.23-02.20.58:866][650]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.23-02.20.58:866][650]LogContentValidation: Display: Validating Texture2D /Game/Models/Map/Landscape/Dirt_tex.Dirt_tex
+[2023.06.23-02.20.58:866][650]LogContentValidation: Display: Validating Texture2D /Game/Models/Map/Landscape/Dirt_tex_normal.Dirt_tex_normal
+[2023.06.23-02.20.58:866][650]LogContentValidation: Display: Validating Texture2D /Game/Models/Map/Landscape/Grass_tex.Grass_tex
+[2023.06.23-02.20.58:866][650]LogContentValidation: Display: Validating Texture2D /Game/Models/Map/Landscape/Grass_tex_normal.Grass_tex_normal
+[2023.06.23-02.20.58:866][650]LogContentValidation: Display: Validating Material /Game/Models/Map/Landscape/Ground_Mat.Ground_Mat
+[2023.06.23-02.20.59:105][653]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.215 s
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: 
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: Ensure condition failed: !Result->ContainsNaN() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMathSSE.cpp] [Line: 113]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: 
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: Stack: 
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e294c83 UnrealEditor-Core.dll!VectorMatrixMultiply() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMathSSE.cpp:113]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c8fdd41 UnrealEditor-Renderer.dll!GetVolumeShadowingShaderParameters() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\VolumeLighting.cpp:156]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c83f4d9 UnrealEditor-Renderer.dll!InjectTranslucentLightArray() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\TranslucentLighting.cpp:1111]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c83e889 UnrealEditor-Renderer.dll!InjectTranslucencyLightingVolumeArray() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\TranslucentLighting.cpp:1254]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93befab68 UnrealEditor-Renderer.dll!FDeferredShadingSceneRenderer::RenderLights() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\LightRendering.cpp:990]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93bbc9dff UnrealEditor-Renderer.dll!FDeferredShadingSceneRenderer::Render() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp:2918]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c691d19 UnrealEditor-Renderer.dll!RenderViewFamily_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4102]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c6603a2 UnrealEditor-Renderer.dll!<lambda_220f8abc2f1feaab5010e9f914117006>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4353]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c6796ba UnrealEditor-Renderer.dll!TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`46'::FDrawSceneCommandName,<lambda_220f8abc2f1feaab5010e9f914117006> >::DoTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h:193]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff93c6811fa UnrealEditor-Renderer.dll!TGraphTask<TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`46'::FDrawSceneCommandName,<lambda_220f8abc2f1feaab5010e9f914117006> > >::ExecuteTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:975]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e023a9d UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:753]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e023f3e UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:642]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e0242e1 UnrealEditor-Core.dll!FTaskGraphCompatibilityImplementation::ProcessThreadUntilRequestReturn() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:2115]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99d95976b UnrealEditor-RenderCore.dll!RenderingThreadMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:380]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99d95d158 UnrealEditor-RenderCore.dll!FRenderingThread::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:527]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e6f7a2b UnrealEditor-Core.dll!FRunnableThreadWin::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:146]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff99e6f0a90 UnrealEditor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:76]
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff9d42a7614 KERNEL32.DLL!UnknownFunction []
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: [Callstack] 0x00007ff9d55826f1 ntdll.dll!UnknownFunction []
+[2023.06.23-02.20.59:105][653]LogOutputDevice: Error: 
+[2023.06.23-02.20.59:105][653]LogStats:                SubmitErrorReport -  0.000 s
+[2023.06.23-02.20.59:829][653]LogStats:                    SendNewReport -  0.723 s
+[2023.06.23-02.20.59:829][653]LogStats:             FDebug::EnsureFailed -  0.938 s
+[2023.06.23-02.21.07:537][494]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.23-02.21.23:711][349]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Map/Landscape/Ground_Mat.Ground_Mat
+[2023.06.23-02.21.23:713][349]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F572E19025A8DC0BBE52D2FABC4D821FC0E398AF), compiling. 
+[2023.06.23-02.21.23:764][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-02.21.23:907][349]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E91A0D312B8B51AA399EBC0A80BBC01BB41DF7DA), compiling. 
+[2023.06.23-02.21.23:911][349]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 352F66B036230A3CD7201B04D200919D3AD6080C), compiling. 
+[2023.06.23-02.21.23:934][349]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.21.23:934][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.23:934][349]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.21.23:941][349]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.23-02.21.25:184][464]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.21.25:184][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.25:184][464]MaterialEditorStats: Shader Count: 2
+[2023.06.23-02.21.29:782][745]LogViewport: Scene viewport resized to 606x449, mode Windowed.
+[2023.06.23-02.21.36:719][456]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 30D8A2C3394704D002EFD9A6294A4030331DEC32), compiling. 
+[2023.06.23-02.21.36:722][456]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.21.36:722][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.36:722][456]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.21.36:758][458]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.21.36:758][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.36:758][458]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.21.38:655][662]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DBED7ED500D7A1AD88B73A7491F2B58236F3A6A7), compiling. 
+[2023.06.23-02.21.38:659][662]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6E1A4CEAF27DFC881A1CE4BDEECCF9EF9EB2F9AD), compiling. 
+[2023.06.23-02.21.38:664][663]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.21.38:664][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.38:664][663]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.21.38:688][665]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.21.38:688][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.38:688][665]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.21.39:106][712]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 23FD9C9AEE435762F4FA51E6E61734DB8583E889), compiling. 
+[2023.06.23-02.21.39:109][712]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B52474D558FE60613D64D6080C2568460EE96205), compiling. 
+[2023.06.23-02.21.39:115][713]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.21.39:115][713]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.39:115][713]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.21.39:138][715]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.21.39:138][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.39:138][715]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.21.44:621][324]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D4A5746D02741F3F02EEF969139AAC3690E6A71C), compiling. 
+[2023.06.23-02.21.44:624][324]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FE64C31C7C2D5889371445BF5BB0850167DE7479), compiling. 
+[2023.06.23-02.21.48:153][716]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 91D95E90CCABB2C7C050BBE3B9738E8600FB92A5), compiling. 
+[2023.06.23-02.21.48:157][716]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A2BA4122FEDCC6D151B8989E2DD64C6CAF9BE36E), compiling. 
+[2023.06.23-02.21.55:970][562]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0E52A4DCB680E40793DD0743091238330C228254), compiling. 
+[2023.06.23-02.21.55:972][562]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.21.55:972][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.55:972][562]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.21.56:006][564]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.21.56:006][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.21.56:006][564]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.00:736][109]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63BE80DBDBDC26972C4965C3644162A6E33C8F65), compiling. 
+[2023.06.23-02.22.00:738][109]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 424BA76CAB15F4AA2A59BE5F230F26C8C622ED0B), compiling. 
+[2023.06.23-02.22.00:741][109]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.00:741][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.00:741][109]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.00:781][111]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.00:781][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.00:781][111]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.05:238][597]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C635363FFFBFC58CB49EDF4936BA6F74DEC48520), compiling. 
+[2023.06.23-02.22.05:240][597]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 060A4CDAF73752B70CBCB600A80D6A50FD3C7063), compiling. 
+[2023.06.23-02.22.05:243][597]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.05:243][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.05:243][597]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.05:286][599]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.05:286][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.05:286][599]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.06:155][677]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.083 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.23-02.22.09:675][ 32]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3E8BAC8FF8279C21C46451E007726FA731A4B8F), compiling. 
+[2023.06.23-02.22.09:677][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A7F7C2ADD6C89A73B27BC7FB97BAE7FB2D5EF04), compiling. 
+[2023.06.23-02.22.09:678][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 98BFA1DA2EB3E2257D36B0FD0B3AD1E9F8B79728), compiling. 
+[2023.06.23-02.22.09:680][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D36CA9A401820496F7FE1EEE1715A36804789860), compiling. 
+[2023.06.23-02.22.09:682][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AC042526DCA7785B1C6CF32ED7165FFE69A8008A), compiling. 
+[2023.06.23-02.22.09:690][ 32]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1F93D374795B2CED1DA2E78B822129486BF11643), compiling. 
+[2023.06.23-02.22.09:691][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 80AE3781C28767277959D28B4FB17CF1EBDAA574), compiling. 
+[2023.06.23-02.22.09:693][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CAC6B842B9E3B53E2405135DCBE5AFD788ACA2E), compiling. 
+[2023.06.23-02.22.09:694][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A67CB989E2B46846BD565E7D28670B4E39EB122), compiling. 
+[2023.06.23-02.22.09:696][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF5C688A470396BA0786F030574EB51158BBF0D1), compiling. 
+[2023.06.23-02.22.09:697][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EEACC023B8FAD3544280BB6144320898E8F95F9D), compiling. 
+[2023.06.23-02.22.09:705][ 32]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CA94C81D6C4638127B1F1AFDE912BCC3B4E5589E), compiling. 
+[2023.06.23-02.22.09:707][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BA1138B1133F60F38290D3E669AB82DDF5D273E4), compiling. 
+[2023.06.23-02.22.09:709][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BECF448EF65DC76CD77532E6BCB3D5B7F1CEE91F), compiling. 
+[2023.06.23-02.22.09:710][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AE6FE38201DF05F2A05F16B5A7670C268DA8E77), compiling. 
+[2023.06.23-02.22.09:712][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6072C0792716A506AC3D53C3AE3B954A39B96832), compiling. 
+[2023.06.23-02.22.09:713][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 50F4709DCC9DF4CEC9FFC84BAA65FA4D40A4595E), compiling. 
+[2023.06.23-02.22.09:714][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 53CED34BA5FAF33FB660CC3D6952BEADF7FBF553), compiling. 
+[2023.06.23-02.22.09:722][ 32]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 434116F526877DEC2D8D59E97EF09D7A0AFFEEE5), compiling. 
+[2023.06.23-02.22.09:724][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F3BD5473D852BCCCD3F81132F9D37D828D19E28E), compiling. 
+[2023.06.23-02.22.09:726][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F2F0958C2AB3647B3037045503C0A92EBF7FD39A), compiling. 
+[2023.06.23-02.22.09:727][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 85382F32C8922156F62F90348AC1F573FB632901), compiling. 
+[2023.06.23-02.22.09:729][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 660180849085F9194FA8EAF54DDF2E647102C98E), compiling. 
+[2023.06.23-02.22.09:730][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 31317AF4F59772D7A6F54499467FDE3BFB2FF539), compiling. 
+[2023.06.23-02.22.09:731][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 80C801DCC7D2B5E2E685E59870404A06D5B23AF3), compiling. 
+[2023.06.23-02.22.09:733][ 32]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C12BD5BE9A007F18FEF227D4FEA0D0E3A73ADB4E), compiling. 
+[2023.06.23-02.22.09:737][ 32]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.09:737][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.09:737][ 32]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.09:795][ 34]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.09:795][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.09:795][ 34]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.28:809][959]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FE3892AE346F140292300A576BD458A12CB8D5C3), compiling. 
+[2023.06.23-02.22.28:811][959]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D14C9397971967C77327616C1C5488FF36CEB716), compiling. 
+[2023.06.23-02.22.28:815][959]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.28:815][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.28:815][959]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.28:837][961]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.28:837][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.28:837][961]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.30:194][101]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B2CFB73D9DF6DEF1D1A743DE8AAED084137D5A77), compiling. 
+[2023.06.23-02.22.30:196][101]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CD09CD4E35076455A4537F3934D8F47A7B874789), compiling. 
+[2023.06.23-02.22.30:201][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.30:201][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.30:201][101]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.30:227][103]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.30:227][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.30:227][103]MaterialEditorStats: Shader Count: 2
+[2023.06.23-02.22.31:559][232]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C5A61B409CB7389CE61F754FF953C1586BABDD2D), compiling. 
+[2023.06.23-02.22.31:561][232]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C0801B5DF7F545539F4A371F2CE49EC8492FCA8), compiling. 
+[2023.06.23-02.22.31:562][232]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 57A6B09A4038655BF6D1C8A0ADFF3FA8F044D277), compiling. 
+[2023.06.23-02.22.31:566][232]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.31:566][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.31:566][232]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.31:592][234]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.31:592][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.31:592][234]MaterialEditorStats: Shader Count: 2
+[2023.06.23-02.22.33:229][348]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F263FD02B2D0BFB70E383E9E9AADCC118E8FEE81), compiling. 
+[2023.06.23-02.22.33:231][348]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CCDCB62C9AF2E3224D1A1EC710D71A6AABB0DAD1), compiling. 
+[2023.06.23-02.22.33:233][348]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C24FA5E70371DE026CAA0541050A1CA4B03E87F0), compiling. 
+[2023.06.23-02.22.33:237][348]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.33:237][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.33:237][348]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.33:267][350]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.33:267][350]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.33:267][350]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.34:577][458]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D4641B6231683B4B443E21EF10488FE013451986), compiling. 
+[2023.06.23-02.22.34:579][458]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FF0E1601A14B0C067265D4AE1224D503542A9ED3), compiling. 
+[2023.06.23-02.22.34:581][458]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 81F6DE5FB6A2813B88811C7C4A3B93E864484E1E), compiling. 
+[2023.06.23-02.22.34:585][458]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.34:585][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.34:585][458]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.34:615][460]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.34:615][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.34:615][460]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.36:270][593]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C9324B5BA41B9FF7294F138850697997427AF9ED), compiling. 
+[2023.06.23-02.22.36:272][593]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B02D031E1978F3D628D39510660E8A283A1C5346), compiling. 
+[2023.06.23-02.22.36:273][593]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 85691ADF3F3506963C6D688482DF7EEFC52588C6), compiling. 
+[2023.06.23-02.22.36:279][593]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.36:279][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.36:279][593]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.36:317][595]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.36:317][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.36:317][595]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.38:794][826]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 646ACC621AE5E5CBCFA25BED12D1A2127DE8F52A), compiling. 
+[2023.06.23-02.22.38:795][826]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 19C4A5B1E6D241E6DFC3B437E35F9F1EF7AA4970), compiling. 
+[2023.06.23-02.22.38:799][826]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.38:799][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.38:799][826]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.38:825][828]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.38:825][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.38:825][828]MaterialEditorStats: Shader Count: 2
+[2023.06.23-02.22.40:320][965]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DD045EB852984E87F22BDAD6158812907DD0B0E6), compiling. 
+[2023.06.23-02.22.40:322][965]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DD6AB61B1FE59E13B01A83F28E328AA2C96348B9), compiling. 
+[2023.06.23-02.22.40:326][965]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.40:326][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.40:326][965]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.40:352][967]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.40:353][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.40:353][967]MaterialEditorStats: Shader Count: 4
+[2023.06.23-02.22.41:561][ 86]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ECD306EBD6300BB5662C290D01527C5D51CD8988), compiling. 
+[2023.06.23-02.22.41:565][ 86]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.23-02.22.41:565][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.41:565][ 86]MaterialEditorStats: Shader Count: 0
+[2023.06.23-02.22.43:284][226]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 17CA697C1E6FD063C93191003D908B8F387176F0), compiling. 
+[2023.06.23-02.22.44:382][296]LogMaterialEditor: Applying material Ground_Mat
+[2023.06.23-02.22.44:739][296]LogMaterial: Display: Missing cached shadermap for Preview:Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9660F3A8B8264F50A87914417F30E1085A1770E6), compiling. 
+[2023.06.23-02.22.44:747][296]LogMaterial: Display: Missing cached shadermap for Ground_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AE5EBF5CA898CC0928E5D62F034FEAE6A06C6816), compiling. 
+[2023.06.23-02.22.44:779][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.23-02.22.45:542][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.23-02.22.45:570][298]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.23-02.22.45:570][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.23-02.22.45:570][298]MaterialEditorStats: Shader Count: 6
+[2023.06.23-02.22.46:848][416]LogMaterialEditor: Saving and Compiling material Ground_Mat
