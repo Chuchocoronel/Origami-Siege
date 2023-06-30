@@ -253,6 +253,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "64A606180A5B6C7ACB384257784D73F4F3CFB275",
+			"Assets": [
+				"/Game/Models/Map/Landscape/Ground_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "6CB817EAB2F1AD97D334A2F1465C63F56FADC2BE",
 			"Assets": [
 				"/Game/Models/Map/PaperWall"
@@ -376,6 +382,16 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7B394236F1A591E66D8ABD3581140495051D1D16",
+			"Assets": [
+				"/Game/Levels/Tutorial",
+				"/Game/Levels/Level4",
+				"/Game/Levels/Level3",
+				"/Game/Levels/Level2",
+				"/Game/Levels/Level1"
 			]
 		}
 	]

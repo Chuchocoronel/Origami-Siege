@@ -381,6 +381,7 @@ Engine:/Script/Engine.AudioSettings:ReverbSubmix:0=/Engine/EngineSounds/Submixes
 Engine:/Script/Engine.AudioSettings:EQSubmix:0=/Engine/EngineSounds/Submixes/MasterEQSubmixDefault.MasterEQSubmixDefault
 Engine:/Script/Engine.AudioSettings:MaximumConcurrentStreams:0=2
 Engine:/Script/Engine.AudioSettings:DialogueFilenameFormat:0="{DialogueGuid}_{ContextId}"
+Engine:/Script/Engine.AudioSettings:DefaultBaseSoundMix:0=/Game/Blueprints/Sound/MasterMix.MasterMix
 Engine:/Script/Engine.Player:ConfiguredInternetSpeed:0=100000
 Engine:/Script/Engine.Player:ConfiguredLanSpeed:0=100000
 Engine:/Script/Engine.RendererSettings:VisualizeCalibrationColorMaterialPath:0=/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor

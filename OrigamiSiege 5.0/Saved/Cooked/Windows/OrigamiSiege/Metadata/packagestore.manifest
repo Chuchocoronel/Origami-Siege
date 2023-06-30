@@ -13,8 +13,8 @@
 			"ChunkId": "7045cf1b55a1317500000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Master.uasset",
-			"ChunkId": "e670df8e769d382e00000001"
+			"Path": "OrigamiSiege/Content/Blueprints/Sound/MasterMix.uasset",
+			"ChunkId": "0403f65af178211300000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
@@ -89,24 +89,8 @@
 			"ChunkId": "c1ceadea19a929af00000001"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
-			"ChunkId": "2cc5808063f890db00000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
-			"ChunkId": "2cc5808063f890db00000002"
-		},
-		{
 			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
 			"ChunkId": "3cf25e9da31d4f2a00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
-			"ChunkId": "5c918efb403d4bb200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
-			"ChunkId": "5c918efb403d4bb200000002"
 		},
 		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
@@ -261,6 +245,22 @@
 			"ChunkId": "27d3dbbd9cb5875a00000002"
 		},
 		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
+		},
+		{
 			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
 			"ChunkId": "fe8e2f79bc05d6e200000001"
 		},
@@ -357,12 +357,12 @@
 			"ChunkId": "d7818a11b025c71600000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/UI/Summeron.uasset",
-			"ChunkId": "bb091b9d11c8e23b00000001"
+			"Path": "OrigamiSiege/Content/Music/Attenuation.uasset",
+			"ChunkId": "7aaa6ed90ad51e6900000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Archer.uasset",
-			"ChunkId": "601a5251bdd8ba3800000001"
+			"Path": "OrigamiSiege/Content/Models/UI/Summeron.uasset",
+			"ChunkId": "bb091b9d11c8e23b00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
@@ -469,14 +469,6 @@
 			"ChunkId": "9acae5549f0219b000000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"ChunkId": "7539f12095a3f0d100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
-			"ChunkId": "7539f12095a3f0d100000002"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
 			"ChunkId": "7a7173cfb4095b9f00000001"
 		},
@@ -577,12 +569,48 @@
 			"ChunkId": "bd472f8cbf5f723d00000002"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/UI/Background.uasset",
+			"ChunkId": "77136a7474387a8400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman2.uasset",
+			"ChunkId": "591d2edeabbed9ac00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman.uasset",
+			"ChunkId": "704d6dc283a09d2700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Models/UI/Win_Texture.uasset",
 			"ChunkId": "06b50f5ca24489e200000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/UI/WheelImg.uasset",
+			"ChunkId": "913c29fd83703b0300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Tutorial_background.uasset",
+			"ChunkId": "16fa5287ec80ec8200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/ThrowerImg.uasset",
+			"ChunkId": "f90ac5baa2503b2d00000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Models/UI/Pause_Background.uasset",
 			"ChunkId": "d5359bbb743fca5b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/PauseIcon.uasset",
+			"ChunkId": "6396f1e0b0c7b62800000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/UI/Main_Background.uasset",
@@ -601,14 +629,6 @@
 			"ChunkId": "d1ff7bd605eb082400000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman2.uasset",
-			"ChunkId": "591d2edeabbed9ac00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Fireman.uasset",
-			"ChunkId": "704d6dc283a09d2700000001"
-		},
-		{
 			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Bombman2.uasset",
 			"ChunkId": "4a64bd7cd48da33800000001"
 		},
@@ -621,16 +641,16 @@
 			"ChunkId": "de7a18c58ea303e500000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer2.uasset",
-			"ChunkId": "436c58b24e0bc17b00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_MoneyMaker2.uasset",
-			"ChunkId": "ea45880f56eeb56a00000001"
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_V_Archer.uasset",
+			"ChunkId": "601a5251bdd8ba3800000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/UI/Icon_Village.uasset",
 			"ChunkId": "31388974f96c492600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_MoneyMaker2.uasset",
+			"ChunkId": "ea45880f56eeb56a00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/UI/Icon_MoneyMaker.uasset",
@@ -693,6 +713,34 @@
 			"ChunkId": "41f5ca7e28bec37a00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer2.uasset",
+			"ChunkId": "436c58b24e0bc17b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer.uasset",
+			"ChunkId": "8203a59b0c3807e100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/CandleImg.uasset",
+			"ChunkId": "6b5754f2cd9959be00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/UI/BasicImg.uasset",
+			"ChunkId": "7d596c144e62bfb400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Grass_LayerInfo.uasset",
+			"ChunkId": "0d65ecb3f6f53e4400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Grass2_LayerInfo.uasset",
+			"ChunkId": "19b30cc9a29b687400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Dirt_LayerInfo.uasset",
+			"ChunkId": "99d2ce91353ac09000000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Wheel_Attack_Skeleton.uasset",
 			"ChunkId": "e83705a666170cad00000001"
 		},
@@ -703,6 +751,66 @@
 		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Spike.uasset",
 			"ChunkId": "5970db575eae06b000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg.uasset",
+			"ChunkId": "a81c8251c58e40f200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture.uasset",
+			"ChunkId": "ac3a1b786cb0cbd000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Grass_tex_normal.uasset",
+			"ChunkId": "dcc8380bc799918200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Grass_tex.uasset",
+			"ChunkId": "9583e11cc1ede07200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Grass2_tex.uasset",
+			"ChunkId": "2d46e63669ec49fa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Dirt_tex_normal.uasset",
+			"ChunkId": "b0bc52c7165a9cb100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Dirt_tex_normal.ubulk",
+			"ChunkId": "b0bc52c7165a9cb100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Dirt_tex.uasset",
+			"ChunkId": "b4e0baa0c93d5aa600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Dirt_tex.ubulk",
+			"ChunkId": "b4e0baa0c93d5aa600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "dc34a24e858c491100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "dc34a24e858c491100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.uasset",
+			"ChunkId": "855fe609d1a76c3300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.ubulk",
+			"ChunkId": "855fe609d1a76c3300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.uasset",
+			"ChunkId": "b71dd923b2275d1700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.ubulk",
+			"ChunkId": "b71dd923b2275d1700000002"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Throw_Attack_Skeleton.uasset",
@@ -727,34 +835,6 @@
 		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Knife/Cutter.uasset",
 			"ChunkId": "48cba113dbedc45e00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/UI/Icon_Archer.uasset",
-			"ChunkId": "8203a59b0c3807e100000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/UI/Background.uasset",
-			"ChunkId": "77136a7474387a8400000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-			"ChunkId": "dc34a24e858c491100000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
-			"ChunkId": "dc34a24e858c491100000002"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.uasset",
-			"ChunkId": "855fe609d1a76c3300000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_Normal.ubulk",
-			"ChunkId": "855fe609d1a76c3300000002"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg.uasset",
-			"ChunkId": "a81c8251c58e40f200000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Wax.uasset",
@@ -801,16 +881,12 @@
 			"ChunkId": "d0d5028da7308f2900000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.uasset",
-			"ChunkId": "b71dd923b2275d1700000001"
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.uasset",
+			"ChunkId": "4bfb12a692ba383100000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Map/Wall_DefaultMaterial_BaseColor.ubulk",
-			"ChunkId": "b71dd923b2275d1700000002"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Enemies/Wheel/Rubber_Texture.uasset",
-			"ChunkId": "ac3a1b786cb0cbd000000001"
+			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.ubulk",
+			"ChunkId": "4bfb12a692ba383100000002"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Throw/Wood_Texture_Normal.uasset",
@@ -829,20 +905,24 @@
 			"ChunkId": "2fde3c9c8376a8e700000002"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.uasset",
-			"ChunkId": "4bfb12a692ba383100000001"
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_building.uasset",
+			"ChunkId": "938f7524aaeb03b900000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Enemies/Basic/Water_Normal.ubulk",
-			"ChunkId": "4bfb12a692ba383100000002"
+			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_tower.uasset",
+			"ChunkId": "b81b4a1babd1666d00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Fire_arrow.uasset",
-			"ChunkId": "97e0ba7f77069bd400000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_6.uasset",
+			"ChunkId": "3ad23fbd9015fe9b00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Arrow.uasset",
-			"ChunkId": "315a40ad5482744b00000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_5.uasset",
+			"ChunkId": "43d8432e935c9d9200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_4.uasset",
+			"ChunkId": "85b8ae8bc64de9e500000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/Defenses/Guardian/Walk/Guardian_Walk.uasset",
@@ -897,18 +977,6 @@
 			"ChunkId": "0e52481f6ae2bd6600000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_6.uasset",
-			"ChunkId": "3ad23fbd9015fe9b00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_5.uasset",
-			"ChunkId": "43d8432e935c9d9200000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_4.uasset",
-			"ChunkId": "85b8ae8bc64de9e500000001"
-		},
-		{
 			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion_3.uasset",
 			"ChunkId": "69e25f66858c0a6200000001"
 		},
@@ -933,92 +1001,12 @@
 			"ChunkId": "13376b4cf1ee40bd00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Materials/HoverMaterial.uasset",
-			"ChunkId": "67a2fc1b18d01f1000000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Fire_arrow.uasset",
+			"ChunkId": "97e0ba7f77069bd400000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Materials/DefaultMaterial.uasset",
-			"ChunkId": "619fae0c5656520400000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Materials/ClickedMaterial.uasset",
-			"ChunkId": "f682f9b662bcb32000000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Materials/BaseMaterial.uasset",
-			"ChunkId": "6dbbfe131c7280dd00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Interactions.uasset",
-			"ChunkId": "d118e786ed7e28ad00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Controller.uasset",
-			"ChunkId": "2972278c179c16c400000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Enemies/Enemy.uasset",
-			"ChunkId": "3197eb89994b9b8700000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Defenses/Defense.uasset",
-			"ChunkId": "e24ce7543fb8bb0300000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Controllers/CameraPawn.uasset",
-			"ChunkId": "1a7b5e3c24788e7f00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Buildings/Building.uasset",
-			"ChunkId": "36dc47557ff55ecd00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/SpawnEnemy.uasset",
-			"ChunkId": "a616fa24f58602e500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
-			"ChunkId": "19aece732b01cd4000000001"
-		},
-		{
-			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
-			"ChunkId": "fd3456639b15286700000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_building.uasset",
-			"ChunkId": "938f7524aaeb03b900000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Levels/Main_BuiltData.uasset",
-			"ChunkId": "b71b2cfed07ebe1200000001"
+			"Path": "OrigamiSiege/Content/Models/Defenses/Arrow/Arrow.uasset",
+			"ChunkId": "315a40ad5482744b00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack.uasset",
@@ -1081,12 +1069,136 @@
 			"ChunkId": "c4f00e7a5a8ac4e300000002"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_tower.uasset",
-			"ChunkId": "b81b4a1babd1666d00000001"
-		},
-		{
 			"Path": "OrigamiSiege/Content/Models/Buildings/Archery/Archery_diane.uasset",
 			"ChunkId": "2ddbcaf8429c6a2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/HoverMaterial.uasset",
+			"ChunkId": "67a2fc1b18d01f1000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/DefaultMaterial.uasset",
+			"ChunkId": "619fae0c5656520400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/ClickedMaterial.uasset",
+			"ChunkId": "f682f9b662bcb32000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Materials/BaseMaterial.uasset",
+			"ChunkId": "6dbbfe131c7280dd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_06.uasset",
+			"ChunkId": "0423ac16a1bb582200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_06.ubulk",
+			"ChunkId": "0423ac16a1bb582200000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_05.uasset",
+			"ChunkId": "d9b5d3ec0d4a48b700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_05.ubulk",
+			"ChunkId": "d9b5d3ec0d4a48b700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Win_Lose_BuiltData.uasset",
+			"ChunkId": "27af7d007756929c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Tutorial_BuiltData.uasset",
+			"ChunkId": "682bdd6bb90b8f2900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Tutorial_BuiltData.ubulk",
+			"ChunkId": "682bdd6bb90b8f2900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Main_BuiltData.uasset",
+			"ChunkId": "b71b2cfed07ebe1200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level4_BuiltData.uasset",
+			"ChunkId": "c74dbd4eeb3d239600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level4_BuiltData.ubulk",
+			"ChunkId": "c74dbd4eeb3d239600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_09.uasset",
+			"ChunkId": "8689864c19a5bd8f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_09.ubulk",
+			"ChunkId": "8689864c19a5bd8f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.uasset",
+			"ChunkId": "7ac1b45531f876e600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.ubulk",
+			"ChunkId": "7ac1b45531f876e600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_07.uasset",
+			"ChunkId": "0d18b3357843afff00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_07.ubulk",
+			"ChunkId": "0d18b3357843afff00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_04.uasset",
+			"ChunkId": "991e941ae7492eba00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_04.ubulk",
+			"ChunkId": "991e941ae7492eba00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.uasset",
+			"ChunkId": "76d28f0203d1611000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.ubulk",
+			"ChunkId": "76d28f0203d1611000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_09.uasset",
+			"ChunkId": "ebfa0e5474cf885f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_09.ubulk",
+			"ChunkId": "ebfa0e5474cf885f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_08.uasset",
+			"ChunkId": "e6aea216e4ad881b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_08.ubulk",
+			"ChunkId": "e6aea216e4ad881b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_04.uasset",
+			"ChunkId": "d81d7a007b4eddda00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_04.ubulk",
+			"ChunkId": "d81d7a007b4eddda00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level3_BuiltData.uasset",
+			"ChunkId": "27b21b78d7e9a3eb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level3_BuiltData.ubulk",
+			"ChunkId": "27b21b78d7e9a3eb00000002"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Levels/Level2_BuiltData.uasset",
@@ -1105,12 +1217,824 @@
 			"ChunkId": "9c6ba456ea96fd8800000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.uasset",
+			"ChunkId": "1239ef27614c34fe00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.ubulk",
+			"ChunkId": "1239ef27614c34fe00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_01.uasset",
+			"ChunkId": "dd8149bca4ea5a1c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_01.ubulk",
+			"ChunkId": "dd8149bca4ea5a1c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_05.uasset",
+			"ChunkId": "6f240b90191d462500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_05.ubulk",
+			"ChunkId": "6f240b90191d462500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_04.uasset",
+			"ChunkId": "989d6b8fb6dca3a200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_04.ubulk",
+			"ChunkId": "989d6b8fb6dca3a200000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_03.uasset",
+			"ChunkId": "7c0a0d8ebc74fd8900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_03.ubulk",
+			"ChunkId": "7c0a0d8ebc74fd8900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_02.uasset",
+			"ChunkId": "13ac537f39437d7900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_02.ubulk",
+			"ChunkId": "13ac537f39437d7900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_01.uasset",
+			"ChunkId": "b623fecd3a32166300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Special_Musical_01.ubulk",
+			"ChunkId": "b623fecd3a32166300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Ringtone_01.uasset",
+			"ChunkId": "a59606269035bdef00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Ringtone_01.ubulk",
+			"ChunkId": "a59606269035bdef00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_10.uasset",
+			"ChunkId": "f9acf64d60b74c0600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_10.ubulk",
+			"ChunkId": "f9acf64d60b74c0600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_08.uasset",
+			"ChunkId": "1c86173f6ceba03700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_08.ubulk",
+			"ChunkId": "1c86173f6ceba03700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_07.uasset",
+			"ChunkId": "5a876ad03c3274e500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_07.ubulk",
+			"ChunkId": "5a876ad03c3274e500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_06.uasset",
+			"ChunkId": "715bfbd50a48481f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_06.ubulk",
+			"ChunkId": "715bfbd50a48481f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_05.uasset",
+			"ChunkId": "76a4a1efbd7ed42000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_05.ubulk",
+			"ChunkId": "76a4a1efbd7ed42000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_03.uasset",
+			"ChunkId": "0c1f06b31e585bde00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_03.ubulk",
+			"ChunkId": "0c1f06b31e585bde00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_02.uasset",
+			"ChunkId": "d352d1f2eb4f605200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_02.ubulk",
+			"ChunkId": "d352d1f2eb4f605200000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_01.uasset",
+			"ChunkId": "e8acf9604947276c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Pop_01.ubulk",
+			"ChunkId": "e8acf9604947276c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_10.uasset",
+			"ChunkId": "025cb0164cdf438e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_10.ubulk",
+			"ChunkId": "025cb0164cdf438e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_07.uasset",
+			"ChunkId": "11de5f9d82c0688d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_07.ubulk",
+			"ChunkId": "11de5f9d82c0688d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_05.uasset",
+			"ChunkId": "ed8a5cb4e54b661900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_05.ubulk",
+			"ChunkId": "ed8a5cb4e54b661900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_04.uasset",
+			"ChunkId": "f04d88ceacdedffc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_04.ubulk",
+			"ChunkId": "f04d88ceacdedffc00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_03.uasset",
+			"ChunkId": "f20e914fef788c1b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_03.ubulk",
+			"ChunkId": "f20e914fef788c1b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_02.uasset",
+			"ChunkId": "d599c1ac67d910c700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_02.ubulk",
+			"ChunkId": "d599c1ac67d910c700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_01.uasset",
+			"ChunkId": "ca0fc2f4d4c22f1500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Musical_Click_01.ubulk",
+			"ChunkId": "ca0fc2f4d4c22f1500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_04.uasset",
+			"ChunkId": "0598320f486ebb8a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_04.ubulk",
+			"ChunkId": "0598320f486ebb8a00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_03.uasset",
+			"ChunkId": "6e3a111f06a0e47400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_03.ubulk",
+			"ChunkId": "6e3a111f06a0e47400000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_03.uasset",
+			"ChunkId": "2017dcd88112db6900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_03.ubulk",
+			"ChunkId": "2017dcd88112db6900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_02.uasset",
+			"ChunkId": "ac98f0eb1612e2a400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_02.ubulk",
+			"ChunkId": "ac98f0eb1612e2a400000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_01.uasset",
+			"ChunkId": "09655e7fe4a5c84500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_01.ubulk",
+			"ChunkId": "09655e7fe4a5c84500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_08.uasset",
+			"ChunkId": "d9374ab23d07945800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_08.ubulk",
+			"ChunkId": "d9374ab23d07945800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_02.uasset",
+			"ChunkId": "903104f69c5d263600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_02.ubulk",
+			"ChunkId": "903104f69c5d263600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_01.uasset",
+			"ChunkId": "fa85857af9215ffa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_01.ubulk",
+			"ChunkId": "fa85857af9215ffa00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_02.uasset",
+			"ChunkId": "a6e0bf066143fde600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_02.ubulk",
+			"ChunkId": "a6e0bf066143fde600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_01.uasset",
+			"ChunkId": "88539f97a9d63c2900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Gong_01.ubulk",
+			"ChunkId": "88539f97a9d63c2900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_10.uasset",
+			"ChunkId": "b02534f78da4a4a100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_10.ubulk",
+			"ChunkId": "b02534f78da4a4a100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_09.uasset",
+			"ChunkId": "4c013a6865df513300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_09.ubulk",
+			"ChunkId": "4c013a6865df513300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_07.uasset",
+			"ChunkId": "403cadaee3c6f4fc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_07.ubulk",
+			"ChunkId": "403cadaee3c6f4fc00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_06.uasset",
+			"ChunkId": "150ccfff0d893e0d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_06.ubulk",
+			"ChunkId": "150ccfff0d893e0d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_05.uasset",
+			"ChunkId": "65a038cab9c0abce00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_05.ubulk",
+			"ChunkId": "65a038cab9c0abce00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.uasset",
+			"ChunkId": "1db5c2f322c279be00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.ubulk",
+			"ChunkId": "1db5c2f322c279be00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_03.uasset",
+			"ChunkId": "419ed5d65a2761d100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_03.ubulk",
+			"ChunkId": "419ed5d65a2761d100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_02.uasset",
+			"ChunkId": "abbc2740e68f9d8c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_02.ubulk",
+			"ChunkId": "abbc2740e68f9d8c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_01.uasset",
+			"ChunkId": "8008888347dbcd6a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_01.ubulk",
+			"ChunkId": "8008888347dbcd6a00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Alarm_01.uasset",
+			"ChunkId": "90d9a6819264b80600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Futuristic_Alarm_01.ubulk",
+			"ChunkId": "90d9a6819264b80600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_04.uasset",
+			"ChunkId": "27cc9f5fbf39cff500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_04.ubulk",
+			"ChunkId": "27cc9f5fbf39cff500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_03.uasset",
+			"ChunkId": "dffbd0bdb70b4ef100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_03.ubulk",
+			"ChunkId": "dffbd0bdb70b4ef100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_02.uasset",
+			"ChunkId": "416801797d771feb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_02.ubulk",
+			"ChunkId": "416801797d771feb00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_01.uasset",
+			"ChunkId": "f6c758489120e75000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Flick_Switch_01.ubulk",
+			"ChunkId": "f6c758489120e75000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_04.uasset",
+			"ChunkId": "ee533470b19c3c5900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_04.ubulk",
+			"ChunkId": "ee533470b19c3c5900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_03.uasset",
+			"ChunkId": "fbe2a234fe25da3400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Error_Buzz_03.ubulk",
+			"ChunkId": "fbe2a234fe25da3400000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_01.uasset",
+			"ChunkId": "cab42055adee4b3700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_01.ubulk",
+			"ChunkId": "cab42055adee4b3700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Discordant_GameOver_Musical_Short.uasset",
+			"ChunkId": "4a45e79c727ab51500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Discordant_GameOver_Musical_Short.ubulk",
+			"ChunkId": "4a45e79c727ab51500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_15.uasset",
+			"ChunkId": "53c8ed3d21d121a700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_15.ubulk",
+			"ChunkId": "53c8ed3d21d121a700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_14.uasset",
+			"ChunkId": "eabd90f4a503db3c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_14.ubulk",
+			"ChunkId": "eabd90f4a503db3c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_13.uasset",
+			"ChunkId": "4216ded5c946a3cb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_13.ubulk",
+			"ChunkId": "4216ded5c946a3cb00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_12.uasset",
+			"ChunkId": "d823069b3662be6b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_12.ubulk",
+			"ChunkId": "d823069b3662be6b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_11.uasset",
+			"ChunkId": "7e83cd434eccf99a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_11.ubulk",
+			"ChunkId": "7e83cd434eccf99a00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_10.uasset",
+			"ChunkId": "854388dd377fe0ef00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_10.ubulk",
+			"ChunkId": "854388dd377fe0ef00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_09.uasset",
+			"ChunkId": "4cd9d0e69c64ee6b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_09.ubulk",
+			"ChunkId": "4cd9d0e69c64ee6b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_08.uasset",
+			"ChunkId": "441b118ef819cde700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_08.ubulk",
+			"ChunkId": "441b118ef819cde700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_07.uasset",
+			"ChunkId": "eceed99a12e2d63800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_07.ubulk",
+			"ChunkId": "eceed99a12e2d63800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_06.uasset",
+			"ChunkId": "4e70f6823158629500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_06.ubulk",
+			"ChunkId": "4e70f6823158629500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_05.uasset",
+			"ChunkId": "a07a5edf2161073f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_05.ubulk",
+			"ChunkId": "a07a5edf2161073f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_04.uasset",
+			"ChunkId": "dd9d916503fc06b300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_04.ubulk",
+			"ChunkId": "dd9d916503fc06b300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_03.uasset",
+			"ChunkId": "3b7a5c1e73dc3da600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_03.ubulk",
+			"ChunkId": "3b7a5c1e73dc3da600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_02.uasset",
+			"ChunkId": "49139ad916d703ed00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Coins_02.ubulk",
+			"ChunkId": "49139ad916d703ed00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Bar_Filling_01.uasset",
+			"ChunkId": "8f14d24c757a303000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Bar_Filling_01.ubulk",
+			"ChunkId": "8f14d24c757a303000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_11.uasset",
+			"ChunkId": "a02f729b4643379300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_11.ubulk",
+			"ChunkId": "a02f729b4643379300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_10.uasset",
+			"ChunkId": "d09d98d3c4258b2700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_10.ubulk",
+			"ChunkId": "d09d98d3c4258b2700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_08.uasset",
+			"ChunkId": "57f133c8dc97d97d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_08.ubulk",
+			"ChunkId": "57f133c8dc97d97d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_07.uasset",
+			"ChunkId": "5b7d7d3b0a354edc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_07.ubulk",
+			"ChunkId": "5b7d7d3b0a354edc00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_06.uasset",
+			"ChunkId": "af1132b9b59acc0300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_06.ubulk",
+			"ChunkId": "af1132b9b59acc0300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_05.uasset",
+			"ChunkId": "f84af83053070e3500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_05.ubulk",
+			"ChunkId": "f84af83053070e3500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_03.uasset",
+			"ChunkId": "adb8683689bd664e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_03.ubulk",
+			"ChunkId": "adb8683689bd664e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_02.uasset",
+			"ChunkId": "59a50d656a3f678c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_02.ubulk",
+			"ChunkId": "59a50d656a3f678c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_01.uasset",
+			"ChunkId": "fbdae9d17b82d83a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Click_01.ubulk",
+			"ChunkId": "fbdae9d17b82d83a00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_05.uasset",
+			"ChunkId": "0723cfc6778d83b700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_05.ubulk",
+			"ChunkId": "0723cfc6778d83b700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_04.uasset",
+			"ChunkId": "df01b89cd8de916e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_04.ubulk",
+			"ChunkId": "df01b89cd8de916e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_03.uasset",
+			"ChunkId": "f88f8f942a47263b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_03.ubulk",
+			"ChunkId": "f88f8f942a47263b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_02.uasset",
+			"ChunkId": "ec81a3cd63c4a63500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_02.ubulk",
+			"ChunkId": "ec81a3cd63c4a63500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_01.uasset",
+			"ChunkId": "7398ce2dcc66b9e300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Cartoon_Falling_01.ubulk",
+			"ChunkId": "7398ce2dcc66b9e300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Bar_Filling_02.uasset",
+			"ChunkId": "841eb1c2c8f78aab00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Bar_Filling_02.ubulk",
+			"ChunkId": "841eb1c2c8f78aab00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Sound/MusicMix.uasset",
+			"ChunkId": "38e8cd1e0027ab2000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Sound/FXMix.uasset",
+			"ChunkId": "78b3b02af9c806ec00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Interactions.uasset",
+			"ChunkId": "d118e786ed7e28ad00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Menus/Menu_Controller.uasset",
+			"ChunkId": "2972278c179c16c400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/SpawnEnemy.uasset",
+			"ChunkId": "3b4e8f5d5eca631400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Enemies/Enemy.uasset",
+			"ChunkId": "3197eb89994b9b8700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Defenses/Defense.uasset",
+			"ChunkId": "e24ce7543fb8bb0300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Controllers/CameraPawn.uasset",
+			"ChunkId": "1a7b5e3c24788e7f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/Buildings/Building.uasset",
+			"ChunkId": "36dc47557ff55ecd00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_01.uasset",
+			"ChunkId": "369b6cece32aede500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_01.ubulk",
+			"ChunkId": "369b6cece32aede500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_11.uasset",
+			"ChunkId": "9dadeb4f20292e2800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_11.ubulk",
+			"ChunkId": "9dadeb4f20292e2800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_10.uasset",
+			"ChunkId": "f3ceec823a3c058800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_10.ubulk",
+			"ChunkId": "f3ceec823a3c058800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_09.uasset",
+			"ChunkId": "1bbb9c3898f353e700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_09.ubulk",
+			"ChunkId": "1bbb9c3898f353e700000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_08.uasset",
+			"ChunkId": "f024cec40bd9120e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_08.ubulk",
+			"ChunkId": "f024cec40bd9120e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_07.uasset",
+			"ChunkId": "3441eec635cbae5600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_07.ubulk",
+			"ChunkId": "3441eec635cbae5600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_06.uasset",
+			"ChunkId": "586b5c8edd1bdbfc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_06.ubulk",
+			"ChunkId": "586b5c8edd1bdbfc00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_05.uasset",
+			"ChunkId": "1a51c4921853aaa800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_05.ubulk",
+			"ChunkId": "1a51c4921853aaa800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_04.uasset",
+			"ChunkId": "1b3eaa68d3203bcc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_04.ubulk",
+			"ChunkId": "1b3eaa68d3203bcc00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_03.uasset",
+			"ChunkId": "4bec5e8a94a196d000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_03.ubulk",
+			"ChunkId": "4bec5e8a94a196d000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_05.uasset",
+			"ChunkId": "79dced5ab278ccff00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_05.ubulk",
+			"ChunkId": "79dced5ab278ccff00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_03.uasset",
+			"ChunkId": "21d23767bce2092400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_03.ubulk",
+			"ChunkId": "21d23767bce2092400000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_02.uasset",
+			"ChunkId": "ee5a2a148fc452cf00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_02.ubulk",
+			"ChunkId": "ee5a2a148fc452cf00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
 			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
+			"ChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
+			"ChunkId": "fd3456639b15286700000001"
 		},
 		{
 			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
@@ -1209,24 +2133,36 @@
 			"ChunkId": "3889933e64b3022c00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
-			"ChunkId": "497b4263fbd333c800000001"
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset",
+			"ChunkId": "94719bde6334f57200000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"ChunkId": "6c3a98c4aa151a5300000001"
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_02.uasset",
+			"ChunkId": "93ffb3bdf917505100000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"ChunkId": "ef400c1f3fd91f2a00000001"
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_02.ubulk",
+			"ChunkId": "93ffb3bdf917505100000002"
 		},
 		{
-			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.uasset",
-			"ChunkId": "01c2fca777d1b28900000001"
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_01.uasset",
+			"ChunkId": "dc0876bf0c95a6ea00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.ubulk",
-			"ChunkId": "01c2fca777d1b28900000002"
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Back_Click_01.ubulk",
+			"ChunkId": "dc0876bf0c95a6ea00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_04.uasset",
+			"ChunkId": "04296eb9d038fac400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/WAV/Abstract_Pop_04.ubulk",
+			"ChunkId": "04296eb9d038fac400000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
@@ -1253,8 +2189,16 @@
 			"ChunkId": "56d51199b9b2142a00000002"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset",
-			"ChunkId": "94719bde6334f57200000001"
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
@@ -1281,6 +2225,10 @@
 			"ChunkId": "01192731cc2d0a3600000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Models/Map/Landscape/Ground_Mat.uasset",
+			"ChunkId": "694381d839dc34d300000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Models/Map/PaperWall.uasset",
 			"ChunkId": "8b6a2cc1d255304500000001"
 		},
@@ -1305,6 +2253,22 @@
 			"ChunkId": "38607bae79f163aa00000001"
 		},
 		{
+			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.uasset",
+			"ChunkId": "01c2fca777d1b28900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/Textures/T_Water_LF_N.ubulk",
+			"ChunkId": "01c2fca777d1b28900000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Models/Enemies/Candle/Wax_Inst.uasset",
 			"ChunkId": "bb7f45de903b4f5800000001"
 		},
@@ -1321,20 +2285,460 @@
 			"ChunkId": "248e1f406ed575ae00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_09_Cue.uasset",
+			"ChunkId": "9c3bc219806e8bd400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue.uasset",
+			"ChunkId": "af3182928b2e2cd900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_07_Cue.uasset",
+			"ChunkId": "039421662432948100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_06_Cue.uasset",
+			"ChunkId": "4b3c932a1b2b265600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_05_Cue.uasset",
+			"ChunkId": "37bf25d240d2bf4800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_04_Cue.uasset",
+			"ChunkId": "3fdbe2123509da0700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue.uasset",
+			"ChunkId": "76c9eb1c7dc1ef3c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue.uasset",
+			"ChunkId": "3676a33834f39a4d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_01_Cue.uasset",
+			"ChunkId": "9aebc296ea7a443f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Musical_05_Cue.uasset",
+			"ChunkId": "b21d1876c75edd2900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Musical_04_Cue.uasset",
+			"ChunkId": "054ec564c9b9009700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Musical_03_Cue.uasset",
+			"ChunkId": "da318266a5a9ac4100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Musical_02_Cue.uasset",
+			"ChunkId": "3c6c0015e7939e7600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Musical_01_Cue.uasset",
+			"ChunkId": "43dc15a27a73357300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Ringtone_01_Cue.uasset",
+			"ChunkId": "f029ebea7b27818900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_10_Cue.uasset",
+			"ChunkId": "0239427aa4b2cb0200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_08_Cue.uasset",
+			"ChunkId": "b13cd8519393f20a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_07_Cue.uasset",
+			"ChunkId": "90c99ad55952290e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_06_Cue.uasset",
+			"ChunkId": "e2f0e70d9c2dc28100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_05_Cue.uasset",
+			"ChunkId": "bf1582678c55400f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_04_Cue.uasset",
+			"ChunkId": "9be58a063014331300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_03_Cue.uasset",
+			"ChunkId": "bc1d78602c20ab6300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_02_Cue.uasset",
+			"ChunkId": "2b8f6e2dc70788a400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_01_Cue.uasset",
+			"ChunkId": "59072b90e17b491000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_10_Cue.uasset",
+			"ChunkId": "cca878bc0b33988500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_09_Cue.uasset",
+			"ChunkId": "cb55c6fddb31f32b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_08_Cue.uasset",
+			"ChunkId": "65b356618232137c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_07_Cue.uasset",
+			"ChunkId": "387a821b0fe659d100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_05_Cue.uasset",
+			"ChunkId": "82b6324fdd1c002400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_04_Cue.uasset",
+			"ChunkId": "5581ed30b0e3c13500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_03_Cue.uasset",
+			"ChunkId": "2fcc9ba6bcdbc8a900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_02_Cue.uasset",
+			"ChunkId": "01d62403e6d82f1900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_01_Cue.uasset",
+			"ChunkId": "af51310254c0574a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_04_Cue.uasset",
+			"ChunkId": "e742a69eb56df36f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_03_Cue.uasset",
+			"ChunkId": "bd56680528c7518b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_02_Cue.uasset",
+			"ChunkId": "5b096f3d35d64e6300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_01_Cue.uasset",
+			"ChunkId": "3f0733e324c5001100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Gong_03_Cue.uasset",
+			"ChunkId": "39f87056ff3cbb8a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Gong_02_Cue.uasset",
+			"ChunkId": "aefc4d829bc2122200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Gong_01_Cue.uasset",
+			"ChunkId": "1a4fbc78fce99edd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_10_Cue.uasset",
+			"ChunkId": "620c9353324404ee00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_09_Cue.uasset",
+			"ChunkId": "b1419010503368e600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_08_Cue.uasset",
+			"ChunkId": "e3c892f5bba70cbd00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_07_Cue.uasset",
+			"ChunkId": "dff4d2ff3bdc500f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_06_Cue.uasset",
+			"ChunkId": "e09cb261ad64e2ab00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_05_Cue.uasset",
+			"ChunkId": "f75bc275a1b0b7d600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue.uasset",
+			"ChunkId": "6a38db4604a7573f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_03_Cue.uasset",
+			"ChunkId": "74b64dbec23cbaa800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_02_Cue.uasset",
+			"ChunkId": "4fd60819333d94ae00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_01_Cue.uasset",
+			"ChunkId": "901850dc181e78e000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Alarm_01_Cue.uasset",
+			"ChunkId": "98ae739332b06a9300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Flick_Switch_04_Cue.uasset",
+			"ChunkId": "33cb8fa6c68b7a4d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Flick_Switch_03_Cue.uasset",
+			"ChunkId": "7e6ac104dac1b75c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Flick_Switch_02_Cue.uasset",
+			"ChunkId": "6fa9727b2b88618200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Flick_Switch_01_Cue.uasset",
+			"ChunkId": "dd1e74bdc440ae4400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Error_Buzz_04_Cue.uasset",
+			"ChunkId": "66b83de2162eece700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Error_Buzz_03_Cue.uasset",
+			"ChunkId": "51fcede5e56bf3ae00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Error_Buzz_02_Cue.uasset",
+			"ChunkId": "b0385ce3f85472d800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Error_Buzz_01_Cue.uasset",
+			"ChunkId": "f31e60a2c6fbdfe500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Discordant_GameOver_Musical_Short_Cue.uasset",
+			"ChunkId": "9666e81b6a7b5cba00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_15_Cue.uasset",
+			"ChunkId": "bdcdd681cfd17ffa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_14_Cue.uasset",
+			"ChunkId": "4c3d4e3d2338e7d000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_13_Cue.uasset",
+			"ChunkId": "9b4b4037b35b82b200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_12_Cue.uasset",
+			"ChunkId": "da3f086ff3642b1500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_11_Cue.uasset",
+			"ChunkId": "6ed42dec3597cc6f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_10_Cue.uasset",
+			"ChunkId": "7ca1ed1b4386428000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_09_Cue.uasset",
+			"ChunkId": "3c381672e94a8d2100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_08_Cue.uasset",
+			"ChunkId": "8ead62cf132923b200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_07_Cue.uasset",
+			"ChunkId": "571d92fb84a52e1b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_06_Cue.uasset",
+			"ChunkId": "b2807c2a2b31fd5300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_05_Cue.uasset",
+			"ChunkId": "610664bce468990700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_04_Cue.uasset",
+			"ChunkId": "e6cd03d63ff38a2d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_03_Cue.uasset",
+			"ChunkId": "539bdee8233850c700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_02_Cue.uasset",
+			"ChunkId": "7d081e9e31df746d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Coins_01_Cue.uasset",
+			"ChunkId": "e819e07d8a04b03000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_11_Cue.uasset",
+			"ChunkId": "666590c14e6c216f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_10_Cue.uasset",
+			"ChunkId": "8842839aa7292baa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_08_Cue.uasset",
+			"ChunkId": "7f8c96b2c852fb7300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_07_Cue.uasset",
+			"ChunkId": "68b3ad6acb9d1f5700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_06_Cue.uasset",
+			"ChunkId": "a112661dbc98657e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_05_Cue.uasset",
+			"ChunkId": "e98d2185d9bdee9900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_03_Cue.uasset",
+			"ChunkId": "b21f58630bbed65a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_02_Cue.uasset",
+			"ChunkId": "30fb0b30b35c926100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_01_Cue.uasset",
+			"ChunkId": "5938cb8d0c7e487500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Cartoon_Falling_05_Cue.uasset",
+			"ChunkId": "3adf7922dff7d91e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Cartoon_Falling_04_Cue.uasset",
+			"ChunkId": "0cf8ecd249c1fb3800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Cartoon_Falling_03_Cue.uasset",
+			"ChunkId": "b94246998da8608f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Cartoon_Falling_02_Cue.uasset",
+			"ChunkId": "310e2d0418a51bfe00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Cartoon_Falling_01_Cue.uasset",
+			"ChunkId": "1578951bb714d9b600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Bar_Filling_02_Cue.uasset",
+			"ChunkId": "c57ac77f51ddeb3800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Bar_Filling_01_Cue.uasset",
+			"ChunkId": "3ac757c2f366dbcc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_11_Cue.uasset",
+			"ChunkId": "be54c3100bb096a100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_10_Cue.uasset",
+			"ChunkId": "334ebb2a190a087700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_09_Cue.uasset",
+			"ChunkId": "be853136789fcf1500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_08_Cue.uasset",
+			"ChunkId": "28eda8b5a1efd8aa00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_07_Cue.uasset",
+			"ChunkId": "9650c8e93a69900b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_06_Cue.uasset",
+			"ChunkId": "f86a133903f7f3fc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_05_Cue.uasset",
+			"ChunkId": "fb09312df8d809b500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_04_Cue.uasset",
+			"ChunkId": "f3c06bd0cbcca64600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_03_Cue.uasset",
+			"ChunkId": "1caac27be2b5139a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_02_Cue.uasset",
+			"ChunkId": "438116c337c351f000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Back_Click_01_Cue.uasset",
+			"ChunkId": "e4da619e1a7d5d5900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Abstract_Pop_05_Cue.uasset",
+			"ChunkId": "f1f1add8565baef700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Abstract_Pop_04_Cue.uasset",
+			"ChunkId": "837b6926347dca4900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Abstract_Pop_03_Cue.uasset",
+			"ChunkId": "203913a9eb7c07f500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Abstract_Pop_02_Cue.uasset",
+			"ChunkId": "1d9eb30dd3812ba100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Abstract_Pop_01_Cue.uasset",
+			"ChunkId": "6b2f95d6a7010cb700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Tutorial.uasset",
+			"ChunkId": "7d9ef91e4533fa3900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Test.uasset",
+			"ChunkId": "608b4555ee7259b700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Lvl4_Spawn.uasset",
+			"ChunkId": "80176935b6d3312e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Lvl3_Spawn.uasset",
+			"ChunkId": "a81ebaf48712387b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Lvl2_Spawn.uasset",
+			"ChunkId": "56b3e3c893f43ab400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/LVLSpawn/Lvl11_Spawn.uasset",
+			"ChunkId": "27e6ffec6968923400000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Blueprints/Controllers/TD_Controller.uasset",
 			"ChunkId": "b7dfa98c7cf32c6f00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Test.uasset",
-			"ChunkId": "39a9d92ab8d1b7b000000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Lvl2_Spawn.uasset",
-			"ChunkId": "94f027834135a2cc00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/Lvl1_Spawn.uasset",
-			"ChunkId": "6a3513d7a490700500000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
@@ -1473,8 +2877,8 @@
 			"ChunkId": "d31cf458faf4915200000001"
 		},
 		{
-			"Path": "Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
-			"ChunkId": "15d0ea2c4d43c43c00000001"
+			"Path": "Engine/Content/EngineMeshes/Cube.uasset",
+			"ChunkId": "fa410045dee3a15800000001"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
@@ -3373,10 +4777,6 @@
 			"ChunkId": "fac6bce0797fed7b00000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion.uasset",
-			"ChunkId": "ca6a23f29fa3c29100000001"
-		},
-		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
 			"ChunkId": "cadc4d0ec817b83400000001"
 		},
@@ -3387,6 +4787,302 @@
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
 			"ChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/SFX.uasset",
+			"ChunkId": "bef0db628e3856fc00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Wheel_death.uasset",
+			"ChunkId": "4a10e4c41271663900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Wheel_death.ubulk",
+			"ChunkId": "4a10e4c41271663900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Error_Buzz_05.uasset",
+			"ChunkId": "b336407d5711bf9600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Error_Buzz_05.ubulk",
+			"ChunkId": "b336407d5711bf9600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Enemy_hit.uasset",
+			"ChunkId": "9444e840facb463b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Enemy_hit.ubulk",
+			"ChunkId": "9444e840facb463b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Throw_death.uasset",
+			"ChunkId": "f13136768837fd6d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Throw_death.ubulk",
+			"ChunkId": "f13136768837fd6d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Throw.uasset",
+			"ChunkId": "84276f3bb049eb9c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Throw.ubulk",
+			"ChunkId": "84276f3bb049eb9c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Special_Powerup_10.uasset",
+			"ChunkId": "2f014839a9cfeea300000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Special_Powerup_10.ubulk",
+			"ChunkId": "2f014839a9cfeea300000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Shield_hit.uasset",
+			"ChunkId": "004e46939a75be2b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Shield_hit.ubulk",
+			"ChunkId": "004e46939a75be2b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Recuited.uasset",
+			"ChunkId": "9711b25ed85f489f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Recuited.ubulk",
+			"ChunkId": "9711b25ed85f489f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Pop_09.uasset",
+			"ChunkId": "86b170363d90534b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Pop_09.ubulk",
+			"ChunkId": "86b170363d90534b00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Musical_Click_06.uasset",
+			"ChunkId": "2ac0a58a882fa35400000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Musical_Click_06.ubulk",
+			"ChunkId": "2ac0a58a882fa35400000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Item_Sell_Purchase_05.uasset",
+			"ChunkId": "55a7a40d98ad643c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Item_Sell_Purchase_05.ubulk",
+			"ChunkId": "55a7a40d98ad643c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Futuristic_Click_11.uasset",
+			"ChunkId": "6a579963b1971b4e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Futuristic_Click_11.ubulk",
+			"ChunkId": "6a579963b1971b4e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Flick_Switch_05.uasset",
+			"ChunkId": "33777bd3e78da18d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Flick_Switch_05.ubulk",
+			"ChunkId": "33777bd3e78da18d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Fireman.uasset",
+			"ChunkId": "d0742fabc12f4ba100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Fireman.ubulk",
+			"ChunkId": "d0742fabc12f4ba100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Explosion.uasset",
+			"ChunkId": "580033d9e09e993200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Explosion.ubulk",
+			"ChunkId": "580033d9e09e993200000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Experimental_field.uasset",
+			"ChunkId": "b7bbb1435859176200000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Experimental_field.ubulk",
+			"ChunkId": "b7bbb1435859176200000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue.uasset",
+			"ChunkId": "be0639584bfa694b00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Pop_09_Cue.uasset",
+			"ChunkId": "174d773ae7814e3100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Musical_Click_06_Cue.uasset",
+			"ChunkId": "2700a7d38e9d8eb700000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_05_Cue.uasset",
+			"ChunkId": "76832251f1bf5a4600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Archery.uasset",
+			"ChunkId": "2f7e8649f69d8c4100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Archery.ubulk",
+			"ChunkId": "2f7e8649f69d8c4100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_spawn.uasset",
+			"ChunkId": "5cc93b0a3b8cee0f00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_spawn.ubulk",
+			"ChunkId": "5cc93b0a3b8cee0f00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_hit.uasset",
+			"ChunkId": "0e5e6a3ef1c5767100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_hit.ubulk",
+			"ChunkId": "0e5e6a3ef1c5767100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_death.uasset",
+			"ChunkId": "c7b1ba51d346f12600000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Defense_death.ubulk",
+			"ChunkId": "c7b1ba51d346f12600000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Contruction_complete.uasset",
+			"ChunkId": "5ac0c37069f9f86d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Contruction_complete.ubulk",
+			"ChunkId": "5ac0c37069f9f86d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Click_09.uasset",
+			"ChunkId": "7dd40928aab402df00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Click_09.ubulk",
+			"ChunkId": "7dd40928aab402df00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Click_04.uasset",
+			"ChunkId": "98b503e8cc42974c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Click_04.ubulk",
+			"ChunkId": "98b503e8cc42974c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Change_zone.uasset",
+			"ChunkId": "7a7908d770a95efb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Change_zone.ubulk",
+			"ChunkId": "7a7908d770a95efb00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Candle_death.uasset",
+			"ChunkId": "595b1c80c8b9513e00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Candle_death.ubulk",
+			"ChunkId": "595b1c80c8b9513e00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Bow.uasset",
+			"ChunkId": "05e9d66e735e264100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Bow.ubulk",
+			"ChunkId": "05e9d66e735e264100000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Basic_death.uasset",
+			"ChunkId": "ceeaf24099393d1c00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Basic_death.ubulk",
+			"ChunkId": "ceeaf24099393d1c00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Barracks.uasset",
+			"ChunkId": "0e256ab373402d4d00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Barracks.ubulk",
+			"ChunkId": "0e256ab373402d4d00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_11_Cue.uasset",
+			"ChunkId": "300a03b12a7836f500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Flick_Switch_05_Cue.uasset",
+			"ChunkId": "fc62ece8bc235ce000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Models/Defenses/Bomb/Explosion/Explosion.uasset",
+			"ChunkId": "ca6a23f29fa3c29100000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Error_Buzz_05_Cue.uasset",
+			"ChunkId": "744246e3e775849800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_09_Cue.uasset",
+			"ChunkId": "64b4d5daf05c4f4a00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Click_04_Cue.uasset",
+			"ChunkId": "3f616cb53026348b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Master.uasset",
+			"ChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Music.uasset",
+			"ChunkId": "0eb8023ee0c2921900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Victory.uasset",
+			"ChunkId": "bf9e67789f5362c900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Victory.ubulk",
+			"ChunkId": "bf9e67789f5362c900000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Intro.uasset",
+			"ChunkId": "a297f211ff4c48ac00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Intro.ubulk",
+			"ChunkId": "a297f211ff4c48ac00000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Interface_And_Item_Sounds/Cues/Discordant_GameOver_Musical_Long_Cue.uasset",
+			"ChunkId": "0bbdccf74bc5c70500000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Menus/LevelSelection_Menu.uasset",
@@ -3465,6 +5161,22 @@
 			"ChunkId": "0fc824c209a5588d00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Music/Game.uasset",
+			"ChunkId": "6bb56080e62507f500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Game.ubulk",
+			"ChunkId": "6bb56080e62507f500000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Discordant_GameOver_Musical_Long.uasset",
+			"ChunkId": "609bd3e42e549f5900000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Music/Discordant_GameOver_Musical_Long.ubulk",
+			"ChunkId": "609bd3e42e549f5900000002"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Blueprints/GameManager.uasset",
 			"ChunkId": "d49677075519279600000001"
 		},
@@ -3473,8 +5185,8 @@
 			"ChunkId": "be0ea2d31e243de200000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/Ground.uasset",
-			"ChunkId": "3ec11f19bd8cb47f00000001"
+			"Path": "OrigamiSiege/Content/Blueprints/LvlComponents/Landscape.uasset",
+			"ChunkId": "0a31aad75ef6f6ec00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Buildings/BP_BuildMoneyMaker.uasset",
@@ -3489,16 +5201,12 @@
 			"ChunkId": "6d685c911146ea6700000001"
 		},
 		{
-			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_VillageHUD.uasset",
-			"ChunkId": "b312a5f62cb6c5fb00000001"
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_PauseMenu.uasset",
+			"ChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_HUDManager.uasset",
 			"ChunkId": "b67c9738737597fc00000001"
-		},
-		{
-			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_PauseMenu.uasset",
-			"ChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Path": "OrigamiSiege/Content/Blueprints/Grids/BP_ConstructionCell.uasset",
@@ -3541,12 +5249,28 @@
 			"ChunkId": "51e4cd551f7d65ab00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_VillageHUD.uasset",
+			"ChunkId": "b312a5f62cb6c5fb00000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Blueprints/UI/WP_Tutorial.uasset",
+			"ChunkId": "440e7d9f045cc09800000001"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Levels/Level2.umap",
 			"ChunkId": "101fd7303f3f1fdb00000001"
 		},
 		{
+			"Path": "OrigamiSiege/Content/Levels/Level2.ubulk",
+			"ChunkId": "101fd7303f3f1fdb00000002"
+		},
+		{
 			"Path": "OrigamiSiege/Content/Levels/Level1.umap",
 			"ChunkId": "182ea576bf73401500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level1.ubulk",
+			"ChunkId": "182ea576bf73401500000002"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
@@ -3555,6 +5279,30 @@
 		{
 			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
 			"ChunkId": "6ed73496191bba2800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Tutorial.umap",
+			"ChunkId": "fee6cb0914488d3800000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Tutorial.ubulk",
+			"ChunkId": "fee6cb0914488d3800000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level4.umap",
+			"ChunkId": "f42e75f30be2ab1000000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level4.ubulk",
+			"ChunkId": "f42e75f30be2ab1000000002"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level3.umap",
+			"ChunkId": "fc466a1d0e07858500000001"
+		},
+		{
+			"Path": "OrigamiSiege/Content/Levels/Level3.ubulk",
+			"ChunkId": "fc466a1d0e07858500000002"
 		}
 	],
 	"Packages": [
@@ -3571,8 +5319,8 @@
 			"PackageChunkId": "7045cf1b55a1317500000001"
 		},
 		{
-			"Name": "/Engine/EngineSounds/Master",
-			"PackageChunkId": "e670df8e769d382e00000001"
+			"Name": "/Game/Blueprints/Sound/MasterMix",
+			"PackageChunkId": "0403f65af178211300000001"
 		},
 		{
 			"Name": "/Niagara/ParameterDefinitions/CoreParameters",
@@ -3667,22 +5415,8 @@
 			"PackageChunkId": "c1ceadea19a929af00000001"
 		},
 		{
-			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
-			"PackageChunkId": "2cc5808063f890db00000001",
-			"BulkDataChunkIds": [
-				"2cc5808063f890db00000002"
-			]
-		},
-		{
 			"Name": "/Engine/Tutorial/ContentIntroCurve",
 			"PackageChunkId": "3cf25e9da31d4f2a00000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Solver",
-			"PackageChunkId": "5c918efb403d4bb200000001",
-			"BulkDataChunkIds": [
-				"5c918efb403d4bb200000002"
-			]
 		},
 		{
 			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
@@ -3833,6 +5567,20 @@
 			]
 		},
 		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"PackageChunkId": "2cc5808063f890db00000001",
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
+		},
+		{
 			"Name": "/Engine/EditorLandscapeResources/DataLayer",
 			"PackageChunkId": "fe8e2f79bc05d6e200000001"
 		},
@@ -3929,12 +5677,12 @@
 			"PackageChunkId": "d7818a11b025c71600000001"
 		},
 		{
-			"Name": "/Game/Models/UI/Summeron",
-			"PackageChunkId": "bb091b9d11c8e23b00000001"
+			"Name": "/Game/Music/Attenuation",
+			"PackageChunkId": "7aaa6ed90ad51e6900000001"
 		},
 		{
-			"Name": "/Game/Models/UI/Icon_V_Archer",
-			"PackageChunkId": "601a5251bdd8ba3800000001"
+			"Name": "/Game/Models/UI/Summeron",
+			"PackageChunkId": "bb091b9d11c8e23b00000001"
 		},
 		{
 			"Name": "/Engine/EngineResources/WhiteSquareTexture",
@@ -4035,13 +5783,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
-			"PackageChunkId": "7539f12095a3f0d100000001",
-			"BulkDataChunkIds": [
-				"7539f12095a3f0d100000002"
-			]
-		},
-		{
 			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
 			"PackageChunkId": "7a7173cfb4095b9f00000001",
 			"BulkDataChunkIds": [
@@ -4138,12 +5879,47 @@
 			]
 		},
 		{
+			"Name": "/Game/Models/UI/Background",
+			"PackageChunkId": "77136a7474387a8400000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Fireman2",
+			"PackageChunkId": "591d2edeabbed9ac00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_V_Fireman",
+			"PackageChunkId": "704d6dc283a09d2700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"PackageChunkId": "7539f12095a3f0d100000001",
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
 			"Name": "/Game/Models/UI/Win_Texture",
 			"PackageChunkId": "06b50f5ca24489e200000001"
 		},
 		{
+			"Name": "/Game/Models/UI/WheelImg",
+			"PackageChunkId": "913c29fd83703b0300000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Tutorial_background",
+			"PackageChunkId": "16fa5287ec80ec8200000001"
+		},
+		{
+			"Name": "/Game/Models/UI/ThrowerImg",
+			"PackageChunkId": "f90ac5baa2503b2d00000001"
+		},
+		{
 			"Name": "/Game/Models/UI/Pause_Background",
 			"PackageChunkId": "d5359bbb743fca5b00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/PauseIcon",
+			"PackageChunkId": "6396f1e0b0c7b62800000001"
 		},
 		{
 			"Name": "/Game/Models/UI/Main_Background",
@@ -4162,14 +5938,6 @@
 			"PackageChunkId": "d1ff7bd605eb082400000001"
 		},
 		{
-			"Name": "/Game/Models/UI/Icon_V_Fireman2",
-			"PackageChunkId": "591d2edeabbed9ac00000001"
-		},
-		{
-			"Name": "/Game/Models/UI/Icon_V_Fireman",
-			"PackageChunkId": "704d6dc283a09d2700000001"
-		},
-		{
 			"Name": "/Game/Models/UI/Icon_V_Bombman2",
 			"PackageChunkId": "4a64bd7cd48da33800000001"
 		},
@@ -4182,16 +5950,16 @@
 			"PackageChunkId": "de7a18c58ea303e500000001"
 		},
 		{
-			"Name": "/Game/Models/UI/Icon_Archer2",
-			"PackageChunkId": "436c58b24e0bc17b00000001"
-		},
-		{
-			"Name": "/Game/Models/UI/Icon_MoneyMaker2",
-			"PackageChunkId": "ea45880f56eeb56a00000001"
+			"Name": "/Game/Models/UI/Icon_V_Archer",
+			"PackageChunkId": "601a5251bdd8ba3800000001"
 		},
 		{
 			"Name": "/Game/Models/UI/Icon_Village",
 			"PackageChunkId": "31388974f96c492600000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_MoneyMaker2",
+			"PackageChunkId": "ea45880f56eeb56a00000001"
 		},
 		{
 			"Name": "/Game/Models/UI/Icon_MoneyMaker",
@@ -4254,6 +6022,34 @@
 			"PackageChunkId": "41f5ca7e28bec37a00000001"
 		},
 		{
+			"Name": "/Game/Models/UI/Icon_Archer2",
+			"PackageChunkId": "436c58b24e0bc17b00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/Icon_Archer",
+			"PackageChunkId": "8203a59b0c3807e100000001"
+		},
+		{
+			"Name": "/Game/Models/UI/CandleImg",
+			"PackageChunkId": "6b5754f2cd9959be00000001"
+		},
+		{
+			"Name": "/Game/Models/UI/BasicImg",
+			"PackageChunkId": "7d596c144e62bfb400000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Grass_LayerInfo",
+			"PackageChunkId": "0d65ecb3f6f53e4400000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Grass2_LayerInfo",
+			"PackageChunkId": "19b30cc9a29b687400000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Dirt_LayerInfo",
+			"PackageChunkId": "99d2ce91353ac09000000001"
+		},
+		{
 			"Name": "/Game/Models/Enemies/Wheel/Wheel_Attack_Skeleton",
 			"PackageChunkId": "e83705a666170cad00000001"
 		},
@@ -4264,6 +6060,61 @@
 		{
 			"Name": "/Game/Models/Enemies/Wheel/Spike",
 			"PackageChunkId": "5970db575eae06b000000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg",
+			"PackageChunkId": "a81c8251c58e40f200000001"
+		},
+		{
+			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture",
+			"PackageChunkId": "ac3a1b786cb0cbd000000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Grass_tex_normal",
+			"PackageChunkId": "dcc8380bc799918200000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Grass_tex",
+			"PackageChunkId": "9583e11cc1ede07200000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Grass2_tex",
+			"PackageChunkId": "2d46e63669ec49fa00000001"
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Dirt_tex_normal",
+			"PackageChunkId": "b0bc52c7165a9cb100000001",
+			"BulkDataChunkIds": [
+				"b0bc52c7165a9cb100000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Map/Landscape/Dirt_tex",
+			"PackageChunkId": "b4e0baa0c93d5aa600000001",
+			"BulkDataChunkIds": [
+				"b4e0baa0c93d5aa600000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic",
+			"PackageChunkId": "dc34a24e858c491100000001",
+			"BulkDataChunkIds": [
+				"dc34a24e858c491100000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_Normal",
+			"PackageChunkId": "855fe609d1a76c3300000001",
+			"BulkDataChunkIds": [
+				"855fe609d1a76c3300000002"
+			]
+		},
+		{
+			"Name": "/Game/Models/Map/Wall_DefaultMaterial_BaseColor",
+			"PackageChunkId": "b71dd923b2275d1700000001",
+			"BulkDataChunkIds": [
+				"b71dd923b2275d1700000002"
+			]
 		},
 		{
 			"Name": "/Game/Models/Enemies/Throw/Throw_Attack_Skeleton",
@@ -4288,32 +6139,6 @@
 		{
 			"Name": "/Game/Models/Enemies/Knife/Cutter",
 			"PackageChunkId": "48cba113dbedc45e00000001"
-		},
-		{
-			"Name": "/Game/Models/UI/Icon_Archer",
-			"PackageChunkId": "8203a59b0c3807e100000001"
-		},
-		{
-			"Name": "/Game/Models/UI/Background",
-			"PackageChunkId": "77136a7474387a8400000001"
-		},
-		{
-			"Name": "/Game/Models/Map/Wall_DefaultMaterial_OcclusionRoughnessMetallic",
-			"PackageChunkId": "dc34a24e858c491100000001",
-			"BulkDataChunkIds": [
-				"dc34a24e858c491100000002"
-			]
-		},
-		{
-			"Name": "/Game/Models/Map/Wall_DefaultMaterial_Normal",
-			"PackageChunkId": "855fe609d1a76c3300000001",
-			"BulkDataChunkIds": [
-				"855fe609d1a76c3300000002"
-			]
-		},
-		{
-			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture_Normal_jpg",
-			"PackageChunkId": "a81c8251c58e40f200000001"
 		},
 		{
 			"Name": "/Game/Models/Enemies/Candle/Wax",
@@ -4360,15 +6185,11 @@
 			"PackageChunkId": "d0d5028da7308f2900000001"
 		},
 		{
-			"Name": "/Game/Models/Map/Wall_DefaultMaterial_BaseColor",
-			"PackageChunkId": "b71dd923b2275d1700000001",
+			"Name": "/Game/Models/Enemies/Basic/Water_Normal",
+			"PackageChunkId": "4bfb12a692ba383100000001",
 			"BulkDataChunkIds": [
-				"b71dd923b2275d1700000002"
+				"4bfb12a692ba383100000002"
 			]
-		},
-		{
-			"Name": "/Game/Models/Enemies/Wheel/Rubber_Texture",
-			"PackageChunkId": "ac3a1b786cb0cbd000000001"
 		},
 		{
 			"Name": "/Game/Models/Enemies/Throw/Wood_Texture_Normal",
@@ -4386,19 +6207,24 @@
 			]
 		},
 		{
-			"Name": "/Game/Models/Enemies/Basic/Water_Normal",
-			"PackageChunkId": "4bfb12a692ba383100000001",
-			"BulkDataChunkIds": [
-				"4bfb12a692ba383100000002"
-			]
+			"Name": "/Game/Models/Buildings/Archery/Archery_building",
+			"PackageChunkId": "938f7524aaeb03b900000001"
 		},
 		{
-			"Name": "/Game/Models/Defenses/Arrow/Fire_arrow",
-			"PackageChunkId": "97e0ba7f77069bd400000001"
+			"Name": "/Game/Models/Buildings/Archery/Archery_tower",
+			"PackageChunkId": "b81b4a1babd1666d00000001"
 		},
 		{
-			"Name": "/Game/Models/Defenses/Arrow/Arrow",
-			"PackageChunkId": "315a40ad5482744b00000001"
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_6",
+			"PackageChunkId": "3ad23fbd9015fe9b00000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_5",
+			"PackageChunkId": "43d8432e935c9d9200000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_4",
+			"PackageChunkId": "85b8ae8bc64de9e500000001"
 		},
 		{
 			"Name": "/Game/Models/Defenses/Guardian/Walk/Guardian_Walk",
@@ -4448,18 +6274,6 @@
 			"PackageChunkId": "0e52481f6ae2bd6600000001"
 		},
 		{
-			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_6",
-			"PackageChunkId": "3ad23fbd9015fe9b00000001"
-		},
-		{
-			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_5",
-			"PackageChunkId": "43d8432e935c9d9200000001"
-		},
-		{
-			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_4",
-			"PackageChunkId": "85b8ae8bc64de9e500000001"
-		},
-		{
 			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion_3",
 			"PackageChunkId": "69e25f66858c0a6200000001"
 		},
@@ -4483,91 +6297,12 @@
 			"PackageChunkId": "13376b4cf1ee40bd00000001"
 		},
 		{
-			"Name": "/Game/Materials/HoverMaterial",
-			"PackageChunkId": "67a2fc1b18d01f1000000001"
+			"Name": "/Game/Models/Defenses/Arrow/Fire_arrow",
+			"PackageChunkId": "97e0ba7f77069bd400000001"
 		},
 		{
-			"Name": "/Game/Materials/DefaultMaterial",
-			"PackageChunkId": "619fae0c5656520400000001"
-		},
-		{
-			"Name": "/Game/Materials/ClickedMaterial",
-			"PackageChunkId": "f682f9b662bcb32000000001"
-		},
-		{
-			"Name": "/Game/Materials/BaseMaterial",
-			"PackageChunkId": "6dbbfe131c7280dd00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Menus/Menu_Interactions",
-			"PackageChunkId": "d118e786ed7e28ad00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Menus/Menu_Controller",
-			"PackageChunkId": "2972278c179c16c400000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Enemies/Enemy",
-			"PackageChunkId": "3197eb89994b9b8700000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Defenses/Defense",
-			"PackageChunkId": "e24ce7543fb8bb0300000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Controllers/CameraPawn",
-			"PackageChunkId": "1a7b5e3c24788e7f00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Buildings/Building",
-			"PackageChunkId": "36dc47557ff55ecd00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/SpawnEnemy",
-			"PackageChunkId": "a616fa24f58602e500000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
-			"PackageChunkId": "19aece732b01cd4000000001"
-		},
-		{
-			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
-			"PackageChunkId": "fd3456639b15286700000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
-		},
-		{
-			"Name": "/Game/Models/Buildings/Archery/Archery_building",
-			"PackageChunkId": "938f7524aaeb03b900000001"
-		},
-		{
-			"Name": "/Game/Levels/Main_BuiltData",
-			"PackageChunkId": "b71b2cfed07ebe1200000001"
+			"Name": "/Game/Models/Defenses/Arrow/Arrow",
+			"PackageChunkId": "315a40ad5482744b00000001"
 		},
 		{
 			"Name": "/Game/Models/Defenses/Archer/Walk_Attack/Archer_Walk_Attack",
@@ -4623,12 +6358,123 @@
 			]
 		},
 		{
-			"Name": "/Game/Models/Buildings/Archery/Archery_tower",
-			"PackageChunkId": "b81b4a1babd1666d00000001"
-		},
-		{
 			"Name": "/Game/Models/Buildings/Archery/Archery_diane",
 			"PackageChunkId": "2ddbcaf8429c6a2000000001"
+		},
+		{
+			"Name": "/Game/Materials/HoverMaterial",
+			"PackageChunkId": "67a2fc1b18d01f1000000001"
+		},
+		{
+			"Name": "/Game/Materials/DefaultMaterial",
+			"PackageChunkId": "619fae0c5656520400000001"
+		},
+		{
+			"Name": "/Game/Materials/ClickedMaterial",
+			"PackageChunkId": "f682f9b662bcb32000000001"
+		},
+		{
+			"Name": "/Game/Materials/BaseMaterial",
+			"PackageChunkId": "6dbbfe131c7280dd00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_06",
+			"PackageChunkId": "0423ac16a1bb582200000001",
+			"BulkDataChunkIds": [
+				"0423ac16a1bb582200000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_05",
+			"PackageChunkId": "d9b5d3ec0d4a48b700000001",
+			"BulkDataChunkIds": [
+				"d9b5d3ec0d4a48b700000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Win_Lose_BuiltData",
+			"PackageChunkId": "27af7d007756929c00000001"
+		},
+		{
+			"Name": "/Game/Levels/Tutorial_BuiltData",
+			"PackageChunkId": "682bdd6bb90b8f2900000001",
+			"BulkDataChunkIds": [
+				"682bdd6bb90b8f2900000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Main_BuiltData",
+			"PackageChunkId": "b71b2cfed07ebe1200000001"
+		},
+		{
+			"Name": "/Game/Levels/Level4_BuiltData",
+			"PackageChunkId": "c74dbd4eeb3d239600000001",
+			"BulkDataChunkIds": [
+				"c74dbd4eeb3d239600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_09",
+			"PackageChunkId": "8689864c19a5bd8f00000001",
+			"BulkDataChunkIds": [
+				"8689864c19a5bd8f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_08",
+			"PackageChunkId": "7ac1b45531f876e600000001",
+			"BulkDataChunkIds": [
+				"7ac1b45531f876e600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_07",
+			"PackageChunkId": "0d18b3357843afff00000001",
+			"BulkDataChunkIds": [
+				"0d18b3357843afff00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_04",
+			"PackageChunkId": "991e941ae7492eba00000001",
+			"BulkDataChunkIds": [
+				"991e941ae7492eba00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_02",
+			"PackageChunkId": "76d28f0203d1611000000001",
+			"BulkDataChunkIds": [
+				"76d28f0203d1611000000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_09",
+			"PackageChunkId": "ebfa0e5474cf885f00000001",
+			"BulkDataChunkIds": [
+				"ebfa0e5474cf885f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_08",
+			"PackageChunkId": "e6aea216e4ad881b00000001",
+			"BulkDataChunkIds": [
+				"e6aea216e4ad881b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_04",
+			"PackageChunkId": "d81d7a007b4eddda00000001",
+			"BulkDataChunkIds": [
+				"d81d7a007b4eddda00000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Level3_BuiltData",
+			"PackageChunkId": "27b21b78d7e9a3eb00000001",
+			"BulkDataChunkIds": [
+				"27b21b78d7e9a3eb00000002"
+			]
 		},
 		{
 			"Name": "/Game/Levels/Level2_BuiltData",
@@ -4645,12 +6491,730 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_03",
+			"PackageChunkId": "1239ef27614c34fe00000001",
+			"BulkDataChunkIds": [
+				"1239ef27614c34fe00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Powerup_01",
+			"PackageChunkId": "dd8149bca4ea5a1c00000001",
+			"BulkDataChunkIds": [
+				"dd8149bca4ea5a1c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Musical_05",
+			"PackageChunkId": "6f240b90191d462500000001",
+			"BulkDataChunkIds": [
+				"6f240b90191d462500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Musical_04",
+			"PackageChunkId": "989d6b8fb6dca3a200000001",
+			"BulkDataChunkIds": [
+				"989d6b8fb6dca3a200000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Musical_03",
+			"PackageChunkId": "7c0a0d8ebc74fd8900000001",
+			"BulkDataChunkIds": [
+				"7c0a0d8ebc74fd8900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Musical_02",
+			"PackageChunkId": "13ac537f39437d7900000001",
+			"BulkDataChunkIds": [
+				"13ac537f39437d7900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Special_Musical_01",
+			"PackageChunkId": "b623fecd3a32166300000001",
+			"BulkDataChunkIds": [
+				"b623fecd3a32166300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Ringtone_01",
+			"PackageChunkId": "a59606269035bdef00000001",
+			"BulkDataChunkIds": [
+				"a59606269035bdef00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_10",
+			"PackageChunkId": "f9acf64d60b74c0600000001",
+			"BulkDataChunkIds": [
+				"f9acf64d60b74c0600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_08",
+			"PackageChunkId": "1c86173f6ceba03700000001",
+			"BulkDataChunkIds": [
+				"1c86173f6ceba03700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_07",
+			"PackageChunkId": "5a876ad03c3274e500000001",
+			"BulkDataChunkIds": [
+				"5a876ad03c3274e500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_06",
+			"PackageChunkId": "715bfbd50a48481f00000001",
+			"BulkDataChunkIds": [
+				"715bfbd50a48481f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_05",
+			"PackageChunkId": "76a4a1efbd7ed42000000001",
+			"BulkDataChunkIds": [
+				"76a4a1efbd7ed42000000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_03",
+			"PackageChunkId": "0c1f06b31e585bde00000001",
+			"BulkDataChunkIds": [
+				"0c1f06b31e585bde00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_02",
+			"PackageChunkId": "d352d1f2eb4f605200000001",
+			"BulkDataChunkIds": [
+				"d352d1f2eb4f605200000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Pop_01",
+			"PackageChunkId": "e8acf9604947276c00000001",
+			"BulkDataChunkIds": [
+				"e8acf9604947276c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_10",
+			"PackageChunkId": "025cb0164cdf438e00000001",
+			"BulkDataChunkIds": [
+				"025cb0164cdf438e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_07",
+			"PackageChunkId": "11de5f9d82c0688d00000001",
+			"BulkDataChunkIds": [
+				"11de5f9d82c0688d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_05",
+			"PackageChunkId": "ed8a5cb4e54b661900000001",
+			"BulkDataChunkIds": [
+				"ed8a5cb4e54b661900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_04",
+			"PackageChunkId": "f04d88ceacdedffc00000001",
+			"BulkDataChunkIds": [
+				"f04d88ceacdedffc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_03",
+			"PackageChunkId": "f20e914fef788c1b00000001",
+			"BulkDataChunkIds": [
+				"f20e914fef788c1b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_02",
+			"PackageChunkId": "d599c1ac67d910c700000001",
+			"BulkDataChunkIds": [
+				"d599c1ac67d910c700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Musical_Click_01",
+			"PackageChunkId": "ca0fc2f4d4c22f1500000001",
+			"BulkDataChunkIds": [
+				"ca0fc2f4d4c22f1500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_04",
+			"PackageChunkId": "0598320f486ebb8a00000001",
+			"BulkDataChunkIds": [
+				"0598320f486ebb8a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_03",
+			"PackageChunkId": "6e3a111f06a0e47400000001",
+			"BulkDataChunkIds": [
+				"6e3a111f06a0e47400000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Gong_03",
+			"PackageChunkId": "2017dcd88112db6900000001",
+			"BulkDataChunkIds": [
+				"2017dcd88112db6900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Error_Buzz_02",
+			"PackageChunkId": "ac98f0eb1612e2a400000001",
+			"BulkDataChunkIds": [
+				"ac98f0eb1612e2a400000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Error_Buzz_01",
+			"PackageChunkId": "09655e7fe4a5c84500000001",
+			"BulkDataChunkIds": [
+				"09655e7fe4a5c84500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_08",
+			"PackageChunkId": "d9374ab23d07945800000001",
+			"BulkDataChunkIds": [
+				"d9374ab23d07945800000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_02",
+			"PackageChunkId": "903104f69c5d263600000001",
+			"BulkDataChunkIds": [
+				"903104f69c5d263600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Item_Sell_Purchase_01",
+			"PackageChunkId": "fa85857af9215ffa00000001",
+			"BulkDataChunkIds": [
+				"fa85857af9215ffa00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Gong_02",
+			"PackageChunkId": "a6e0bf066143fde600000001",
+			"BulkDataChunkIds": [
+				"a6e0bf066143fde600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Gong_01",
+			"PackageChunkId": "88539f97a9d63c2900000001",
+			"BulkDataChunkIds": [
+				"88539f97a9d63c2900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_10",
+			"PackageChunkId": "b02534f78da4a4a100000001",
+			"BulkDataChunkIds": [
+				"b02534f78da4a4a100000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_09",
+			"PackageChunkId": "4c013a6865df513300000001",
+			"BulkDataChunkIds": [
+				"4c013a6865df513300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_07",
+			"PackageChunkId": "403cadaee3c6f4fc00000001",
+			"BulkDataChunkIds": [
+				"403cadaee3c6f4fc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_06",
+			"PackageChunkId": "150ccfff0d893e0d00000001",
+			"BulkDataChunkIds": [
+				"150ccfff0d893e0d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_05",
+			"PackageChunkId": "65a038cab9c0abce00000001",
+			"BulkDataChunkIds": [
+				"65a038cab9c0abce00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_04",
+			"PackageChunkId": "1db5c2f322c279be00000001",
+			"BulkDataChunkIds": [
+				"1db5c2f322c279be00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_03",
+			"PackageChunkId": "419ed5d65a2761d100000001",
+			"BulkDataChunkIds": [
+				"419ed5d65a2761d100000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_02",
+			"PackageChunkId": "abbc2740e68f9d8c00000001",
+			"BulkDataChunkIds": [
+				"abbc2740e68f9d8c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Click_01",
+			"PackageChunkId": "8008888347dbcd6a00000001",
+			"BulkDataChunkIds": [
+				"8008888347dbcd6a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Futuristic_Alarm_01",
+			"PackageChunkId": "90d9a6819264b80600000001",
+			"BulkDataChunkIds": [
+				"90d9a6819264b80600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Flick_Switch_04",
+			"PackageChunkId": "27cc9f5fbf39cff500000001",
+			"BulkDataChunkIds": [
+				"27cc9f5fbf39cff500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Flick_Switch_03",
+			"PackageChunkId": "dffbd0bdb70b4ef100000001",
+			"BulkDataChunkIds": [
+				"dffbd0bdb70b4ef100000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Flick_Switch_02",
+			"PackageChunkId": "416801797d771feb00000001",
+			"BulkDataChunkIds": [
+				"416801797d771feb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Flick_Switch_01",
+			"PackageChunkId": "f6c758489120e75000000001",
+			"BulkDataChunkIds": [
+				"f6c758489120e75000000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Error_Buzz_04",
+			"PackageChunkId": "ee533470b19c3c5900000001",
+			"BulkDataChunkIds": [
+				"ee533470b19c3c5900000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Error_Buzz_03",
+			"PackageChunkId": "fbe2a234fe25da3400000001",
+			"BulkDataChunkIds": [
+				"fbe2a234fe25da3400000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_01",
+			"PackageChunkId": "cab42055adee4b3700000001",
+			"BulkDataChunkIds": [
+				"cab42055adee4b3700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Discordant_GameOver_Musical_Short",
+			"PackageChunkId": "4a45e79c727ab51500000001",
+			"BulkDataChunkIds": [
+				"4a45e79c727ab51500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_15",
+			"PackageChunkId": "53c8ed3d21d121a700000001",
+			"BulkDataChunkIds": [
+				"53c8ed3d21d121a700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_14",
+			"PackageChunkId": "eabd90f4a503db3c00000001",
+			"BulkDataChunkIds": [
+				"eabd90f4a503db3c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_13",
+			"PackageChunkId": "4216ded5c946a3cb00000001",
+			"BulkDataChunkIds": [
+				"4216ded5c946a3cb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_12",
+			"PackageChunkId": "d823069b3662be6b00000001",
+			"BulkDataChunkIds": [
+				"d823069b3662be6b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_11",
+			"PackageChunkId": "7e83cd434eccf99a00000001",
+			"BulkDataChunkIds": [
+				"7e83cd434eccf99a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_10",
+			"PackageChunkId": "854388dd377fe0ef00000001",
+			"BulkDataChunkIds": [
+				"854388dd377fe0ef00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_09",
+			"PackageChunkId": "4cd9d0e69c64ee6b00000001",
+			"BulkDataChunkIds": [
+				"4cd9d0e69c64ee6b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_08",
+			"PackageChunkId": "441b118ef819cde700000001",
+			"BulkDataChunkIds": [
+				"441b118ef819cde700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_07",
+			"PackageChunkId": "eceed99a12e2d63800000001",
+			"BulkDataChunkIds": [
+				"eceed99a12e2d63800000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_06",
+			"PackageChunkId": "4e70f6823158629500000001",
+			"BulkDataChunkIds": [
+				"4e70f6823158629500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_05",
+			"PackageChunkId": "a07a5edf2161073f00000001",
+			"BulkDataChunkIds": [
+				"a07a5edf2161073f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_04",
+			"PackageChunkId": "dd9d916503fc06b300000001",
+			"BulkDataChunkIds": [
+				"dd9d916503fc06b300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_03",
+			"PackageChunkId": "3b7a5c1e73dc3da600000001",
+			"BulkDataChunkIds": [
+				"3b7a5c1e73dc3da600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Coins_02",
+			"PackageChunkId": "49139ad916d703ed00000001",
+			"BulkDataChunkIds": [
+				"49139ad916d703ed00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Bar_Filling_01",
+			"PackageChunkId": "8f14d24c757a303000000001",
+			"BulkDataChunkIds": [
+				"8f14d24c757a303000000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_11",
+			"PackageChunkId": "a02f729b4643379300000001",
+			"BulkDataChunkIds": [
+				"a02f729b4643379300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_10",
+			"PackageChunkId": "d09d98d3c4258b2700000001",
+			"BulkDataChunkIds": [
+				"d09d98d3c4258b2700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_08",
+			"PackageChunkId": "57f133c8dc97d97d00000001",
+			"BulkDataChunkIds": [
+				"57f133c8dc97d97d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_07",
+			"PackageChunkId": "5b7d7d3b0a354edc00000001",
+			"BulkDataChunkIds": [
+				"5b7d7d3b0a354edc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_06",
+			"PackageChunkId": "af1132b9b59acc0300000001",
+			"BulkDataChunkIds": [
+				"af1132b9b59acc0300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_05",
+			"PackageChunkId": "f84af83053070e3500000001",
+			"BulkDataChunkIds": [
+				"f84af83053070e3500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_03",
+			"PackageChunkId": "adb8683689bd664e00000001",
+			"BulkDataChunkIds": [
+				"adb8683689bd664e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_02",
+			"PackageChunkId": "59a50d656a3f678c00000001",
+			"BulkDataChunkIds": [
+				"59a50d656a3f678c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Click_01",
+			"PackageChunkId": "fbdae9d17b82d83a00000001",
+			"BulkDataChunkIds": [
+				"fbdae9d17b82d83a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Cartoon_Falling_05",
+			"PackageChunkId": "0723cfc6778d83b700000001",
+			"BulkDataChunkIds": [
+				"0723cfc6778d83b700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Cartoon_Falling_04",
+			"PackageChunkId": "df01b89cd8de916e00000001",
+			"BulkDataChunkIds": [
+				"df01b89cd8de916e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Cartoon_Falling_03",
+			"PackageChunkId": "f88f8f942a47263b00000001",
+			"BulkDataChunkIds": [
+				"f88f8f942a47263b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Cartoon_Falling_02",
+			"PackageChunkId": "ec81a3cd63c4a63500000001",
+			"BulkDataChunkIds": [
+				"ec81a3cd63c4a63500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Cartoon_Falling_01",
+			"PackageChunkId": "7398ce2dcc66b9e300000001",
+			"BulkDataChunkIds": [
+				"7398ce2dcc66b9e300000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Bar_Filling_02",
+			"PackageChunkId": "841eb1c2c8f78aab00000001",
+			"BulkDataChunkIds": [
+				"841eb1c2c8f78aab00000002"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Sound/MusicMix",
+			"PackageChunkId": "38e8cd1e0027ab2000000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Sound/FXMix",
+			"PackageChunkId": "78b3b02af9c806ec00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Menus/Menu_Interactions",
+			"PackageChunkId": "d118e786ed7e28ad00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Menus/Menu_Controller",
+			"PackageChunkId": "2972278c179c16c400000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/SpawnEnemy",
+			"PackageChunkId": "3b4e8f5d5eca631400000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Enemies/Enemy",
+			"PackageChunkId": "3197eb89994b9b8700000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Defenses/Defense",
+			"PackageChunkId": "e24ce7543fb8bb0300000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Controllers/CameraPawn",
+			"PackageChunkId": "1a7b5e3c24788e7f00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Buildings/Building",
+			"PackageChunkId": "36dc47557ff55ecd00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Abstract_Pop_01",
+			"PackageChunkId": "369b6cece32aede500000001",
+			"BulkDataChunkIds": [
+				"369b6cece32aede500000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_11",
+			"PackageChunkId": "9dadeb4f20292e2800000001",
+			"BulkDataChunkIds": [
+				"9dadeb4f20292e2800000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_10",
+			"PackageChunkId": "f3ceec823a3c058800000001",
+			"BulkDataChunkIds": [
+				"f3ceec823a3c058800000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_09",
+			"PackageChunkId": "1bbb9c3898f353e700000001",
+			"BulkDataChunkIds": [
+				"1bbb9c3898f353e700000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_08",
+			"PackageChunkId": "f024cec40bd9120e00000001",
+			"BulkDataChunkIds": [
+				"f024cec40bd9120e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_07",
+			"PackageChunkId": "3441eec635cbae5600000001",
+			"BulkDataChunkIds": [
+				"3441eec635cbae5600000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_06",
+			"PackageChunkId": "586b5c8edd1bdbfc00000001",
+			"BulkDataChunkIds": [
+				"586b5c8edd1bdbfc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_05",
+			"PackageChunkId": "1a51c4921853aaa800000001",
+			"BulkDataChunkIds": [
+				"1a51c4921853aaa800000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_04",
+			"PackageChunkId": "1b3eaa68d3203bcc00000001",
+			"BulkDataChunkIds": [
+				"1b3eaa68d3203bcc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_03",
+			"PackageChunkId": "4bec5e8a94a196d000000001",
+			"BulkDataChunkIds": [
+				"4bec5e8a94a196d000000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Abstract_Pop_05",
+			"PackageChunkId": "79dced5ab278ccff00000001",
+			"BulkDataChunkIds": [
+				"79dced5ab278ccff00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Abstract_Pop_03",
+			"PackageChunkId": "21d23767bce2092400000001",
+			"BulkDataChunkIds": [
+				"21d23767bce2092400000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Abstract_Pop_02",
+			"PackageChunkId": "ee5a2a148fc452cf00000001",
+			"BulkDataChunkIds": [
+				"ee5a2a148fc452cf00000002"
+			]
 		},
 		{
 			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
 			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+			"PackageChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+			"PackageChunkId": "fd3456639b15286700000001"
 		},
 		{
 			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
@@ -4749,23 +7313,33 @@
 			"PackageChunkId": "3889933e64b3022c00000001"
 		},
 		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
-			"PackageChunkId": "497b4263fbd333c800000001"
+			"Name": "/Paper2D/PlaceholderTextures/FlatNormalMap",
+			"PackageChunkId": "94719bde6334f57200000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
-			"PackageChunkId": "6c3a98c4aa151a5300000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
-			"PackageChunkId": "ef400c1f3fd91f2a00000001"
-		},
-		{
-			"Name": "/DatasmithContent/Materials/Water/Textures/T_Water_LF_N",
-			"PackageChunkId": "01c2fca777d1b28900000001",
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_02",
+			"PackageChunkId": "93ffb3bdf917505100000001",
 			"BulkDataChunkIds": [
-				"01c2fca777d1b28900000002"
+				"93ffb3bdf917505100000002"
 			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Back_Click_01",
+			"PackageChunkId": "dc0876bf0c95a6ea00000001",
+			"BulkDataChunkIds": [
+				"dc0876bf0c95a6ea00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/WAV/Abstract_Pop_04",
+			"PackageChunkId": "04296eb9d038fac400000001",
+			"BulkDataChunkIds": [
+				"04296eb9d038fac400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
 		},
 		{
 			"Name": "/Engine/EngineSky/T_Sky_Blue",
@@ -4789,8 +7363,16 @@
 			]
 		},
 		{
-			"Name": "/Paper2D/PlaceholderTextures/FlatNormalMap",
-			"PackageChunkId": "94719bde6334f57200000001"
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"PackageChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"PackageChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"PackageChunkId": "ef400c1f3fd91f2a00000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/DefaultMaterial",
@@ -4817,6 +7399,10 @@
 			"PackageChunkId": "01192731cc2d0a3600000001"
 		},
 		{
+			"Name": "/Game/Models/Map/Landscape/Ground_Mat",
+			"PackageChunkId": "694381d839dc34d300000001"
+		},
+		{
 			"Name": "/Game/Models/Map/PaperWall",
 			"PackageChunkId": "8b6a2cc1d255304500000001"
 		},
@@ -4841,6 +7427,20 @@
 			"PackageChunkId": "38607bae79f163aa00000001"
 		},
 		{
+			"Name": "/DatasmithContent/Materials/Water/Textures/T_Water_LF_N",
+			"PackageChunkId": "01c2fca777d1b28900000001",
+			"BulkDataChunkIds": [
+				"01c2fca777d1b28900000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
 			"Name": "/Game/Models/Enemies/Candle/Wax_Inst",
 			"PackageChunkId": "bb7f45de903b4f5800000001"
 		},
@@ -4857,20 +7457,460 @@
 			"PackageChunkId": "248e1f406ed575ae00000001"
 		},
 		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_09_Cue",
+			"PackageChunkId": "9c3bc219806e8bd400000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue",
+			"PackageChunkId": "af3182928b2e2cd900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_07_Cue",
+			"PackageChunkId": "039421662432948100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_06_Cue",
+			"PackageChunkId": "4b3c932a1b2b265600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_05_Cue",
+			"PackageChunkId": "37bf25d240d2bf4800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_04_Cue",
+			"PackageChunkId": "3fdbe2123509da0700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue",
+			"PackageChunkId": "76c9eb1c7dc1ef3c00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue",
+			"PackageChunkId": "3676a33834f39a4d00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_01_Cue",
+			"PackageChunkId": "9aebc296ea7a443f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Musical_05_Cue",
+			"PackageChunkId": "b21d1876c75edd2900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Musical_04_Cue",
+			"PackageChunkId": "054ec564c9b9009700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Musical_03_Cue",
+			"PackageChunkId": "da318266a5a9ac4100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Musical_02_Cue",
+			"PackageChunkId": "3c6c0015e7939e7600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Musical_01_Cue",
+			"PackageChunkId": "43dc15a27a73357300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Ringtone_01_Cue",
+			"PackageChunkId": "f029ebea7b27818900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_10_Cue",
+			"PackageChunkId": "0239427aa4b2cb0200000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_08_Cue",
+			"PackageChunkId": "b13cd8519393f20a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_07_Cue",
+			"PackageChunkId": "90c99ad55952290e00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_06_Cue",
+			"PackageChunkId": "e2f0e70d9c2dc28100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_05_Cue",
+			"PackageChunkId": "bf1582678c55400f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_04_Cue",
+			"PackageChunkId": "9be58a063014331300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_03_Cue",
+			"PackageChunkId": "bc1d78602c20ab6300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_02_Cue",
+			"PackageChunkId": "2b8f6e2dc70788a400000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_01_Cue",
+			"PackageChunkId": "59072b90e17b491000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_10_Cue",
+			"PackageChunkId": "cca878bc0b33988500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_09_Cue",
+			"PackageChunkId": "cb55c6fddb31f32b00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_08_Cue",
+			"PackageChunkId": "65b356618232137c00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_07_Cue",
+			"PackageChunkId": "387a821b0fe659d100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_05_Cue",
+			"PackageChunkId": "82b6324fdd1c002400000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_04_Cue",
+			"PackageChunkId": "5581ed30b0e3c13500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_03_Cue",
+			"PackageChunkId": "2fcc9ba6bcdbc8a900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_02_Cue",
+			"PackageChunkId": "01d62403e6d82f1900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_01_Cue",
+			"PackageChunkId": "af51310254c0574a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_04_Cue",
+			"PackageChunkId": "e742a69eb56df36f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_03_Cue",
+			"PackageChunkId": "bd56680528c7518b00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_02_Cue",
+			"PackageChunkId": "5b096f3d35d64e6300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_01_Cue",
+			"PackageChunkId": "3f0733e324c5001100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Gong_03_Cue",
+			"PackageChunkId": "39f87056ff3cbb8a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Gong_02_Cue",
+			"PackageChunkId": "aefc4d829bc2122200000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Gong_01_Cue",
+			"PackageChunkId": "1a4fbc78fce99edd00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_10_Cue",
+			"PackageChunkId": "620c9353324404ee00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_09_Cue",
+			"PackageChunkId": "b1419010503368e600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_08_Cue",
+			"PackageChunkId": "e3c892f5bba70cbd00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_07_Cue",
+			"PackageChunkId": "dff4d2ff3bdc500f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_06_Cue",
+			"PackageChunkId": "e09cb261ad64e2ab00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_05_Cue",
+			"PackageChunkId": "f75bc275a1b0b7d600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue",
+			"PackageChunkId": "6a38db4604a7573f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_03_Cue",
+			"PackageChunkId": "74b64dbec23cbaa800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_02_Cue",
+			"PackageChunkId": "4fd60819333d94ae00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_01_Cue",
+			"PackageChunkId": "901850dc181e78e000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Alarm_01_Cue",
+			"PackageChunkId": "98ae739332b06a9300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Flick_Switch_04_Cue",
+			"PackageChunkId": "33cb8fa6c68b7a4d00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Flick_Switch_03_Cue",
+			"PackageChunkId": "7e6ac104dac1b75c00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Flick_Switch_02_Cue",
+			"PackageChunkId": "6fa9727b2b88618200000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Flick_Switch_01_Cue",
+			"PackageChunkId": "dd1e74bdc440ae4400000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Error_Buzz_04_Cue",
+			"PackageChunkId": "66b83de2162eece700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Error_Buzz_03_Cue",
+			"PackageChunkId": "51fcede5e56bf3ae00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Error_Buzz_02_Cue",
+			"PackageChunkId": "b0385ce3f85472d800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Error_Buzz_01_Cue",
+			"PackageChunkId": "f31e60a2c6fbdfe500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Discordant_GameOver_Musical_Short_Cue",
+			"PackageChunkId": "9666e81b6a7b5cba00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_15_Cue",
+			"PackageChunkId": "bdcdd681cfd17ffa00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_14_Cue",
+			"PackageChunkId": "4c3d4e3d2338e7d000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_13_Cue",
+			"PackageChunkId": "9b4b4037b35b82b200000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_12_Cue",
+			"PackageChunkId": "da3f086ff3642b1500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_11_Cue",
+			"PackageChunkId": "6ed42dec3597cc6f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_10_Cue",
+			"PackageChunkId": "7ca1ed1b4386428000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_09_Cue",
+			"PackageChunkId": "3c381672e94a8d2100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_08_Cue",
+			"PackageChunkId": "8ead62cf132923b200000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_07_Cue",
+			"PackageChunkId": "571d92fb84a52e1b00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_06_Cue",
+			"PackageChunkId": "b2807c2a2b31fd5300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_05_Cue",
+			"PackageChunkId": "610664bce468990700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_04_Cue",
+			"PackageChunkId": "e6cd03d63ff38a2d00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_03_Cue",
+			"PackageChunkId": "539bdee8233850c700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_02_Cue",
+			"PackageChunkId": "7d081e9e31df746d00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Coins_01_Cue",
+			"PackageChunkId": "e819e07d8a04b03000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_11_Cue",
+			"PackageChunkId": "666590c14e6c216f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_10_Cue",
+			"PackageChunkId": "8842839aa7292baa00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_08_Cue",
+			"PackageChunkId": "7f8c96b2c852fb7300000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_07_Cue",
+			"PackageChunkId": "68b3ad6acb9d1f5700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_06_Cue",
+			"PackageChunkId": "a112661dbc98657e00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_05_Cue",
+			"PackageChunkId": "e98d2185d9bdee9900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_03_Cue",
+			"PackageChunkId": "b21f58630bbed65a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_02_Cue",
+			"PackageChunkId": "30fb0b30b35c926100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_01_Cue",
+			"PackageChunkId": "5938cb8d0c7e487500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Cartoon_Falling_05_Cue",
+			"PackageChunkId": "3adf7922dff7d91e00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Cartoon_Falling_04_Cue",
+			"PackageChunkId": "0cf8ecd249c1fb3800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Cartoon_Falling_03_Cue",
+			"PackageChunkId": "b94246998da8608f00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Cartoon_Falling_02_Cue",
+			"PackageChunkId": "310e2d0418a51bfe00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Cartoon_Falling_01_Cue",
+			"PackageChunkId": "1578951bb714d9b600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Bar_Filling_02_Cue",
+			"PackageChunkId": "c57ac77f51ddeb3800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Bar_Filling_01_Cue",
+			"PackageChunkId": "3ac757c2f366dbcc00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_11_Cue",
+			"PackageChunkId": "be54c3100bb096a100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_10_Cue",
+			"PackageChunkId": "334ebb2a190a087700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_09_Cue",
+			"PackageChunkId": "be853136789fcf1500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_08_Cue",
+			"PackageChunkId": "28eda8b5a1efd8aa00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_07_Cue",
+			"PackageChunkId": "9650c8e93a69900b00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_06_Cue",
+			"PackageChunkId": "f86a133903f7f3fc00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_05_Cue",
+			"PackageChunkId": "fb09312df8d809b500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_04_Cue",
+			"PackageChunkId": "f3c06bd0cbcca64600000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_03_Cue",
+			"PackageChunkId": "1caac27be2b5139a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_02_Cue",
+			"PackageChunkId": "438116c337c351f000000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Back_Click_01_Cue",
+			"PackageChunkId": "e4da619e1a7d5d5900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Abstract_Pop_05_Cue",
+			"PackageChunkId": "f1f1add8565baef700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Abstract_Pop_04_Cue",
+			"PackageChunkId": "837b6926347dca4900000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Abstract_Pop_03_Cue",
+			"PackageChunkId": "203913a9eb7c07f500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Abstract_Pop_02_Cue",
+			"PackageChunkId": "1d9eb30dd3812ba100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Abstract_Pop_01_Cue",
+			"PackageChunkId": "6b2f95d6a7010cb700000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Tutorial",
+			"PackageChunkId": "7d9ef91e4533fa3900000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Test",
+			"PackageChunkId": "608b4555ee7259b700000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Lvl4_Spawn",
+			"PackageChunkId": "80176935b6d3312e00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Lvl3_Spawn",
+			"PackageChunkId": "a81ebaf48712387b00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Lvl2_Spawn",
+			"PackageChunkId": "56b3e3c893f43ab400000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Lvl11_Spawn",
+			"PackageChunkId": "27e6ffec6968923400000001"
+		},
+		{
 			"Name": "/Game/Blueprints/Controllers/TD_Controller",
 			"PackageChunkId": "b7dfa98c7cf32c6f00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Test",
-			"PackageChunkId": "39a9d92ab8d1b7b000000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Lvl2_Spawn",
-			"PackageChunkId": "94f027834135a2cc00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/Lvl1_Spawn",
-			"PackageChunkId": "6a3513d7a490700500000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
@@ -5009,8 +8049,8 @@
 			"PackageChunkId": "d31cf458faf4915200000001"
 		},
 		{
-			"Name": "/Engine/MapTemplates/SM_Template_Map_Floor",
-			"PackageChunkId": "15d0ea2c4d43c43c00000001"
+			"Name": "/Engine/EngineMeshes/Cube",
+			"PackageChunkId": "fa410045dee3a15800000001"
 		},
 		{
 			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
@@ -5291,6 +8331,18 @@
 		{
 			"Name": "/Game/Models/Enemies/Basic/Basic_Walk",
 			"PackageChunkId": "1d1b580e93368ddc00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/Tutorial",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Blueprints/Lvl2_Spawn",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Blueprints/LVLSpawn/Lvl1_Spawn",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Engine/EngineSky/SM_SkySphere",
@@ -6817,6 +9869,10 @@
 			"PackageChunkId": "2925796cddcc148c00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/Lvl1_Spawn",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
 			"Name": "/Engine/EngineSky/BP_Sky_Sphere",
 			"PackageChunkId": "cdbcbf4a06978c3b00000001"
 		},
@@ -6917,10 +9973,6 @@
 			"PackageChunkId": "fac6bce0797fed7b00000001"
 		},
 		{
-			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion",
-			"PackageChunkId": "ca6a23f29fa3c29100000001"
-		},
-		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
 			"PackageChunkId": "cadc4d0ec817b83400000001"
 		},
@@ -6931,6 +9983,272 @@
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
 			"PackageChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/SFX",
+			"PackageChunkId": "bef0db628e3856fc00000001"
+		},
+		{
+			"Name": "/Game/Music/Wheel_death",
+			"PackageChunkId": "4a10e4c41271663900000001",
+			"BulkDataChunkIds": [
+				"4a10e4c41271663900000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Error_Buzz_05",
+			"PackageChunkId": "b336407d5711bf9600000001",
+			"BulkDataChunkIds": [
+				"b336407d5711bf9600000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Enemy_hit",
+			"PackageChunkId": "9444e840facb463b00000001",
+			"BulkDataChunkIds": [
+				"9444e840facb463b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Throw_death",
+			"PackageChunkId": "f13136768837fd6d00000001",
+			"BulkDataChunkIds": [
+				"f13136768837fd6d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Throw",
+			"PackageChunkId": "84276f3bb049eb9c00000001",
+			"BulkDataChunkIds": [
+				"84276f3bb049eb9c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Special_Powerup_10",
+			"PackageChunkId": "2f014839a9cfeea300000001",
+			"BulkDataChunkIds": [
+				"2f014839a9cfeea300000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Shield_hit",
+			"PackageChunkId": "004e46939a75be2b00000001",
+			"BulkDataChunkIds": [
+				"004e46939a75be2b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Recuited",
+			"PackageChunkId": "9711b25ed85f489f00000001",
+			"BulkDataChunkIds": [
+				"9711b25ed85f489f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Pop_09",
+			"PackageChunkId": "86b170363d90534b00000001",
+			"BulkDataChunkIds": [
+				"86b170363d90534b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Musical_Click_06",
+			"PackageChunkId": "2ac0a58a882fa35400000001",
+			"BulkDataChunkIds": [
+				"2ac0a58a882fa35400000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Item_Sell_Purchase_05",
+			"PackageChunkId": "55a7a40d98ad643c00000001",
+			"BulkDataChunkIds": [
+				"55a7a40d98ad643c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Futuristic_Click_11",
+			"PackageChunkId": "6a579963b1971b4e00000001",
+			"BulkDataChunkIds": [
+				"6a579963b1971b4e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Flick_Switch_05",
+			"PackageChunkId": "33777bd3e78da18d00000001",
+			"BulkDataChunkIds": [
+				"33777bd3e78da18d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Fireman",
+			"PackageChunkId": "d0742fabc12f4ba100000001",
+			"BulkDataChunkIds": [
+				"d0742fabc12f4ba100000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Explosion",
+			"PackageChunkId": "580033d9e09e993200000001",
+			"BulkDataChunkIds": [
+				"580033d9e09e993200000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Experimental_field",
+			"PackageChunkId": "b7bbb1435859176200000001",
+			"BulkDataChunkIds": [
+				"b7bbb1435859176200000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue",
+			"PackageChunkId": "be0639584bfa694b00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Pop_09_Cue",
+			"PackageChunkId": "174d773ae7814e3100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Musical_Click_06_Cue",
+			"PackageChunkId": "2700a7d38e9d8eb700000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Item_Sell_Purchase_05_Cue",
+			"PackageChunkId": "76832251f1bf5a4600000001"
+		},
+		{
+			"Name": "/Game/Music/Archery",
+			"PackageChunkId": "2f7e8649f69d8c4100000001",
+			"BulkDataChunkIds": [
+				"2f7e8649f69d8c4100000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Defense_spawn",
+			"PackageChunkId": "5cc93b0a3b8cee0f00000001",
+			"BulkDataChunkIds": [
+				"5cc93b0a3b8cee0f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Defense_hit",
+			"PackageChunkId": "0e5e6a3ef1c5767100000001",
+			"BulkDataChunkIds": [
+				"0e5e6a3ef1c5767100000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Defense_death",
+			"PackageChunkId": "c7b1ba51d346f12600000001",
+			"BulkDataChunkIds": [
+				"c7b1ba51d346f12600000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Contruction_complete",
+			"PackageChunkId": "5ac0c37069f9f86d00000001",
+			"BulkDataChunkIds": [
+				"5ac0c37069f9f86d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Click_09",
+			"PackageChunkId": "7dd40928aab402df00000001",
+			"BulkDataChunkIds": [
+				"7dd40928aab402df00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Click_04",
+			"PackageChunkId": "98b503e8cc42974c00000001",
+			"BulkDataChunkIds": [
+				"98b503e8cc42974c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Change_zone",
+			"PackageChunkId": "7a7908d770a95efb00000001",
+			"BulkDataChunkIds": [
+				"7a7908d770a95efb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Candle_death",
+			"PackageChunkId": "595b1c80c8b9513e00000001",
+			"BulkDataChunkIds": [
+				"595b1c80c8b9513e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Bow",
+			"PackageChunkId": "05e9d66e735e264100000001",
+			"BulkDataChunkIds": [
+				"05e9d66e735e264100000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Basic_death",
+			"PackageChunkId": "ceeaf24099393d1c00000001",
+			"BulkDataChunkIds": [
+				"ceeaf24099393d1c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Barracks",
+			"PackageChunkId": "0e256ab373402d4d00000001",
+			"BulkDataChunkIds": [
+				"0e256ab373402d4d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Futuristic_Click_11_Cue",
+			"PackageChunkId": "300a03b12a7836f500000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Flick_Switch_05_Cue",
+			"PackageChunkId": "fc62ece8bc235ce000000001"
+		},
+		{
+			"Name": "/Game/Models/Defenses/Bomb/Explosion/Explosion",
+			"PackageChunkId": "ca6a23f29fa3c29100000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Error_Buzz_05_Cue",
+			"PackageChunkId": "744246e3e775849800000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_09_Cue",
+			"PackageChunkId": "64b4d5daf05c4f4a00000001"
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Click_04_Cue",
+			"PackageChunkId": "3f616cb53026348b00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Master",
+			"PackageChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Music",
+			"PackageChunkId": "0eb8023ee0c2921900000001"
+		},
+		{
+			"Name": "/Game/Music/Victory",
+			"PackageChunkId": "bf9e67789f5362c900000001",
+			"BulkDataChunkIds": [
+				"bf9e67789f5362c900000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Intro",
+			"PackageChunkId": "a297f211ff4c48ac00000001",
+			"BulkDataChunkIds": [
+				"a297f211ff4c48ac00000002"
+			]
+		},
+		{
+			"Name": "/Game/Interface_And_Item_Sounds/Cues/Discordant_GameOver_Musical_Long_Cue",
+			"PackageChunkId": "0bbdccf74bc5c70500000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Menus/LevelSelection_Menu",
@@ -7009,6 +10327,20 @@
 			"PackageChunkId": "0fc824c209a5588d00000001"
 		},
 		{
+			"Name": "/Game/Music/Game",
+			"PackageChunkId": "6bb56080e62507f500000001",
+			"BulkDataChunkIds": [
+				"6bb56080e62507f500000002"
+			]
+		},
+		{
+			"Name": "/Game/Music/Discordant_GameOver_Musical_Long",
+			"PackageChunkId": "609bd3e42e549f5900000001",
+			"BulkDataChunkIds": [
+				"609bd3e42e549f5900000002"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/GameManager",
 			"PackageChunkId": "d49677075519279600000001"
 		},
@@ -7017,12 +10349,16 @@
 			"PackageChunkId": "be0ea2d31e243de200000001"
 		},
 		{
-			"Name": "/Game/Blueprints/LvlComponents/Ground",
-			"PackageChunkId": "3ec11f19bd8cb47f00000001"
+			"Name": "/Game/Blueprints/LvlComponents/Landscape",
+			"PackageChunkId": "0a31aad75ef6f6ec00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Buildings/BP_BuildMoneyMaker",
 			"PackageChunkId": "617018f0310dadbe00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LvlComponents/NewActorComponent",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Game/Blueprints/Buildings/TypeBuildingsData",
@@ -7037,16 +10373,12 @@
 			"PackageChunkId": "6d685c911146ea6700000001"
 		},
 		{
-			"Name": "/Game/Blueprints/UI/WP_VillageHUD",
-			"PackageChunkId": "b312a5f62cb6c5fb00000001"
+			"Name": "/Game/Blueprints/UI/WP_PauseMenu",
+			"PackageChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/UI/WP_HUDManager",
 			"PackageChunkId": "b67c9738737597fc00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/UI/WP_PauseMenu",
-			"PackageChunkId": "57467f2efa536f5b00000001"
 		},
 		{
 			"Name": "/Game/Blueprints/Grids/BP_ConstructionCell",
@@ -7105,16 +10437,30 @@
 			"PackageChunkId": "51e4cd551f7d65ab00000001"
 		},
 		{
+			"Name": "/Game/Blueprints/BP_Spawner",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Blueprints/UI/WP_VillageHUD",
+			"PackageChunkId": "b312a5f62cb6c5fb00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/UI/WP_Tutorial",
+			"PackageChunkId": "440e7d9f045cc09800000001"
+		},
+		{
 			"Name": "/Game/Levels/Level2",
-			"PackageChunkId": "101fd7303f3f1fdb00000001"
+			"PackageChunkId": "101fd7303f3f1fdb00000001",
+			"BulkDataChunkIds": [
+				"101fd7303f3f1fdb00000002"
+			]
 		},
 		{
 			"Name": "/Game/Levels/Level1",
-			"PackageChunkId": "182ea576bf73401500000001"
-		},
-		{
-			"Name": "/Game/Blueprints/BP_Spawner",
-			"PackageChunkId": "000000000000000000000000"
+			"PackageChunkId": "182ea576bf73401500000001",
+			"BulkDataChunkIds": [
+				"182ea576bf73401500000002"
+			]
 		},
 		{
 			"Name": "/Engine/EditorResources/EmptyActor",
@@ -7123,6 +10469,27 @@
 		{
 			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
 			"PackageChunkId": "6ed73496191bba2800000001"
+		},
+		{
+			"Name": "/Game/Levels/Tutorial",
+			"PackageChunkId": "fee6cb0914488d3800000001",
+			"BulkDataChunkIds": [
+				"fee6cb0914488d3800000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Level4",
+			"PackageChunkId": "f42e75f30be2ab1000000001",
+			"BulkDataChunkIds": [
+				"f42e75f30be2ab1000000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Level3",
+			"PackageChunkId": "fc466a1d0e07858500000001",
+			"BulkDataChunkIds": [
+				"fc466a1d0e07858500000002"
+			]
 		}
 	],
 	"OptionalPackages": []
